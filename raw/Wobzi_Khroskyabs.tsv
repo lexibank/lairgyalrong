@@ -1,0 +1,250 @@
+ID	CONCEPT	CHINESE	GLOSS_IN_SOURCE	VALUE	FORM	TOKENS	MORPHEME_STRUCTURE	BORROWING	SAGART_ID	NOTE	COGID
+31551	GLOSS			YOUR LANGUAGE HERE	YOUR LANGUAGE HERE	Y O U R _ L A N G U A G E _ H E R E			31551	NOTES	0
+31651	I [first person singular]			ŋô	ŋô	ŋ ô			31651		327
+31552	above			tʰɑ	tʰɑ	tʰ ɑ			31552		49
+31553	all			pâ	pâ	p â			31553		5037
+31556	bad			mə-tsʰâ	mə-tsʰâ	m ə + tsʰ â			31556		3733
+31561	below, under			vi	vi	v i			31561		396
+31562	big			qʰrɑ́	qʰrɑ́	qʰ r ɑ́			31562		3734
+31565	black			ɲá	ɲá	ɲ á			31565		511
+31577	cold (of temperature)			rkʰô	rkʰô	r kʰ ô			31577		1384
+31579	correct (right)			vɟê	vɟê	v ɟ ê			31579		5042
+31582	dark			ʁnî	ʁnî	ʁ n î			31582		1363
+31587	dirty			lqʰǽl	lqʰǽl	l qʰ ǽ l			31587		1104
+31591	dry			zbî	zbî	z b î			31591		1199
+31594	early			nvsê	nvsê	n v s ê			31594		991
+31599	eight			vjɑ́	vjɑ́	v j ɑ́			31599		183
+31601	far			rɑ́ŋ	rɑ́ŋ	r ɑ́ ŋ		tib thag ring mo	31601		549
+31606	firewood			sê	sê	s ê			31606		6006
+31608	five			mŋɑ́	mŋɑ́	m ŋ ɑ́			31608		10357
+31618	four			vdə́	vdə́	v d ə́			31618		263
+31624	full			fsǽ	fsǽ	f s ǽ			31624		1357
+31627	good			tsʰâ	tsʰâ	tsʰ â			31627		3751
+31629	green			rŋə̂	rŋə̂	r ŋ ə̂			31629		1098
+31633	hard			rɣê	rɣê	r ɣ ê			31633		341
+31634	he or she [third person singular]			cə̂	cə̂	c ə̂			31634	cə̂ (proximal); ætə̂ (distal)	3121
+31638	heavy			rdə̂	rdə̂	r d ə̂			31638		10379
+31639	here			cə̂gə	cə̂gə	c ə̂ g ə			31639	gə 'inside'	5067
+31641	high / tall			æ-brê	æ-brê	æ + b r ê			31641		896
+31646	hot			skí	skí	s k í			31646		4221
+31648	hundred			rjî	rjî	r j î			31648		185
+31653	inside			gə	gə	g ə			31653		626
+31657	knife			bərzé	bərzé	b ə rz é			31657		3645
+31660	late			vlé	vlé	v l é			31660		1132
+31664	left			skəcú	skəcú	s k ə c ú			31664		3756
+31667	light (of weight)			jnjæ̂i	jnjæ̂i	j n j æ̂ i			31667		10542
+31670	long			srɑ̂ɣ	srɑ̂ɣ	s r ɑ̂ ɣ			31670		547
+31674	many			vɟæχtsə̂	vɟæχtsə̂	v ɟ æ χ ts ə̂			31674		3758
+31677	middle			χcə̂l	χcə̂l	χ c ə̂ l		tib[dkʲil]	31677		205
+31679	morning			nɑ̂rifse	nɑ̂rifse	n ɑ̂ r i f s e			31679		2266
+31688	narrow			ʁrô	ʁrô	ʁ r ô			31688		3763
+31689	near			kə-ntʰâ	kə-ntʰâ	k ə + n tʰ â		tib[thag] (yunfan 15/02/19)	31689		1355
+31692	new			çsæ̂rpɑ	çsæ̂rpɑ	ç s æ̂ r p ɑ		tib[gsar.pa]	31692		23
+31693	nine			ŋgə̂	ŋgə̂	ŋ g ə̂			31693		24
+31695	noon			mtsæ̂r	mtsæ̂r	m ts æ̂ r			31695		3764
+31697	old (of person)			dɑ́r	dɑ́r	d ɑ́ r		Tib[dar]	31697		2051
+31698	one			rɑ̂ɣ	rɑ̂ɣ	r ɑ̂ ɣ			31698		302
+31700	outside			bjǽ	bjǽ	b j ǽ			31700		3765
+31708	red			mnə̂ɣ	mnə̂ɣ	m n ə̂ ɣ			31708		1306
+31711	right			scʰicʰî	scʰicʰî	s cʰ i cʰ î			31711		920
+31716	round			χtə̂m	χtə̂m	χ t ə̂ m			31716		3770
+31719	salty			tsʰrə́	tsʰrə́	tsʰ r ə́			31719		1006
+31725	seven			sɲê	sɲê	s ɲ ê			31725		55
+31726	sharp			zɑ́ɣ	zɑ́ɣ	z ɑ́ ɣ			31726		3773
+31729	short			çtə̂	çtə̂	ç t ə̂			31729		972
+31731	shy			mbə̂m	mbə̂m	m b ə̂ m			31731		5096
+31734	six			ftɕú	ftɕú	f tɕ ú			31734		306
+31738	small			lŋá	lŋá	l ŋ á			31738		3776
+31741	smooth			vlɑ́ɣ	vlɑ́ɣ	v l ɑ́ ɣ			31741		876
+31744	soft			ndʑǽm	ndʑǽm	n dʑ ǽ m		tib[ɴdʑam]	31744		573
+31754	straight			stû	stû	s t û			31754		983
+31757	ten			sjə̂	sjə̂	s j ə̂			31757		364
+31758	that			ætə̂	ætə̂	æ t ə̂			31758		5104
+31554	the ant			skʰrɑ̂ɣ	skʰrɑ̂ɣ	s kʰ r ɑ̂ ɣ			31554		2954
+31555	the armpit			pjaqǽivi	pjaqǽivi	p j a q ǽ i v i			31555		3172
+31557	the bamboo			ʁjû	ʁjû	ʁ j û			31557		821
+31558	the barley (tibetan or highland)			ɕə̂	ɕə̂	ɕ ə̂			31558		3250
+31560	the belly			jdû	jdû	j d û			31560		370
+31563	the bird			jmbjə̂mpɑ	jmbjə̂mpɑ	j m b j ə̂ m p ɑ			31563		3735
+31566	the blood			sə̂	sə̂	s ə̂			31566		29703
+31568	the body hair (hair or fur)			smɑ̂ɣ	smɑ̂ɣ	s m ɑ̂ ɣ			31568		3737
+31569	the bone			ɕɑrə́	ɕɑrə́	ɕ ɑ r ə́			31569		2
+31570	the branch			jælgɑ́	jælgɑ́	j æ l g ɑ́		tib	31570		10265
+31571	the breast (female)			nənə̂	nənə̂	n ə n ə̂			31571		10186
+31575	the child (young human)			ɲadí	ɲadí	ɲ a d í			31575		3110
+31576	the cloud			zdə̂m	zdə̂m	z d ə̂ m			31576		927
+31583	the daughter			məlé	məlé	m ə l é			31583		746
+31584	the dew			rdzədó	rdzədó	r dz ə d ó			31584		10257
+31588	the dog			kətɑ́	kətɑ́	k ə t ɑ́			31588		2065
+31589	the dream			rməlǽm	rməlǽm	r m ə l ǽ m		Tibetan[rmi.lam]	31589		10555
+31592	the dust			χpʰjí	χpʰjí	χ pʰ j í			31592		3741
+31593	the ear			ɲû	ɲû	ɲ û			31593		32
+31595	the earth (soil)			ndɑmbâ	ndɑmbâ	n d ɑ m b â		tib 'dam.pa	31595		3742
+31596	the earthworm			mɲɑlɑ̂bədʑo	mɲɑlɑ̂bədʑo	m ɲ ɑ l ɑ̂ b ə dʑ o			31596		3743
+31598	the egg			stʰɑ́ɣ	stʰɑ́ɣ	s tʰ ɑ́ ɣ			31598		3744
+31600	the eye			mɑ̂ɣ	mɑ̂ɣ	m ɑ̂ ɣ			31600		4
+31602	the father			æ̂pɑ	æ̂pɑ	æ̂ p ɑ			31602		107
+31603	the feather			bjævə̂l	bjævə̂l	b j æ v ə̂ l			31603		3745
+31605	the fire			ʁmə̂	ʁmə̂	ʁ m ə̂			31605		1746
+31607	the fish			ʁdojú	ʁdojú	ʁ d o j ú			31607		804
+31609	the flea			sə́	sə́	s ə́			31609		1747
+31612	the flower			metâ	metâ	m e t â		tib[me.tog]	31612		248
+31614	the fog			zdə̂mɲa	zdə̂mɲa	z d ə̂ m ɲ a			31614	black cloud	668
+31615	the foot			gɑ́v	gɑ́v	g ɑ́ v			31615		3305
+31616	the forest			sæpʰô	sæpʰô	s æ pʰ ô			31616		683
+31619	the fox			ʁɟɥæ̂	ʁɟɥæ̂	ʁ ɟ ɥ æ̂			31619		2312
+31620	the frog			χpæɲɟæ̂r	χpæɲɟæ̂r	χ p æ ɲ ɟ æ̂ r			31620		145
+31621	the front (front side)			dʑəgó	dʑəgó	dʑ ə g ó			31621		171
+31622	the frost			vî	vî	v î			31622		97
+31623	the fruit			ɕɑ̂ŋtʊŋ	ɕɑ̂ŋtʊŋ	ɕ ɑ̂ ŋ t ʊ ŋ		Tibetan[ɕiŋ tog]	31623		817
+31626	the goat			tsʰǽ	tsʰǽ	tsʰ ǽ			31626		774
+31628	the grass			χɕí	χɕí	χ ɕ í			31628		1361
+31630	the hail			lmə́ɣ	lmə́ɣ	l m ə́ ɣ			31630		1166
+31631	the hair (of the head)			ʁɑrmə̂	ʁɑrmə̂	ʁ ɑ r m ə̂			31631		2014
+31632	the hand			jɑ́ɣ	jɑ́ɣ	j ɑ́ ɣ			31632		229
+31635	the head			ʁû	ʁû	ʁ û			31635		1426
+31637	the heart			sjɑ́r	sjɑ́r	s j ɑ́ r			31637		3753
+31643	the hoof			fkɑ̂dʑə	fkɑ̂dʑə	q ɑ̂ dʐ ə			31643		2609
+31644	the horn (keratinized skin)			rə̂	rə̂	r ə̂		tib ru	31644		312
+31645	the horse			bró	bró	b r ó			31645		3151
+31647	the house			jə̂m	jə̂m	j ə̂ m			31647		209
+31650	the husband			vɟú	vɟú	v ɟ ú			31650	man	1938
+31652	the ice			rpʰə́m	rpʰə́m	r pʰ ə́ m			31652		1169
+31656	the knee			rŋí	rŋí	r ŋ í			31656		1193
+31659	the lake			mtsʰû	mtsʰû	m tsʰ û		tib[mtsʰo]	31659		387
+31662	the leaf			lpʰacʰɑ́	lpʰacʰɑ́	l pʰ a cʰ ɑ́			31662		881
+31668	the lip (the lips)			mtɕʰə́	mtɕʰə́	m tɕʰ ə́		tib[mtɕʰu]	31668	mouth	10522
+31669	the liver			fsé	fsé	f s é			31669		2076
+31671	the louse			ɕɑ́ɣ	ɕɑ́ɣ	ɕ ɑ́ ɣ		tib[shig] (yunfan 15/02/19)	31671		2077
+31672	the lung			rtsʰǽ	rtsʰǽ	r tsʰ ǽ			31672		716
+31673	the man (male human)			vɟú	vɟú	v ɟ ú			31673		3137
+31676	the meat			srú	srú	s r ú			31676		3936
+31678	the moon			snɑɣlî	snɑɣlî	s n ɑ ɣ l î			31678		2081
+31680	the mosquito			jvɑzɑ́	jvɑzɑ́	j v ɑ z ɑ́			31680		2689
+31681	the mother			æ̂mɑ	æ̂mɑ	æ̂ m ɑ			31681		143
+31682	the mountain			pʰɑ́	pʰɑ́	pʰ ɑ́			31682		673
+31683	the mouse or rat			fcə̂	fcə̂	f c ə̂			31683		10424
+31684	the mouth			mtɕʰə́	mtɕʰə́	m tɕʰ ə́		Tib[mtɕʰu]	31684		3761
+31685	the mud			ʁɲô	ʁɲô	ʁ ɲ ô			31685		3762
+31686	the nail (fingernail or claw)			rdzé	rdzé	r dz é			31686		1194
+31687	the name			rmê	rmê	r m ê			31687		18
+31690	the neck			fqə̂	fqə̂	f q ə̂			31690		695
+31691	the needle (for sewing)			ʁɑ̂v	ʁɑ̂v	ʁ ɑ̂ v			31691		10231
+31694	the nit			srə́	srə́	s r ə́			31694		190
+31696	the nose			snæ̂	snæ̂	s n æ̂			31696		2090
+31699	the otter			sræ̂m	sræ̂m	s r æ̂ m		tib	31699		1290
+31701	the pig			pʰɑ̂ɣ	pʰɑ̂ɣ	pʰ ɑ̂ ɣ		tib[pʰag]? (could be a native word, yunfan 19/02/19)	31701		2092
+31706	the rain			mə̂	mə̂	m ə̂			31706		1164
+31707	the rainbow			ndʑɑ̂	ndʑɑ̂	n dʑ ɑ̂		Tibetan[ɴdʑa]	31707		94
+31712	the river			jdə̂	jdə̂	j d ə̂			31712		2346
+31713	the road			tɕʰî	tɕʰî	tɕʰ î			31713		1175
+31714	the root			srə́m	srə́m	s r ə́ m			31714		225
+31715	the rope			bré	bré	b r é			31715		10164
+31718	the salt			tsʰí	tsʰí	tsʰ í		tib[tsʰʷa] (yunfan 15/02/19)	31718		4160
+31720	the sand			rɟaqrá	rɟaqrá	r ɟ a q r á			31720		212
+31722	the sea			rɟɑ̂mtsʰu	rɟɑ̂mtsʰu	r ɟ ɑ̂ m tsʰ u		tib[rgʲa.mtsʰo]	31722		3122
+31724	the seed			rvə́	rvə́	r v ə́			31724		4165
+31727	the sheep			ʁjê	ʁjê	ʁ j ê			31727		342
+31800	the shit			scáχpɑ	scáχpɑ	s c á χ p ɑ		tib skʲag.pa	31800		544
+31730	the shoulder			lvɑ́ɣ	lvɑ́ɣ	l v ɑ́ ɣ			31730		13
+31732	the sickle			rjæzǽ	rjæzǽ	r j æ z ǽ			31732		5126
+31735	the skin			dʑədʑɑ̂	dʑədʑɑ̂	dʑ ə dʑ ɑ̂			31735		2473
+31736	the sky			mə̂rgo	mə̂rgo	m ə̂ r g o			31736		499
+31740	the smoke			mkʰə́	mkʰə́	m kʰ ə́			31740		68
+31742	the snake			bə̂rə	bə̂rə	b ə̂ r ə			31742		70
+31743	the snow			kʰɑvɑ̂	kʰɑvɑ̂	kʰ ɑ v ɑ̂		Tibetan[kʰa.ba]	31743		131
+31745	the son			zî	zî	z î			31745		73
+31746	the sparrow			pjizí	pjizí	p j i z í			31746		3599
+31747	the spider			qʰæsɲá	qʰæsɲá	qʰ æ s ɲ á			31747		1756
+31750	the star			zgrə̂	zgrə̂	z g r ə̂			31750		1073
+31752	the stick			lɑɣlɑ̂ɣ	lɑɣlɑ̂ɣ	l ɑ ɣ l ɑ̂ ɣ			31752		3779
+31753	the stone (a piece of)			rgəmé	rgəmé	r g ə m é			31753		3598
+31755	the sun			jnə́	jnə́	j n ə́			31755		83
+31756	the tail			rŋɑmɑ̂	rŋɑmɑ̂	r ŋ ɑ m ɑ̂		Tibetan[rŋa.ma]	31756		914
+31761	the thigh			lpʰəlá	lpʰəlá	l pʰ ə l á			31761		3781
+31768	the thunder			zgrê	zgrê	z g r ê			31768		3168
+31769	the tiger			stâ	stâ	s t â		tib[stag]	31769		1105
+31772	the tongue			sɲí	sɲí	s ɲ í			31772		3784
+31773	the tooth (front)			fɕî	fɕî	fɕ î			31773	or ɕɥî	10482
+31774	the tree			sæpʰô	sæpʰô	s æ pʰ ô			31774		3396
+31779	the water			jdə̂	jdə̂	j d ə̂			31779		2787
+31783	the wheat			ʁjə̂	ʁjə̂	ʁ j ə̂			31783		3234
+31787	the wife			rjɑ́v	rjɑ́v	r j ɑ́ v			31787		2935
+31788	the wind			χpə̂rju	χpə̂rju	χ p ə̂ r j u			31788		3394
+31789	the wing			spʰjǽv	spʰjǽv	s pʰ j ǽ v			31789		3786
+31791	the wolf			spjʊ̂ŋkəɣ	spjʊ̂ŋkəɣ	s p j ʊ̂ ŋ k ə ɣ		tib[spʲaŋ.khu]	31791		741
+31792	the woman			məlé	məlé	m ə l é			31792		29768
+31793	the wood (material)			sê	sê	s ê			31793		8175
+31795	the year			djú	djú	d j ú			31795		4196
+31759	there			ætə̂gə	ætə̂gə	æ t ə̂ g ə			31759		5105
+31760	thick			jnjɑ̂ɣ	jnjɑ̂ɣ	j n j ɑ̂ ɣ			31760		977
+31762	thin (object)			ʁɴjí	ʁɴjí	ʁ ɴ j í			31762		3782
+31764	this			cə̂	cə̂	c ə̂			31764		5107
+31765	thou [second person singular]			nû	nû	n û			31765		10475
+31766	three			çsə̂m	çsə̂m	ç s ə̂ m			31766		283
+31559	to be alive			çsû	çsû	ç s û			31559		280
+31564	to bite			nrcʰɑ́	nrcʰɑ́	n r cʰ ɑ́			31564		1933
+31567	to blow (of wind)			χpə̂rju vî	χpə̂rju vî	χ p ə̂ r j u _ v î			31567	χpə̂rju 'wind', vî 'to do'	3736
+31572	to burn [intransitive]			nɑ̂r	nɑ̂r	n ɑ̂ r			31572		3619
+31573	to buy			jdə̂	jdə̂	j d ə̂			31573		2333
+31574	to chew			χtɕâχtɕa	χtɕâχtɕa	χ tɕ â χ tɕ a			31574		2742
+31578	to come			vjî	vjî	v j î			31578		759
+31580	to count			çsə̂r	çsə̂r	ç s ə̂ r			31580		3738
+31581	to cry (weep)			ʁbə̂	ʁbə̂	ʁ b ə̂			31581		3086
+31585	to die			sə̂	sə̂	s ə̂			31585		163
+31586	to dig			vlâ	vlâ	v l â			31586		3223
+31590	to drink			tʰê	tʰê	tʰ ê			31590		2416
+31597	to eat			dzî	dzî	dz î			31597		3419
+31604	to fight			χtsʰətsʰə̂	χtsʰətsʰə̂	χ tsʰ ə tsʰ ə̂			31604		3746
+31610	to float			|æ-rgé|	|æ-rgé|	æ + r g é			31610	perfective form of rgê 'to lift sth.'	3747
+31611	to flow			|æ-rgé|	|æ-rgé|	æ + r g é			31611	perfective form of rgê 'to lift sth.'	3748
+31613	to fly (move through air)			jmbjə̂m	jmbjə̂m	j m b j ə̂ m			31613		10206
+31617	to forget			lmə̂	lmə̂	l m ə̂			31617		1575
+31625	to give			kʰɑ̂	kʰɑ̂	kʰ ɑ̂			31625		2125
+31636	to hear			smê	smê	s m ê			31636		3752
+31640	to hide (conceal)			spî	spî	s p î			31640		10246
+31642	to hold			ndʑê	ndʑê	n dʑ ê			31642		3754
+31649	to hunt			rŋɑ́	rŋɑ́	r ŋ ɑ́			31649	non borrowed from tib	1455
+31654	to kill			sɑ̂	sɑ̂	s ɑ̂			31654		3125
+31655	to knead			lnê	lnê	l n ê			31655		4197
+31658	to know (something)			tsʰé	tsʰé	tsʰ é			31658		3755
+31661	to laugh			qʰǽ	qʰǽ	qʰ ǽ			31661		2598
+31663	to learn			ndzé	ndzé	n dz é			31663		2623
+31665	to lick			njá	njá	n j á			31665		10251
+31666	to lie down			jə́v	jə́v	j ə́ v			31666		3291
+31675	to marry (a man marries a woman)			ɲɑvɑ̂ vî	ɲɑvɑ̂ vî	ɲ ɑ v ɑ̂ _ v î			31675		3759
+31702	to plant (vegetals, rice)			jê	jê	j ê			31702		722
+31703	to play			mbjavlâ	mbjavlâ	m b j a v l â			31703		3766
+31704	to pull			rɕə̂	rɕə̂	rɕ ə̂			31704		2354
+31705	to push			nskʰɑ́ɣ	nskʰɑ́ɣ	n s kʰ ɑ́ ɣ			31705	separation of n and s (yunfan 15/02/19)	3767
+31709	to reside (live)			rjê	rjê	r j ê			31709		3769
+31717	to run			tʂʰʊ́ŋ lǽ	tʂʰʊ́ŋ lǽ	tʂʰ ʊ́ ŋ _ l ǽ			31717		3771
+31721	to scratch			nsprɑɣvɑ́ɣ	nsprɑɣvɑ́ɣ	n s p r ɑ ɣ v ɑ́ ɣ			31721		2403
+31723	to see			vdê	vdê	v d ê			31723		2472
+31728	to shoot (an arrow)			lǽ	lǽ	l ǽ			31728		2933
+31733	to sing			tʂʰɑŋkó vî	tʂʰɑŋkó vî	tʂʰ ɑ ŋ k ó _ v î		ch	31733		3774
+31737	to sleep			sŋə̂	sŋə̂	s ŋ ə̂			31737		3775
+31739	to smell (perceive odor) [transitive]			smê	smê	s m ê			31739		10548
+31794	to sow (broadcast, scatter seeds)			tɕʰæ̂lɑɣ	tɕʰæ̂lɑɣ	tɕʰ æ̂ l ɑ ɣ			31794		3788
+31748	to spit			stʰú ɲcô	stʰú ɲcô	s tʰ ú _ ɲ c ô			31748	stʰú 'saliva'; ɲcô 'to throw'	3777
+31749	to stand			tɕʰə̂rɑ	tɕʰə̂rɑ	tɕʰ ə̂ r ɑ			31749		3778
+31751	to steal			fkə̂	fkə̂	f k ə̂			31751		10464
+31763	to think (reflect)			ntsʰə̂	ntsʰə̂	n tsʰ ə̂			31763		1903
+31767	to throw			ɲcô	ɲcô	ɲ c ô			31767		3783
+31777	to vomit			mpʰælʁá	mpʰælʁá	m pʰ æ l ʁ á			31777		736
+31778	to walk			ftɕʰî	ftɕʰî	f tɕʰ î			31778		3785
+31790	to wipe			pjæ̂	pjæ̂	p j æ̂			31790		3787
+31770	today			snə̂	snə̂	s n ə̂			31770		10511
+31771	tomorrow			fsəsê	fsəsê	f s ə s ê			31771		2832
+31775	twenty			nɑ̂sə	nɑ̂sə	n ɑ̂ s ə			31775		2812
+31776	two			jnæ̂	jnæ̂	j n æ̂			31776		102
+31780	we [first person plural inclusive]			ŋgəɲɟî	ŋgəɲɟî	ŋ g ə ɲ ɟ î			31780		5113
+31781	wet			lú	lú	l ú			31781		2479
+31782	what			tʰjê	tʰjê	tʰ j ê			31782		5949
+31784	where			ŋə̂lɑ	ŋə̂lɑ	ŋ ə̂ l ɑ			31784		2903
+31785	white			pʰrə̂m	pʰrə̂m	pʰ r ə̂ m			31785		10173
+31786	who			sə̂	sə̂	s ə̂			31786		2253
+31796	yellow			ʁrjə̂ɣ	ʁrjə̂ɣ	ʁ r j ə̂ ɣ			31796		3789
+31797	yesterday			snə́ɣ	snə́ɣ	s n ə́ ɣ			31797		3790
+31798	you [second person plural]			nə̂ɲɟi	nə̂ɲɟi	n ə̂ ɲ ɟ i			31798		3007
+31799	young			fɕîze	fɕîze	fɕ îz e			31799		3112
