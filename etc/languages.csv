@@ -1,8 +1,21 @@
-Number,ID,Name_in_Text,Name_in_Source,SubGroup,Name,Coverage,Glottocode,Longitude,Latitude,Source
-4,Bantawa,Bantawa,Bantawa,Kiranti,Kiranti_Bantawa,195,bant1281,87.049995,27.117894,Jongens2009
-12,Daofu,Daofu,Daofu,rGyalrong,rGyalrong_Daofu,223,horp1240,101.123742,30.975281,Huang1992
-19,Japhug,Japhug,Japhug,rGyalrong,rGyalrong_Japhug,225,japh1234,101.957636,32.207076,Jacques2015b
-38,Tangut,Tangut,Tangut,Tangut,Tangut,236,tang1334,106.285383,38.477453,Li1997
-45,WobziKhroskyabs,Wobzi Khroskyabs,Wobzi_Khroskyabs,rGyalrong,Khroskyabs_Wobzi,224,eree1240,101.427999,31.62758,Lai2017
-49,Zhaba,Zhaba,Zhaba_Daofu_County,Qiangic,Qiangic_Zhaba,224,zhab1238,101.058397,30.538892,Huang1992
-50,MaerkangrGyalrong,Maerkang rGyalrong,rGyalrong_Maerkang,rGyalrong,rGyalrong_Maerkang,225,situ1238,102.295293,31.868614,Huang1992
+Number,ID,Name_in_Text,Name_in_Source,SubGroup,Name,Coverage,Glottocode,Longitude,Latitude,Source,Filename
+1,Bantawa,Bantawa,Bantawa,Kiranti,Kiranti_Bantawa,195,bant1281,87.049995,27.117894,Jongens2009,Bantawa.tsv
+2,Daofu,Daofu,Daofu,rGyalrongic,rGyalrong_Daofu,223,horp1240,101.123742,30.975281,Huang1992,Daofu.tsv
+3,Japhug,Japhug,Japhug,rGyalrongic,rGyalrong_Japhug,225,japh1234,101.957636,32.207076,Jacques2015b,Japhug.tsv
+4,Tangut,Tangut,Tangut,Tangut,Tangut,236,tang1334,106.285383,38.477453,Li1997,Tangut.tsv
+5,WobziKhroskyabs,Wobzi Khroskyabs,Wobzi_Khroskyabs,rGyalrongic,Khroskyabs_Wobzi,224,eree1240,101.427999,31.62758,Lai2017,Wobzi_Khroskyabs.tsv
+6,Zhaba,Zhaba,Zhaba_Daofu_County,Qiangic,Qiangic_Zhaba,224,zhab1238,101.058397,30.538892,Huang1992,Zhaba_Daofu_County.tsv
+7,MaerkangrGyalrong,Maerkang rGyalrong,rGyalrong_Maerkang,rGyalrongic,rGyalrong_Maerkang,225,situ1238,102.295293,31.868614,Huang1992,rGyalrong_Maerkang.tsv
+8,Muya-kangding,Muya-kangding,Muya-kangding,Qiangic,Muya-kangding,273,west2417,101.962819,30.055673,Huang1992,Muya-kangding.tsv
+9,Menya-Xinlong,Menya-Xinlong,Menya-Xinlong,Qiangic,Menya-Xinlong,,west2417,100.947984,29.796919,Gao2916,menya-xinlong.tsv
+10,OldBurmese,OldBurmese,OldBurmese,Burmish,OldBurmese,259,oldb1235,96.595184,21.461103,,Old_Burmese.tsv
+11,Queyu_Xinlong,Queyu_Xinlong,Queyu_Xinlong,Qiangic,Queyu_Xinlong,254,quey1238,100.260535,30.978459,Huang1992,Queyu_Xinlong.tsv
+12,Queyu_pubarong,Queyu_pubarong,Queyu_pubarong,Qiangic,Queyu_pubarong,,quey1239,100.778441,30.222522,GuanForthcoming,Queyu_pubarong.tsv
+13,Siyuewu_Khroskyabs,Siyuewu_Khroskyabs,Siyuewu_Khroskyabs,Rgyalrongic,Siyuewu_Khroskyabs,,siya1242,101.423119,31.752277,,Siyuewu_Khroskyabs.tsv
+14,Bragbar Situ,Bragbar Situ,Bragbar Situ,Rgyalrongic,Bragbar Situ,,situ1238,101.909098,31.815434,ZhangForthcoming,bragbar.tsv
+15,Geshiza,Geshiza,Geshiza,Rgyalrongic,Geshiza,,horp1240,101.648464,31.028655,Honkasalo2019,geshiza.tsv
+16,Guanyinqiao_Khroskyabs,Guanyinqiao_Khroskyabs,Guanyinqiao_Khroskyabs,Rgyalrongic,Guanyinqiao_Khroskyabs,,guan1252,101.655159,31.79783,Huang2007,guanyinqiao_khroskyabs.tsv
+17,Njorogs_Khroskyabs,Njorogs_Khroskyabs,Njorogs_Khroskyabs,Rgyalrongic,Njorogs_Khroskyabs,,yelo1242,101.861052,31.816015,Yin2007,njorogs.tsv
+18,Tshobdun,Tshobdun,Tshobdun,Rgyalrongic,Tshobdun,,tsho1240,101.832761,32.208994,Sun2019,tshobdun.tsv
+19,Ngyaltsu Zbu,Ngyaltsu Zbu,Ngyaltsu Zbu,Rgyalrongic,Ngyaltsu Zbu,,zbua1234,101.735946,32.146564,Gong2018,zbu-ngyaltsu.tsv
+20,Zlarong,Zlarong,Zlarong,Chamdoic,Zlarong,,zlar1234,98.085308,29.933395,Zhao2019,zlarong.tsv
