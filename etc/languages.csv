@@ -7,7 +7,7 @@ Number,ID,Name_in_Text,Name_in_Source,SubGroup,Name,Coverage,Glottocode,Longitud
 6,Zhaba,Zhaba,Zhaba_Daofu_County,Qiangic,Qiangic_Zhaba,224,zhab1238,101.058397,30.538892,Huang1992,Zhaba_Daofu_County.tsv
 7,MaerkangrGyalrong,Maerkang rGyalrong,rGyalrong_Maerkang,rGyalrongic,rGyalrong_Maerkang,225,situ1238,102.295293,31.868614,Huang1992,rGyalrong_Maerkang.tsv
 8,Muya-kangding,Muya-kangding,Muya-kangding,Qiangic,Muya-kangding,273,west2417,101.962819,30.055673,Huang1992,Muya-kangding.tsv
-9,Menya-Xinlong,Menya-Xinlong,Menya-Xinlong,Qiangic,Menya-Xinlong,,west2417,100.947984,29.796919,Gao2916,menya-xinlong.tsv
+9,Menya-Gao,Menya-Gao,Menya-Gao,Qiangic,Menya-Gao,,west2417,29.762152,29.762152,Gao2916,menya-gao.tsv
 10,OldBurmese,OldBurmese,OldBurmese,Burmish,OldBurmese,259,oldb1235,96.595184,21.461103,,Old_Burmese.tsv
 11,Queyu_Xinlong,Queyu_Xinlong,Queyu_Xinlong,Qiangic,Queyu_Xinlong,254,quey1238,100.260535,30.978459,Huang1992,Queyu_Xinlong.tsv
 12,Queyu_pubarong,Queyu_pubarong,Queyu_pubarong,Qiangic,Queyu_pubarong,,quey1239,100.778441,30.222522,GuanForthcoming,Queyu_pubarong.tsv
