@@ -19,3 +19,4 @@ Number,ID,Name_in_Text,Name_in_Source,SubGroup,Name,Coverage,Glottocode,Longitud
 18,Tshobdun,Tshobdun,Tshobdun,Rgyalrongic,Tshobdun,,tsho1240,101.832761,32.208994,Sun2019,tshobdun.tsv
 19,Ngyaltsu Zbu,Ngyaltsu Zbu,Ngyaltsu Zbu,Rgyalrongic,Ngyaltsu Zbu,,zbua1234,101.735946,32.146564,Gong2018,zbu-ngyaltsu.tsv
 20,Zlarong,Zlarong,Zlarong,Chamdoic,Zlarong,,zlar1234,98.085308,29.933395,Zhao2019,zlarong.tsv
+21,Kyomkyo_Situ,Kyomkyo_Situ,Kyomkyo_Situ,Rgyalrongic,Kyomkyo_Situ,,situ1238,102.036889,31.986879,Prins2016,kyomkyo.tsv
