@@ -1,4 +1,4 @@
-NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
+NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 1	above	731	1741	ABOVE	
 2	all	962	98	ALL	
 3	the ant	365	587	ANT	
@@ -49,7 +49,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 48	eight	804	1705	EIGHT	
 49	the eye	79	1248	EYE	
 50	far	974	1406	FAR	
-51	the father	218	1217	FATHER	
+51	the father	218	1217	FATHER	1
 52	the feather	299	1201	FEATHER	
 53	to fight	1234	1423	FIGHT	
 54	the fire	18	221	FIRE	
@@ -81,7 +81,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 80	the hair (of the head)	75	1040	HAIR	
 81	the hand	107	1277	HAND	
 82	hard	1034	1884	HARD	
-83	he or she [third person singular]	934	262	HE OR SHE OR IT	
+83	he or she [third person singular]	934	262	HE OR SHE OR IT	1
 84	the head	74	1256	HEAD	
 85	to hear	1682	1408	HEAR	
 86	the heart	144	1223	HEART	
@@ -99,7 +99,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 98	hundred	824	1634	HUNDRED	
 99	to hunt	1230	1435	HUNT	
 100	the husband	247	1200	HUSBAND	
-101	I [first person singular]	928	1209	I	
+101	I [first person singular]	928	1209	I	1
 102	the ice	17	617	ICE	
 103	inside	715	1606	INSIDE	
 104	to kill	1602	1417	KILL	
@@ -129,7 +129,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 128	the moon	4	1313	MOON	
 129	morning	749	1339	MORNING	
 130	the mosquito	360	1509	MOSQUITO	
-131	the mother	219	1216	MOTHER	
+131	the mother	219	1216	MOTHER	1
 132	the mountain	23	639	MOUNTAIN	
 133	the mouse or rat	320	2139	MUROID (MOUSE OR RAT)	
 134	the mouth	84	674	MOUTH	
@@ -212,8 +212,8 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 211	the thigh	100	800	THIGH	
 212	thin (object)	981	2307	THIN (OF HAIR AND LEAF)	
 213	to think (reflect)	1726	1415	THINK (REFLECT)	
-214	this	942	1214	THIS	
-215	thou [second person singular]	931	1215	THOU	
+214	this	942	1214	THIS	1
+215	thou [second person singular]	931	1215	THOU	1
 216	three	799	492	THREE	
 217	to throw	1687	1456	THROW	
 218	the thunder	8	1150	THUNDER	
@@ -228,7 +228,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 227	to vomit	1535	1278	VOMIT	
 228	to walk	1815	1443	WALK	
 229	the water	47	948	WATER	
-230	we [first person plural inclusive]	930	1131	WE (INCLUSIVE)	
+230	we [first person plural inclusive]	930	1131	WE (INCLUSIVE)	1
 231	wet	1029	1726	WET	
 232	what	954	1236	WHAT	
 233	the wheat	410	1077	WHEAT	
@@ -246,10 +246,10 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 245	the year	777	1226	YEAR	
 246	yellow	1008	1424	YELLOW	
 247	yesterday	739	1174	YESTERDAY	
-248	you [second person plural]	933	1213	YOU	
+248	you [second person plural]	933	1213	YOU	1
 249	young	1059	1207	YOUNG	
 250	the shit	151	676	SHIT (DEFECATE)	
-251	and				
+251	and				1
 252	before				
 253	dark				
 254	dirty				
@@ -286,11 +286,11 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 285	short				
 286	sick				
 287	soft				
-288	some				
+288	some				1
 289	stone (of fruit)				
 290	straight				
 291	ten				
-292	that				
+292	that				1
 293	the ant				
 294	the armpit				
 295	the ashes				
@@ -311,7 +311,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 310	the earthworm				
 311	the egg				
 312	the fat (grease)				
-313	the father				
+313	the father				1
 314	the feather				
 315	the flea				
 316	the fog				
@@ -361,11 +361,11 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 360	the worm				
 361	the year				
 362	there				
-363	they [third person plural]				
-364	thin				
+363	they [third person plural]				1
+364	thin				1
 365	thin (object)				
 366	thin (slim)				
-367	this				
+367	this				1
 368	to be alive				
 369	to bite				
 370	to breathe				
@@ -426,9 +426,9 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	REMOVE
 425	to yawn				
 426	warm (hot)				
 427	wet				
-428	when				
-429	where				
+428	when				1
+429	where				1
 430	wide				
 431	yesterday				
-432	you [second person plural]				
-433	young				
+432	you [second person plural]				1
+433	young				1
