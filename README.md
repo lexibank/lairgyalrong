@@ -14,18 +14,18 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Concepticon: 47%](https://img.shields.io/badge/Concepticon-47%25-red.svg "Concepticon: 47%")
+![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
 
-- **Varieties:** 20
-- **Concepts:** 250
-- **Lexemes:** 5,035
-- **Sources:** 0
-- **Synonymy:** 1.09
+- **Varieties:** 21
+- **Concepts:** 317
+- **Lexemes:** 6,500
+- **Sources:** 15
+- **Synonymy:** 1.11
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 5035/5035 (100.00%)
+- Entries missing sources: 587/6500 (9.03%)

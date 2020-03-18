@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
-            "dc:created": "97311b4"
+            "dc:created": "9a4d128"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,8 +29,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data/",
-            "dc:created": "v2.2.1a-111-g99b51fe"
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.3.0-11-g327397e"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.1"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 5035,
+            "dc:extent": 6500,
             "tableSchema": {
                 "columns": [
                     {
@@ -122,6 +122,10 @@
                     {
                         "datatype": "string",
                         "name": "Benzi"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sagart_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -156,7 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 20,
+            "dc:extent": 21,
             "tableSchema": {
                 "columns": [
                     {
@@ -219,6 +223,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "DialectGroup"
                     }
                 ],
@@ -230,7 +238,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 250,
+            "dc:extent": 317,
             "tableSchema": {
                 "columns": [
                     {
@@ -260,6 +268,10 @@
                     {
                         "datatype": "string",
                         "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Coverage"
                     }
                 ],
                 "primaryKey": [
