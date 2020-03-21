@@ -483,16 +483,16 @@ qw	q w	χqwa, pɨqwō	QueyuPubarong	2	U+0071 U+0077
 ^sw	s w	swɐ̂j, swej	BragbarSitu, KyomkyoSitu	2	U+005e U+0073 U+0077
 ɕw	ɕ w	tə-ɕwiɛ̂, tə-ɕwéʔ	NgyaltsuZbu, BragbarSitu	2	U+0255 U+0077
 zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
-ās$	ā/as	tə-mphās, mə-mphās	BragbarSitu	2	U+0101 U+0073 U+0024
-^nʑ	nʑ	nʑa, nʑəu	Geshiza	2	U+005e U+006e U+0291
-^wsʰ	wsʰ	wsʰu, wsʰə	Geshiza	2	U+005e U+0077 U+0073 U+02b0
+ās$	ā/a s	tə-mphās, mə-mphās	BragbarSitu	2	U+0101 U+0073 U+0024
+^nʑ	n ʑ	nʑa, nʑəu	Geshiza	2	U+005e U+006e U+0291
+^wsʰ	w sʰ	wsʰu, wsʰə	Geshiza	2	U+005e U+0077 U+0073 U+02b0
 ⁵	⁵	sko⁵me⁵⁵, vu⁵ɲaq⁵⁵	GuanyinqiaoKhroskyabs, NjorogsKhroskyabs	2	U+2075
-ʔs$	ʔs	scçʰeʔs, kəʃnəʔs	KyomkyoSitu, NjorogsKhroskyabs	2	U+0294 U+0073 U+0024
+ʔs$	ʔ s	scçʰeʔs, kəʃnəʔs	KyomkyoSitu, NjorogsKhroskyabs	2	U+0294 U+0073 U+0024
 ^’	NULL	’pa, ’tsʰet	Tshobdun	2	U+005e U+2019
 mⁿ	mⁿ	tɑlvɑⁿdómⁿdom, lɐmⁿdʐo	NgyaltsuZbu, Tshobdun	2	U+006d U+207f
-cʰw	cʰw	qɐ́cʰwet, təncʰwe	Tshobdun	2	U+0063 U+02b0 U+0077
-^rw	rw	rwoʁrwóʁʔ, rwi	NgyaltsuZbu, Tshobdun	2	U+005e U+0072 U+0077
-^ʁʒ	ʁʒ	ʁʒonu	Tshobdun	2	U+005e U+0281 U+0292
+cʰw	cʰ w	qɐ́cʰwet, təncʰwe	Tshobdun	2	U+0063 U+02b0 U+0077
+^rw	r w	rwoʁrwóʁʔ, rwi	NgyaltsuZbu, Tshobdun	2	U+005e U+0072 U+0077
+^ʁʒ	ʁ ʒ	ʁʒonu	Tshobdun	2	U+005e U+0281 U+0292
 óˠ	óˠ	k-ɑmdzóˠʔ, k-ɑrtóˠmʔ	NgyaltsuZbu	2	U+00f3 U+02e0
 ôˠ	ôˠ	kɑ-mtshôˠt, mtshôˠt	NgyaltsuZbu	2	U+00f4 U+02e0
 ⁿɡ	ⁿg	tɐ-ⁿɡómʔ, kə-ⁿɡór	NgyaltsuZbu	2	U+207f U+0261
@@ -501,76 +501,76 @@ cʰw	cʰw	qɐ́cʰwet, təncʰwe	Tshobdun	2	U+0063 U+02b0 U+0077
 N$	<?>	cʰoN	Bantawa	1	U+004e U+0024
 @	<?>	jamm@y	Bantawa	1	U+0040
 ɨma (ɨsa)	ɨ m a	ɨma (ɨsa)	Bantawa	1	U+0268 U+006d U+0061 U+0020 U+0028 U+0268 U+0073 U+0061 U+0029
-ss	ss	ɨssawa	Bantawa	1	U+0073 U+0073
+ss	s s	ɨssawa	Bantawa	1	U+0073 U+0073
 dʰ	dʰ	ɨdʰiwaŋ	Bantawa	1	U+0064 U+02b0
 keŋma (keŋa)	k e ŋ m a	keŋma (keŋa)	Bantawa	1	U+006b U+0065 U+014b U+006d U+0061 U+0020 U+0028 U+006b U+0065 U+014b U+0061 U+0029
 cʰopma (cʰoa)	cʰ o p m a	cʰopma (cʰoa)	Bantawa	1	U+0063 U+02b0 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0063 U+02b0 U+006f U+0061 U+0029
 cʰakma (cʰakta)	cʰ a k m a	cʰakma (cʰakta)	Bantawa	1	U+0063 U+02b0 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0063 U+02b0 U+0061 U+006b U+0074 U+0061 U+0029
-jʰonma (jʰonta)	jʰonma	jʰonma (jʰonta)	Bantawa	1	U+006a U+02b0 U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006a U+02b0 U+006f U+006e U+0074 U+0061 U+0029
-hakma (hakta)	hakma	hakma (hakta)	Bantawa	1	U+0068 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0068 U+0061 U+006b U+0074 U+0061 U+0029
-paŋma (paŋsa)	paŋma	paŋma (paŋsa)	Bantawa	1	U+0070 U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+014b U+0073 U+0061 U+0029
+jʰonma (jʰonta)	jʰ o n m a	jʰonma (jʰonta)	Bantawa	1	U+006a U+02b0 U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006a U+02b0 U+006f U+006e U+0074 U+0061 U+0029
+hakma (hakta)	h a k m a	hakma (hakta)	Bantawa	1	U+0068 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0068 U+0061 U+006b U+0074 U+0061 U+0029
+paŋma (paŋsa)	p a ŋ m a	paŋma (paŋsa)	Bantawa	1	U+0070 U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+014b U+0073 U+0061 U+0029
 jʰ	jʰ	majʰan	Bantawa	1	U+006a U+02b0
-sepma (septu)	sepma	sepma (septu)	Bantawa	1	U+0073 U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0073 U+0065 U+0070 U+0074 U+0075 U+0029
-notma (notta)	notma	notma (notta)	Bantawa	1	U+006e U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006e U+006f U+0074 U+0074 U+0061 U+0029
-ŋs	ŋs	sɨŋsiwa	Bantawa	1	U+014b U+0073
+sepma (septu)	s e p m a	sepma (septu)	Bantawa	1	U+0073 U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0073 U+0065 U+0070 U+0074 U+0075 U+0029
+notma (notta)	n o t m a	notma (notta)	Bantawa	1	U+006e U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006e U+006f U+0074 U+0074 U+0061 U+0029
+ŋs	ŋ s	sɨŋsiwa	Bantawa	1	U+014b U+0073
 ^gʰ	gʰ	gʰãsa	Bantawa	1	U+005e U+0067 U+02b0
 gʰ	gʰ	yagʰaŋma	Bantawa	1	U+0067 U+02b0
-yunma (yunta)	yunma	yunma (yunta)	Bantawa	1	U+0079 U+0075 U+006e U+006d U+0061 U+0020 U+0028 U+0079 U+0075 U+006e U+0074 U+0061 U+0029
-homa (hoa)	homa	homa (hoa)	Bantawa	1	U+0068 U+006f U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0061 U+0029
-kʰitma (kʰiru)	kʰitma	kʰitma (kʰiru)	Bantawa	1	U+006b U+02b0 U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0069 U+0072 U+0075 U+0029
-kʰuma (kʰu)	kʰuma	kʰuma (kʰu)	Bantawa	1	U+006b U+02b0 U+0075 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0075 U+0029
-kʰapma (kʰaptu)	kʰapma	kʰapma (kʰaptu)	Bantawa	1	U+006b U+02b0 U+0061 U+0070 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0061 U+0070 U+0074 U+0075 U+0029
-dʰokma (dʰoktu)	dʰokma	dʰokma (dʰoktu)	Bantawa	1	U+0064 U+02b0 U+006f U+006b U+006d U+0061 U+0020 U+0028 U+0064 U+02b0 U+006f U+006b U+0074 U+0075 U+0029
-duŋma (duŋu)	duŋma	duŋma (duŋu)	Bantawa	1	U+0064 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0064 U+0075 U+014b U+0075 U+0029
-hopma (hoptu)	hopma	hopma (hoptu)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0070 U+0074 U+0075 U+0029
-pɨma (pɨ)	pɨma	pɨma (pɨ)	Bantawa	1	U+0070 U+0268 U+006d U+0061 U+0020 U+0028 U+0070 U+0268 U+0029
-enma (enu)	enma	enma (enu)	Bantawa	1	U+0065 U+006e U+006d U+0061 U+0020 U+0028 U+0065 U+006e U+0075 U+0029
-kɨkma (kɨktu)	kɨkma	kɨkma (kɨktu)	Bantawa	1	U+006b U+0268 U+006b U+006d U+0061 U+0020 U+0028 U+006b U+0268 U+006b U+0074 U+0075 U+0029
-onma (onta)	onma	onma (onta)	Bantawa	1	U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006f U+006e U+0074 U+0061 U+0029
-sinma (sintu)	sinma	sinma (sintu)	Bantawa	1	U+0073 U+0069 U+006e U+006d U+0061 U+0020 U+0028 U+0073 U+0069 U+006e U+0074 U+0075 U+0029
-ima (iya)	ima	ima (iya)	Bantawa	1	U+0069 U+006d U+0061 U+0020 U+0028 U+0069 U+0079 U+0061 U+0029
-lema (lesu)	lema	lema (lesu)	Bantawa	1	U+006c U+0065 U+006d U+0061 U+0020 U+0028 U+006c U+0065 U+0073 U+0075 U+0029
-lekma (lea)	lekma	lekma (lea)	Bantawa	1	U+006c U+0065 U+006b U+006d U+0061 U+0020 U+0028 U+006c U+0065 U+0061 U+0029
-anma (alu)	anma	anma (alu)	Bantawa	1	U+0061 U+006e U+006d U+0061 U+0020 U+0028 U+0061 U+006c U+0075 U+0029
-dɨma (dɨsu)	dɨma	dɨma (dɨsu)	Bantawa	1	U+0064 U+0268 U+006d U+0061 U+0020 U+0028 U+0064 U+0268 U+0073 U+0075 U+0029
-litma (littu)	litma	litma (littu)	Bantawa	1	U+006c U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+006c U+0069 U+0074 U+0074 U+0075 U+0029
-tomma (tomtu)	tomma	tomma (tomtu)	Bantawa	1	U+0074 U+006f U+006d U+006d U+0061 U+0020 U+0028 U+0074 U+006f U+006d U+0074 U+0075 U+0029
-yuŋma (yuŋa)	yuŋma	yuŋma (yuŋa)	Bantawa	1	U+0079 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0079 U+0075 U+014b U+0061 U+0029
-lotma (lora)	lotma	lotma (lora)	Bantawa	1	U+006c U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006c U+006f U+0072 U+0061 U+0029
-pamma (pamtu)	pamma	pamma (pamtu)	Bantawa	1	U+0070 U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+006d U+0074 U+0075 U+0029
-wamma (wamtu)	wamma	wamma (wamtu)	Bantawa	1	U+0077 U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+0077 U+0061 U+006d U+0074 U+0075 U+0029
-pʰitma (pʰittu)	pʰitma	pʰitma (pʰittu)	Bantawa	1	U+0070 U+02b0 U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+0070 U+02b0 U+0069 U+0074 U+0074 U+0075 U+0029
-luma (luwa)	luma	luma (luwa)	Bantawa	1	U+006c U+0075 U+006d U+0061 U+0020 U+0028 U+006c U+0075 U+0077 U+0061 U+0029
-imma (imsa)	imma	imma (imsa)	Bantawa	1	U+0069 U+006d U+006d U+0061 U+0020 U+0028 U+0069 U+006d U+0073 U+0061 U+0029
-namma (namsu)	namma	namma (namsu)	Bantawa	1	U+006e U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+006e U+0061 U+006d U+0073 U+0075 U+0029
-tʰuŋma (tʰuŋsu)	tʰuŋma	tʰuŋma (tʰuŋsu)	Bantawa	1	U+0074 U+02b0 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0074 U+02b0 U+0075 U+014b U+0073 U+0075 U+0029
-epma (ewa)	epma	epma (ewa)	Bantawa	1	U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0065 U+0077 U+0061 U+0029
-kʰɨma (kʰɨsu)	kʰɨma	kʰɨma (kʰɨsu)	Bantawa	1	U+006b U+02b0 U+0268 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0268 U+0073 U+0075 U+0029
-minma (mittu)	minma	minma (mittu)	Bantawa	1	U+006d U+0069 U+006e U+006d U+0061 U+0020 U+0028 U+006d U+0069 U+0074 U+0074 U+0075 U+0029
-kokma (kou)	kokma	kokma (kou)	Bantawa	1	U+006b U+006f U+006b U+006d U+0061 U+0020 U+0028 U+006b U+006f U+0075 U+0029
-wetma (weru)	wetma	wetma (weru)	Bantawa	1	U+0077 U+0065 U+0074 U+006d U+0061 U+0020 U+0028 U+0077 U+0065 U+0072 U+0075 U+0029
-pema (pesa)	pema	pema (pesa)	Bantawa	1	U+0070 U+0065 U+006d U+0061 U+0020 U+0028 U+0070 U+0065 U+0073 U+0061 U+0029
-laŋma (laŋsu)	laŋma	laŋma (laŋsu)	Bantawa	1	U+006c U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+006c U+0061 U+014b U+0073 U+0075 U+0029
-hopma (hoa)	hopma	hopma (hoa)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0061 U+0029
+yunma (yunta)	y u n m a	yunma (yunta)	Bantawa	1	U+0079 U+0075 U+006e U+006d U+0061 U+0020 U+0028 U+0079 U+0075 U+006e U+0074 U+0061 U+0029
+homa (hoa)	h o m a	homa (hoa)	Bantawa	1	U+0068 U+006f U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0061 U+0029
+kʰitma (kʰiru)	kʰ i t m a	kʰitma (kʰiru)	Bantawa	1	U+006b U+02b0 U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0069 U+0072 U+0075 U+0029
+kʰuma (kʰu)	kʰ u m a	kʰuma (kʰu)	Bantawa	1	U+006b U+02b0 U+0075 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0075 U+0029
+kʰapma (kʰaptu)	kʰ a p m a	kʰapma (kʰaptu)	Bantawa	1	U+006b U+02b0 U+0061 U+0070 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0061 U+0070 U+0074 U+0075 U+0029
+dʰokma (dʰoktu)	dʰ o k m a	dʰokma (dʰoktu)	Bantawa	1	U+0064 U+02b0 U+006f U+006b U+006d U+0061 U+0020 U+0028 U+0064 U+02b0 U+006f U+006b U+0074 U+0075 U+0029
+duŋma (duŋu)	d u ŋ m a	duŋma (duŋu)	Bantawa	1	U+0064 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0064 U+0075 U+014b U+0075 U+0029
+hopma (hoptu)	h o p m a	hopma (hoptu)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0070 U+0074 U+0075 U+0029
+pɨma (pɨ)	p ɨ m a	pɨma (pɨ)	Bantawa	1	U+0070 U+0268 U+006d U+0061 U+0020 U+0028 U+0070 U+0268 U+0029
+enma (enu)	e n m a	enma (enu)	Bantawa	1	U+0065 U+006e U+006d U+0061 U+0020 U+0028 U+0065 U+006e U+0075 U+0029
+kɨkma (kɨktu)	k ɨ k m a	kɨkma (kɨktu)	Bantawa	1	U+006b U+0268 U+006b U+006d U+0061 U+0020 U+0028 U+006b U+0268 U+006b U+0074 U+0075 U+0029
+onma (onta)	o n m a	onma (onta)	Bantawa	1	U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006f U+006e U+0074 U+0061 U+0029
+sinma (sintu)	s i n m a	sinma (sintu)	Bantawa	1	U+0073 U+0069 U+006e U+006d U+0061 U+0020 U+0028 U+0073 U+0069 U+006e U+0074 U+0075 U+0029
+ima (iya)	i m a	ima (iya)	Bantawa	1	U+0069 U+006d U+0061 U+0020 U+0028 U+0069 U+0079 U+0061 U+0029
+lema (lesu)	l e m a	lema (lesu)	Bantawa	1	U+006c U+0065 U+006d U+0061 U+0020 U+0028 U+006c U+0065 U+0073 U+0075 U+0029
+lekma (lea)	l e k m a	lekma (lea)	Bantawa	1	U+006c U+0065 U+006b U+006d U+0061 U+0020 U+0028 U+006c U+0065 U+0061 U+0029
+anma (alu)	a n m a	anma (alu)	Bantawa	1	U+0061 U+006e U+006d U+0061 U+0020 U+0028 U+0061 U+006c U+0075 U+0029
+dɨma (dɨsu)	d ɨ m a	dɨma (dɨsu)	Bantawa	1	U+0064 U+0268 U+006d U+0061 U+0020 U+0028 U+0064 U+0268 U+0073 U+0075 U+0029
+litma (littu)	l i t m a	litma (littu)	Bantawa	1	U+006c U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+006c U+0069 U+0074 U+0074 U+0075 U+0029
+tomma (tomtu)	t o m m a	tomma (tomtu)	Bantawa	1	U+0074 U+006f U+006d U+006d U+0061 U+0020 U+0028 U+0074 U+006f U+006d U+0074 U+0075 U+0029
+yuŋma (yuŋa)	y u ŋ m a	yuŋma (yuŋa)	Bantawa	1	U+0079 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0079 U+0075 U+014b U+0061 U+0029
+lotma (lora)	l o t m a	lotma (lora)	Bantawa	1	U+006c U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006c U+006f U+0072 U+0061 U+0029
+pamma (pamtu)	p a m m a	pamma (pamtu)	Bantawa	1	U+0070 U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+006d U+0074 U+0075 U+0029
+wamma (wamtu)	w a m m a	wamma (wamtu)	Bantawa	1	U+0077 U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+0077 U+0061 U+006d U+0074 U+0075 U+0029
+pʰitma (pʰittu)	pʰ i t m a	pʰitma (pʰittu)	Bantawa	1	U+0070 U+02b0 U+0069 U+0074 U+006d U+0061 U+0020 U+0028 U+0070 U+02b0 U+0069 U+0074 U+0074 U+0075 U+0029
+luma (luwa)	l u m a	luma (luwa)	Bantawa	1	U+006c U+0075 U+006d U+0061 U+0020 U+0028 U+006c U+0075 U+0077 U+0061 U+0029
+imma (imsa)	i m m a	imma (imsa)	Bantawa	1	U+0069 U+006d U+006d U+0061 U+0020 U+0028 U+0069 U+006d U+0073 U+0061 U+0029
+namma (namsu)	n a m m a	namma (namsu)	Bantawa	1	U+006e U+0061 U+006d U+006d U+0061 U+0020 U+0028 U+006e U+0061 U+006d U+0073 U+0075 U+0029
+tʰuŋma (tʰuŋsu)	tʰ u ŋ m a	tʰuŋma (tʰuŋsu)	Bantawa	1	U+0074 U+02b0 U+0075 U+014b U+006d U+0061 U+0020 U+0028 U+0074 U+02b0 U+0075 U+014b U+0073 U+0075 U+0029
+epma (ewa)	e p m a	epma (ewa)	Bantawa	1	U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0065 U+0077 U+0061 U+0029
+kʰɨma (kʰɨsu)	kʰ ɨ m a	kʰɨma (kʰɨsu)	Bantawa	1	U+006b U+02b0 U+0268 U+006d U+0061 U+0020 U+0028 U+006b U+02b0 U+0268 U+0073 U+0075 U+0029
+minma (mittu)	m i n m a	minma (mittu)	Bantawa	1	U+006d U+0069 U+006e U+006d U+0061 U+0020 U+0028 U+006d U+0069 U+0074 U+0074 U+0075 U+0029
+kokma (kou)	k o k m a	kokma (kou)	Bantawa	1	U+006b U+006f U+006b U+006d U+0061 U+0020 U+0028 U+006b U+006f U+0075 U+0029
+wetma (weru)	w e t m a	wetma (weru)	Bantawa	1	U+0077 U+0065 U+0074 U+006d U+0061 U+0020 U+0028 U+0077 U+0065 U+0072 U+0075 U+0029
+pema (pesa)	p e m a	pema (pesa)	Bantawa	1	U+0070 U+0065 U+006d U+0061 U+0020 U+0028 U+0070 U+0065 U+0073 U+0061 U+0029
+laŋma (laŋsu)	l a ŋ m a	laŋma (laŋsu)	Bantawa	1	U+006c U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+006c U+0061 U+014b U+0073 U+0075 U+0029
+hopma (hoa)	h o p m a	hopma (hoa)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0061 U+0029
 ^ɛ	ɛ	ɛ de qhɛ	Daofu	1	U+005e U+025b
-ɕh	ɕh	ga ɕha	Daofu	1	U+0255 U+0068
-ɬh	ɬh	fɬhə	Daofu	1	U+026c U+0068
-(lɛji) mqhə lə	mqʰələ	(lɛji) mqhə lə	Daofu	1	U+0028 U+006c U+025b U+006a U+0069 U+0029 U+0020 U+006d U+0071 U+0068 U+0259 U+0020 U+006c U+0259
+ɕh	ɕʰ	ga ɕha	Daofu	1	U+0255 U+0068
+ɬh	ɬʰ	fɬhə	Daofu	1	U+026c U+0068
+(lɛji) mqhə lə	m qʰ ə l ə	(lɛji) mqhə lə	Daofu	1	U+0028 U+006c U+025b U+006a U+0069 U+0029 U+0020 U+006d U+0071 U+0068 U+0259 U+0020 U+006c U+0259
 ^ɬh	ɬʰ	ɬha si	Daofu	1	U+005e U+026c U+0068
 ɯ-sŋɯro (lɤt)	ɯ+sŋɯro_lɤt	ɯ-sŋɯro (lɤt)	Japhug	1	U+026f U+002d U+0073 U+014b U+026f U+0072 U+006f U+0020 U+0028 U+006c U+0264 U+0074 U+0029
 mciphɯt (lɤt)	mcipʰɯt_lɤt	mciphɯt (lɤt)	Japhug	1	U+006d U+0063 U+0069 U+0070 U+0068 U+026f U+0074 U+0020 U+0028 U+006c U+0264 U+0074 U+0029
-jɕ	jɕ	thɤjɕu	Japhug	1	U+006a U+0255
+jɕ	j ɕ	thɤjɕu	Japhug	1	U+006a U+0255
 1	1	.jijr 1.74	Tangut	1	U+0031
 74$	74	.jijr 1.74	Tangut	1	U+0037 U+0034 U+0024
 77$	77	djɨr 2.77	Tangut	1	U+0037 U+0037 U+0024
 ee$	eː	giee	Tangut	1	U+0065 U+0065 U+0024
 lh	ɬ	lhə² lhie²	Tangut	1	U+006c U+0068
-^tw	tw	twu.	Tangut	1	U+005e U+0074 U+0077
+^tw	t w	twu.	Tangut	1	U+005e U+0074 U+0077
 əə	əː	məə¹	Tangut	1	U+0259 U+0259
-^gw	gw	gwjɨr	Tangut	1	U+005e U+0067 U+0077
-^xw	xw	xwa²	Tangut	1	U+005e U+0078 U+0077
+^gw	g w	gwjɨr	Tangut	1	U+005e U+0067 U+0077
+^xw	x w	xwa²	Tangut	1	U+005e U+0078 U+0077
 ə̣	ə̙	pjə̣j²	Tangut	1	U+0259 U+0323
-^thw	tʰw	thwər¹	Tangut	1	U+005e U+0074 U+0068 U+0077
+^thw	tʰ w	thwər¹	Tangut	1	U+005e U+0074 U+0068 U+0077
 ọ$	o̙	ljọ	Tangut	1	U+1ecd U+0024
 i̧	i̙	kji̧j	Tangut	1	U+0069 U+0327
 ɨ̣$	ɨ̙	zjɨ̣	Tangut	1	U+0268 U+0323 U+0024
@@ -581,166 +581,166 @@ i̧	i̙	kji̧j	Tangut	1	U+0069 U+0327
 ʊ́	ʊ́/ʊ	tʂʰʊ́ŋ lǽ	WobziKhroskyabs	1	U+028a U+0301
 ³⁵	³⁵	ʂtei³³ mbo³⁵zɿ³³	Zhaba	1	U+00b3 U+2075
 ³	³	gu³tshɪ⁵⁵	Zhaba	1	U+00b3
-( n) thei¹³	ntʰei	( n) thei¹³	Zhaba	1	U+0028 U+0020 U+006e U+0029 U+0020 U+0074 U+0068 U+0065 U+0069 U+00b9 U+00b3
-tʂʌ³³ (p) tʂɿ⁵⁵|	tsʌ³³ptʂɿ⁵⁵	tʂʌ³³ (p) tʂɿ⁵⁵|	Zhaba	1	U+0074 U+0282 U+028c U+00b3 U+00b3 U+0020 U+0028 U+0070 U+0029 U+0020 U+0074 U+0282 U+027f U+2075 U+2075 U+007c
-(ʂ) ȵʌ⁵⁵pʌ⁵⁵ti³³	ʂȵʌ⁵⁵pʌ⁵⁵ti³³	(ʂ) ȵʌ⁵⁵pʌ⁵⁵ti³³	Zhaba	1	U+0028 U+0282 U+0029 U+0020 U+0235 U+028c U+2075 U+2075 U+0070 U+028c U+2075 U+2075 U+0074 U+0069 U+00b3 U+00b3
+( n) thei¹³	n tʰ e i	( n) thei¹³	Zhaba	1	U+0028 U+0020 U+006e U+0029 U+0020 U+0074 U+0068 U+0065 U+0069 U+00b9 U+00b3
+tʂʌ³³ (p) tʂɿ⁵⁵|	ts ʌ ³³ p tʂ ɿ ⁵⁵	tʂʌ³³ (p) tʂɿ⁵⁵|	Zhaba	1	U+0074 U+0282 U+028c U+00b3 U+00b3 U+0020 U+0028 U+0070 U+0029 U+0020 U+0074 U+0282 U+027f U+2075 U+2075 U+007c
+(ʂ) ȵʌ⁵⁵pʌ⁵⁵ti³³	ʂ ȵ ʌ ⁵⁵ p ʌ ⁵⁵ t i ³³	(ʂ) ȵʌ⁵⁵pʌ⁵⁵ti³³	Zhaba	1	U+0028 U+0282 U+0029 U+0020 U+0235 U+028c U+2075 U+2075 U+0070 U+028c U+2075 U+2075 U+0074 U+0069 U+00b3 U+00b3
 ɛ̃	ɛ̃	piɛ̃⁵⁵nkhu⁵⁵	Zhaba	1	U+025b U+0303
-(mda³³) ʑi¹³	mda³³ʑi¹³	(mda³³) ʑi¹³	Zhaba	1	U+0028 U+006d U+0064 U+0061 U+00b3 U+00b3 U+0029 U+0020 U+0291 U+0069 U+00b9 U+00b3
+(mda³³) ʑi¹³	m d a ³³ ʑ i ¹³	(mda³³) ʑi¹³	Zhaba	1	U+0028 U+006d U+0064 U+0061 U+00b3 U+00b3 U+0029 U+0020 U+0291 U+0069 U+00b9 U+00b3
 ʂ̩	ʂ̩	ʂɿ⁵⁵ʂ̩ɿ³³	Zhaba	1	U+0282 U+0329
-phs	pʰs	kə nə phso	MaerkangrGyalrong	1	U+0070 U+0068 U+0073
+phs	pʰ s	kə nə phso	MaerkangrGyalrong	1	U+0070 U+0068 U+0073
 k|$	k	kə ʃək|	MaerkangrGyalrong	1	U+006b U+007c U+0024
-phʃ	pʰʃ	tə phʃᴇ	MaerkangrGyalrong	1	U+0070 U+0068 U+0283
-sw	sw	tə swɑ	MaerkangrGyalrong	1	U+0073 U+0077
+phʃ	pʰ ʃ	tə phʃᴇ	MaerkangrGyalrong	1	U+0070 U+0068 U+0283
+sw	s w	tə swɑ	MaerkangrGyalrong	1	U+0073 U+0077
 ȶʃ	ȶʃ	tə ȶʃi	MaerkangrGyalrong	1	U+0236 U+0283
 (tə tʃi) kə ndə	tə+tʃi_kə+ndə	(tə tʃi) kə ndə	MaerkangrGyalrong	1	U+0028 U+0074 U+0259 U+0020 U+0074 U+0283 U+0069 U+0029 U+0020 U+006b U+0259 U+0020 U+006e U+0064 U+0259
 (pər) kɐ ndʐət	pər_kɐ+nɖʐət	(pər) kɐ ndʐət	MaerkangrGyalrong	1	U+0028 U+0070 U+0259 U+0072 U+0029 U+0020 U+006b U+0250 U+0020 U+006e U+0064 U+0290 U+0259 U+0074
-bʒ	bʒ	khɐ bʒə kɑ pɑ	MaerkangrGyalrong	1	U+0062 U+0292
+bʒ	b ʒ	khɐ bʒə kɑ pɑ	MaerkangrGyalrong	1	U+0062 U+0292
 (tə rpi) kɐ ktor	tə+rpi_kɐ+ktor	(tə rpi) kɐ ktor	MaerkangrGyalrong	1	U+0028 U+0074 U+0259 U+0020 U+0072 U+0070 U+0069 U+0029 U+0020 U+006b U+0250 U+0020 U+006b U+0074 U+006f U+0072
 (tə ŋɑr) kɐ phʃət	tə+ŋɑr_kɐ+pʰʃət	(tə ŋɑr) kɐ phʃət	MaerkangrGyalrong	1	U+0028 U+0074 U+0259 U+0020 U+014b U+0251 U+0072 U+0029 U+0020 U+006b U+0250 U+0020 U+0070 U+0068 U+0283 U+0259 U+0074
-^khs	kʰs	khsər po	MaerkangrGyalrong	1	U+005e U+006b U+0068 U+0073
-ɴa³³ (ti⁵⁵)	ɴa³³ti⁵⁵	ɴa³³ (ti⁵⁵)	MuyaKangding	1	U+0274 U+0061 U+00b3 U+00b3 U+0020 U+0028 U+0074 U+0069 U+2075 U+2075 U+0029
+^khs	kʰ s	khsər po	MaerkangrGyalrong	1	U+005e U+006b U+0068 U+0073
+ɴa³³ (ti⁵⁵)	ɴ a ³³ t i ⁵⁵	ɴa³³ (ti⁵⁵)	MuyaKangding	1	U+0274 U+0061 U+00b3 U+00b3 U+0020 U+0028 U+0074 U+0069 U+2075 U+2075 U+0029
 ɑ̃	ɑ̃	dʑɑ̃³³khu⁵³	MuyaKangding	1	U+0251 U+0303
 ø̃	ø̃	thø̃³³thø⁵³	MuyaKangding	1	U+00f8 U+0303
-(zu²⁴) rə³³rə⁵³	zu²⁴rə³³rə⁵³	(zu²⁴) rə³³rə⁵³	MuyaKangding	1	U+0028 U+007a U+0075 U+00b2 U+2074 U+0029 U+0020 U+0072 U+0259 U+00b3 U+00b3 U+0072 U+0259 U+2075 U+00b3
+(zu²⁴) rə³³rə⁵³	z u ²⁴ r ə ³³ r ə ⁵³	(zu²⁴) rə³³rə⁵³	MuyaKangding	1	U+0028 U+007a U+0075 U+00b2 U+2074 U+0029 U+0020 U+0072 U+0259 U+00b3 U+00b3 U+0072 U+0259 U+2075 U+00b3
 ³⁵$	³⁵	jɐ³³næ⁵⁵βa³⁵	MuyaKangding	1	U+00b3 U+2075 U+0024
 e̱	e̙	le̱³³nə̱⁵³	MuyaKangding	1	U+0065 U+0331
 ø̱	ø̙	qø̱²⁴	MuyaKangding	1	U+00f8 U+0331
 ^zh	ʑ̩	zh⁵³zə³³	MuyaKangding	1	U+005e U+007a U+0068
 (tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	tsi³³tʂu⁵⁵_tə³³dʑɐ⁵³	(tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	MuyaKangding	1	U+0028 U+0074 U+0073 U+0069 U+00b3 U+00b3 U+0074 U+0282 U+0075 U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+00b3 U+00b3 U+0064 U+0291 U+0250 U+2075 U+00b3
 ʌʌ$	ʌː	2jʌʌ	MenyaGao	1	U+028c U+028c U+0024
-^ṅh	<?>	ṅhak	OldBurmese	1	U+005e U+1e45 U+0068
+^ṅh	ṅ h	ṅhak	OldBurmese	1	U+005e U+1e45 U+0068
 ṁ$	ṁ	to₂ṅ◦paṁ	OldBurmese	1	U+1e41 U+0024
-nh	nh	ʔa◦nhac	OldBurmese	1	U+006e U+0068
-ññ	ññ	ññaññḥ	OldBurmese	1	U+00f1 U+00f1
-rʒ	rʒ	qo⁵⁵rʒi¹³	QueyuXinlong	1	U+0072 U+0292
+nh	n h	ʔa◦nhac	OldBurmese	1	U+006e U+0068
+ññ	ñ ñ	ññaññḥ	OldBurmese	1	U+00f1 U+00f1
+rʒ	r ʒ	qo⁵⁵rʒi¹³	QueyuXinlong	1	U+0072 U+0292
 ^bʒ	bʒ	bʒi¹³	QueyuXinlong	1	U+005e U+0062 U+0292
-ʂs	ʂs	qa³³ʂsi⁵⁵	QueyuXinlong	1	U+0282 U+0073
-kɕ	kɕ	qa⁵⁵kɕe⁵⁵	QueyuXinlong	1	U+006b U+0255
-bʑ	bʑ	ɕe⁵⁵bʑi³³	QueyuXinlong	1	U+0062 U+0291
+ʂs	ʂ s	qa³³ʂsi⁵⁵	QueyuXinlong	1	U+0282 U+0073
+kɕ	k ɕ	qa⁵⁵kɕe⁵⁵	QueyuXinlong	1	U+006b U+0255
+bʑ	b ʑ	ɕe⁵⁵bʑi³³	QueyuXinlong	1	U+0062 U+0291
 m̥	m̥	qha⁵⁵m̥e³³	QueyuXinlong	1	U+006d U+0325
-^xʃ	xʃ	xʃi⁵⁵rme⁵⁵	QueyuXinlong	1	U+005e U+0078 U+0283
+^xʃ	x ʃ	xʃi⁵⁵rme⁵⁵	QueyuXinlong	1	U+005e U+0078 U+0283
 ^ŋ̊	ŋ̊	ŋ̊ua⁵⁵	QueyuXinlong	1	U+005e U+014b U+030a
 (ʒɿ¹³) lɛ¹³ji⁵⁵ pʃi⁵⁵	ʒɿ¹³_lɛ¹³ji⁵⁵_pʃi⁵⁵	(ʒɿ¹³) lɛ¹³ji⁵⁵ pʃi⁵⁵	QueyuXinlong	1	U+0028 U+0292 U+027f U+00b9 U+00b3 U+0029 U+0020 U+006c U+025b U+00b9 U+00b3 U+006a U+0069 U+2075 U+2075 U+0020 U+0070 U+0283 U+0069 U+2075 U+2075
 (tʂi¹³ ndɔ⁵⁵) kɯ⁵⁵ɬɛ⁵⁵	tʂi¹³_ndɔ⁵⁵_kɯ⁵⁵ɬɛ⁵⁵	(tʂi¹³ ndɔ⁵⁵) kɯ⁵⁵ɬɛ⁵⁵	QueyuXinlong	1	U+0028 U+0074 U+0282 U+0069 U+00b9 U+00b3 U+0020 U+006e U+0064 U+0254 U+2075 U+2075 U+0029 U+0020 U+006b U+026f U+2075 U+2075 U+026c U+025b U+2075 U+2075
 (se⁵⁵ ʂpe⁵⁵) ble⁵⁵	se⁵⁵_ʂpe⁵⁵_ble⁵⁵	(se⁵⁵ ʂpe⁵⁵) ble⁵⁵	QueyuXinlong	1	U+0028 U+0073 U+0065 U+2075 U+2075 U+0020 U+0282 U+0070 U+0065 U+2075 U+2075 U+0029 U+0020 U+0062 U+006c U+0065 U+2075 U+2075
 (kha¹³ me⁵⁵) tə⁵⁵zo⁵⁵	kha¹³_me⁵⁵_tə⁵⁵zo⁵⁵	(kha¹³ me⁵⁵) tə⁵⁵zo⁵⁵	QueyuXinlong	1	U+0028 U+006b U+0068 U+0061 U+00b9 U+00b3 U+0020 U+006d U+0065 U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+2075 U+2075 U+007a U+006f U+2075 U+2075
-ʁʒ	ʁʒ	mda¹³ʁʒi⁵⁵brə³³	QueyuXinlong	1	U+0281 U+0292
+ʁʒ	ʁ ʒ	mda¹³ʁʒi⁵⁵brə³³	QueyuXinlong	1	U+0281 U+0292
 (rlɯ⁵⁵) tə⁵⁵mtɕhe⁵⁵	rlɯ⁵⁵_tə⁵⁵mtɕhe⁵⁵	(rlɯ⁵⁵) tə⁵⁵mtɕhe⁵⁵	QueyuXinlong	1	U+0028 U+0072 U+006c U+026f U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+2075 U+2075 U+006d U+0074 U+0255 U+0068 U+0065 U+2075 U+2075
 (qha⁵⁵ʂn̥a⁵⁵) kuə⁵⁵	qha⁵⁵ʂn̥a⁵⁵_kuə⁵⁵	(qha⁵⁵ʂn̥a⁵⁵) kuə⁵⁵	QueyuXinlong	1	U+0028 U+0071 U+0068 U+0061 U+2075 U+2075 U+0282 U+006e U+0325 U+0061 U+2075 U+2075 U+0029 U+0020 U+006b U+0075 U+0259 U+2075 U+2075
 ŋa¹³ (ȵa⁵⁵) nɯ³³	ŋa¹³_ȵa⁵⁵_nɯ³³	ŋa¹³ (ȵa⁵⁵) nɯ³³	QueyuXinlong	1	U+014b U+0061 U+00b9 U+00b3 U+0020 U+0028 U+0235 U+0061 U+2075 U+2075 U+0029 U+0020 U+006e U+026f U+00b3 U+00b3
-ʐw	ʐw	buʐwə	QueyuPubarong	1	U+0290 U+0077
-əᵖ	əᵖ	ɕəᵖto	QueyuPubarong	1	U+0259 U+1d56
-iᵖ	iᵖ	ɕiᵖɕi	QueyuPubarong	1	U+0069 U+1d56
-oᵑ	oᵑ	ɕoᵑkʰû	QueyuPubarong	1	U+006f U+1d51
-mw	mw	dʑəmwə	QueyuPubarong	1	U+006d U+0077
-^ᵍɹ	ᵍɹ	ᵍɹə̂	QueyuPubarong	1	U+005e U+1d4d U+0279
-^ʰŋ	ʰŋ	ʰŋə̄dō	QueyuPubarong	1	U+005e U+02b0 U+014b
-^ʰpʰ	ʰpʰ	ʰpʰī	QueyuPubarong	1	U+005e U+02b0 U+0070 U+02b0
-^ᵏɕ	ᵏɕ	ᵏɕā	QueyuPubarong	1	U+005e U+1d4f U+0255
+ʐw	ʐ w	buʐwə	QueyuPubarong	1	U+0290 U+0077
+əᵖ	ə ᵖ	ɕəᵖto	QueyuPubarong	1	U+0259 U+1d56
+iᵖ	i ᵖ	ɕiᵖɕi	QueyuPubarong	1	U+0069 U+1d56
+oᵑ	o ᵑ	ɕoᵑkʰû	QueyuPubarong	1	U+006f U+1d51
+mw	m w	dʑəmwə	QueyuPubarong	1	U+006d U+0077
+^ᵍɹ	ᵍ ɹ	ᵍɹə̂	QueyuPubarong	1	U+005e U+1d4d U+0279
+^ʰŋ	ʰ ŋ	ʰŋə̄dō	QueyuPubarong	1	U+005e U+02b0 U+014b
+^ʰpʰ	ʰ pʰ	ʰpʰī	QueyuPubarong	1	U+005e U+02b0 U+0070 U+02b0
+^ᵏɕ	ᵏ ɕ	ᵏɕā	QueyuPubarong	1	U+005e U+1d4f U+0255
 ə̃̌$	ə̃̌	mə̃̌	QueyuPubarong	1	U+0259 U+0303 U+030c U+0024
-^ᵐɲ	ⁿɲ	ᵐɲē	QueyuPubarong	1	U+005e U+1d50 U+0272
-^ᵐpʰ	ⁿpʰ	ᵐpʰi	QueyuPubarong	1	U+005e U+1d50 U+0070 U+02b0
+^ᵐɲ	ⁿ ɲ	ᵐɲē	QueyuPubarong	1	U+005e U+1d50 U+0272
+^ᵐpʰ	ⁿ pʰ	ᵐpʰi	QueyuPubarong	1	U+005e U+1d50 U+0070 U+02b0
 ə̌	ə̌/ə	nə̌nə	QueyuPubarong	1	U+0259 U+030c
 ŷ$	ŷ/y	nyɕŷ	QueyuPubarong	1	U+0177 U+0024
 ɹ	ɹ	ɲuɹɨ	QueyuPubarong	1	U+0279
-^ᵑgw	ᵑgw	ᵑgwə	QueyuPubarong	1	U+005e U+1d51 U+0067 U+0077
-^ᵖtʂʰ	ᵖtʂʰ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+005e U+1d56 U+0074 U+0282 U+02b0
-ōᵖ	ō/pᵖ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+014d U+1d56
-ȭᵐ	ȭ/õᵐ	qʰȭᵐbɤ̄	QueyuPubarong	1	U+022d U+1d50
+^ᵑgw	ᵑg w	ᵑgwə	QueyuPubarong	1	U+005e U+1d51 U+0067 U+0077
+^ᵖtʂʰ	ᵖ tʂʰ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+005e U+1d56 U+0074 U+0282 U+02b0
+ōᵖ	ō/o ᵖ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+014d U+1d56
+ȭᵐ	ȭ/õ ᵐ	qʰȭᵐbɤ̄	QueyuPubarong	1	U+022d U+1d50
 ^ɻ	ɻ	ɻɨ̌	QueyuPubarong	1	U+005e U+027b
 ò$	ò/o	sʰò	QueyuPubarong	1	U+00f2 U+0024
 ə̄ˣ	ə̄/əˣ	tɕʰə̄ˣke	QueyuPubarong	1	U+0259 U+0304 U+02e3
-pw	pw	tsɨpwə	QueyuPubarong	1	U+0070 U+0077
-^tʂw	tʂw	tʂwəqāɻa	QueyuPubarong	1	U+005e U+0074 U+0282 U+0077
-^ˣkʰ	ˣkʰ	ˣkʰɯ̄	QueyuPubarong	1	U+005e U+02e3 U+006b U+02b0
-əˣ	əˣ	ˣn̥əˣn̥o	QueyuPubarong	1	U+0259 U+02e3
-^ˣpʰ	ˣpʰ	ˣpʰə̄	QueyuPubarong	1	U+005e U+02e3 U+0070 U+02b0
-^ˣqʰ	ˣqʰ	ˣqʰə̂	QueyuPubarong	1	U+005e U+02e3 U+0071 U+02b0
-^ˣsʰ	ˣsʰ	ˣsʰɨ	QueyuPubarong	1	U+005e U+02e3 U+0073 U+02b0
-æⁿ	æⁿ	ˣtɕæⁿdzə	QueyuPubarong	1	U+00e6 U+207f
-^ˣtɕʰ	ˣtɕʰ	ˣtɕʰɯ̄	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0255 U+02b0
-ōɕ	ōɕ	ˣtōɕo	QueyuPubarong	1	U+014d U+0255
-^ˣtsʰ	ˣtsʰ	ˣtsʰopɤ	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0073 U+02b0
-^ˣtʂʰ	ˣtʂʰ	ˣtʂʰɨ̂ʐo	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0282 U+02b0
+pw	p w	tsɨpwə	QueyuPubarong	1	U+0070 U+0077
+^tʂw	tʂ w	tʂwəqāɻa	QueyuPubarong	1	U+005e U+0074 U+0282 U+0077
+^ˣkʰ	ˣ kʰ	ˣkʰɯ̄	QueyuPubarong	1	U+005e U+02e3 U+006b U+02b0
+əˣ	ə ˣ	ˣn̥əˣn̥o	QueyuPubarong	1	U+0259 U+02e3
+^ˣpʰ	ˣ pʰ	ˣpʰə̄	QueyuPubarong	1	U+005e U+02e3 U+0070 U+02b0
+^ˣqʰ	ˣ qʰ	ˣqʰə̂	QueyuPubarong	1	U+005e U+02e3 U+0071 U+02b0
+^ˣsʰ	ˣ sʰ	ˣsʰɨ	QueyuPubarong	1	U+005e U+02e3 U+0073 U+02b0
+æⁿ	æ ⁿ	ˣtɕæⁿdzə	QueyuPubarong	1	U+00e6 U+207f
+^ˣtɕʰ	ˣ tɕʰ	ˣtɕʰɯ̄	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0255 U+02b0
+ōɕ	ō ɕ	ˣtōɕo	QueyuPubarong	1	U+014d U+0255
+^ˣtsʰ	ˣ tsʰ	ˣtsʰopɤ	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0073 U+02b0
+^ˣtʂʰ	ˣ tʂʰ	ˣtʂʰɨ̂ʐo	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0282 U+02b0
 ɨ̂	ɨ̂/ɨ	ˣtʂʰɨ̂ʐo	QueyuPubarong	1	U+0268 U+0302
-ȭⁿ	ȭ/õⁿ	zȭⁿdʑʉ	QueyuPubarong	1	U+022d U+207f
+ȭⁿ	ȭ/õ ⁿ	zȭⁿdʑʉ	QueyuPubarong	1	U+022d U+207f
 ʉ$	ʉ	zȭⁿdʑʉ	QueyuPubarong	1	U+0289 U+0024
 ^	NULL	χ^qã̄ɪ	QueyuPubarong	1	U+005e
-^χw	χw	χwā	QueyuPubarong	1	U+005e U+03c7 U+0077
-gw	gw	ŋgwə	QueyuPubarong	1	U+0067 U+0077
+^χw	χ w	χwā	QueyuPubarong	1	U+005e U+03c7 U+0077
+gw	g w	ŋgwə	QueyuPubarong	1	U+0067 U+0077
 ũ$	ũ	ndʑũ	QueyuPubarong	1	U+0169 U+0024
-tsw	tsw	xtswəlyē	QueyuPubarong	1	U+0074 U+0073 U+0077
-tʰə̌, tsə̌	tʰə̌/ə	tʰə̌, tsə̌	QueyuPubarong	1	U+0074 U+02b0 U+0259 U+030c U+002c U+0020 U+0074 U+0073 U+0259 U+030c
+tsw	ts w	xtswəlyē	QueyuPubarong	1	U+0074 U+0073 U+0077
+tʰə̌, tsə̌	tʰ ə̌/ə	tʰə̌, tsə̌	QueyuPubarong	1	U+0074 U+02b0 U+0259 U+030c U+002c U+0020 U+0074 U+0073 U+0259 U+030c
 tʂʰ	ʈʂʰ	tʂʰə̄ptʂʰə	QueyuPubarong	1	U+0074 U+0282 U+02b0
 ũ̄$	ũ̄	ʐũʐũ̄	QueyuPubarong	1	U+0169 U+0304 U+0024
 ^ɲ̥	ɲ̊	ɲ̥īn̥i	QueyuPubarong	1	U+005e U+0272 U+0325
-āɕ	ā/aɕ	qāɕye	QueyuPubarong	1	U+0101 U+0255
+āɕ	ā/a ɕ	qāɕye	QueyuPubarong	1	U+0101 U+0255
 ǣ	ǣ/æ	sǣmə	QueyuPubarong	1	U+01e3
 õ$	õ	mõ	QueyuPubarong	1	U+00f5 U+0024
 ʊ̄	ʊ̄/ʊ	sʊ̄sʊ	QueyuPubarong	1	U+028a U+0304
-tʊ, leɪ	tʊ	tʊ, leɪ	QueyuPubarong	1	U+0074 U+028a U+002c U+0020 U+006c U+0065 U+026a
+tʊ, leɪ	t ʊ	tʊ, leɪ	QueyuPubarong	1	U+0074 U+028a U+002c U+0020 U+006c U+0065 U+026a
 ȳ$	ȳ/y	tɕjətɕȳ	QueyuPubarong	1	U+0233 U+0024
 ɪ̄$	ɪ̄/ɪ	tʂɪptʂɪ̄	QueyuPubarong	1	U+026a U+0304 U+0024
 ə̃$	ə̃	mə̃	QueyuPubarong	1	U+0259 U+0303 U+0024
-^vw	vw	vwa	QueyuPubarong	1	U+005e U+0076 U+0077
+^vw	v w	vwa	QueyuPubarong	1	U+005e U+0076 U+0077
 ʊ̃$	ʊ̃	ptɕjʊ̃	QueyuPubarong	1	U+028a U+0303 U+0024
-tɕʰɪ (open the door)	tɕʰɪ	tɕʰɪ (open the door)	QueyuPubarong	1	U+0074 U+0255 U+02b0 U+026a U+0020 U+0028 U+006f U+0070 U+0065 U+006e U+0020 U+0074 U+0068 U+0065 U+0020 U+0064 U+006f U+006f U+0072 U+0029
-^xsʰw	xsʰw	xsʰwē	QueyuPubarong	1	U+005e U+0078 U+0073 U+02b0 U+0077
+tɕʰɪ (open the door)	tɕʰ ɪ	tɕʰɪ (open the door)	QueyuPubarong	1	U+0074 U+0255 U+02b0 U+026a U+0020 U+0028 U+006f U+0070 U+0065 U+006e U+0020 U+0074 U+0068 U+0065 U+0020 U+0064 U+006f U+006f U+0072 U+0029
+^xsʰw	x sʰ w	xsʰwē	QueyuPubarong	1	U+005e U+0078 U+0073 U+02b0 U+0077
 ^ə̄	ə̄/ə	ə̄ntsʰɨ	QueyuPubarong	1	U+005e U+0259 U+0304
 ə̂̂	ə̂/ə	rdə̂̂l	SiyuewuKhroskyabs	1	U+0259 U+0302 U+0302
 ^ɑ̂	ɑ̂/ɑ	ɑ̂vɑ	SiyuewuKhroskyabs	1	U+005e U+0251 U+0302
-ōs$	ō/os	nə-psōs	BragbarSitu	1	U+014d U+0073 U+0024
+ōs$	ō/o s	nə-psōs	BragbarSitu	1	U+014d U+0073 U+0024
 ^ˈt	t	ˈtə-tɕɐ	BragbarSitu	1	U+005e U+02c8 U+0074
 ^ˈth	tʰ	ˈthə-ksən	BragbarSitu	1	U+005e U+02c8 U+0074 U+0068
-^chw	cʰw	chwāk	BragbarSitu	1	U+005e U+0063 U+0068 U+0077
+^chw	cʰ w	chwāk	BragbarSitu	1	U+005e U+0063 U+0068 U+0077
 _̍	_̍	ta-kap ̍tʂhutʂhu	BragbarSitu	1	U+005f U+030d
 ǝ	ə	tǝ-ɟɐ̄m	BragbarSitu	1	U+01dd
-âs$	â/as	vartsâs	BragbarSitu	1	U+00e2 U+0073 U+0024
+âs$	â/a s	vartsâs	BragbarSitu	1	U+00e2 U+0073 U+0024
 ˈm	m	kə-ɕəm-ˈmbrombro	BragbarSitu	1	U+02c8 U+006d
 ˈl	l	ta-ˈliɛliɛt	BragbarSitu	1	U+02c8 U+006c
-ûs$	û/us	rəktɕhûs	BragbarSitu	1	U+00fb U+0073 U+0024
+ûs$	û/u s	rəktɕhûs	BragbarSitu	1	U+00fb U+0073 U+0024
 ˈn	n	ta-zōr ˈno-tɕhe	BragbarSitu	1	U+02c8 U+006e
-tɕw	tɕw	ka-tɕwāk	BragbarSitu	1	U+0074 U+0255 U+0077
-zz	zz	kə-nəz-zɟê	BragbarSitu	1	U+007a U+007a
+tɕw	tɕ w	ka-tɕwāk	BragbarSitu	1	U+0074 U+0255 U+0077
+zz	z z	kə-nəz-zɟê	BragbarSitu	1	U+007a U+007a
 ɐ̄$	ɐ̄	kətɕɐ̄	BragbarSitu	1	U+0250 U+0304 U+0024
 ^̍n	̍n	̍nɟeɲō	BragbarSitu	1	U+005e U+030d U+006e
-^vɕʰ	vɕʰ	vɕʰə	Geshiza	1	U+005e U+0076 U+0255 U+02b0
-^wɕ	wɕ	wɕəu	Geshiza	1	U+005e U+0077 U+0255
-~w	+	wji~wji	Geshiza	1	U+007e U+0077
-^nɕ	nɕ	nɕi⁵³	GuanyinqiaoKhroskyabs	1	U+005e U+006e U+0255
+^vɕʰ	v ɕʰ	vɕʰə	Geshiza	1	U+005e U+0076 U+0255 U+02b0
+^wɕ	w ɕ	wɕəu	Geshiza	1	U+005e U+0077 U+0255
+~w	+ w	wji~wji	Geshiza	1	U+007e U+0077
+^nɕ	n ɕ	nɕi⁵³	GuanyinqiaoKhroskyabs	1	U+005e U+006e U+0255
 ƈʰ	ƈʰ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
 ^ɣⁿ	ɣⁿ	ɣⁿdʒov	Tshobdun	1	U+005e U+0263 U+207f
 ɐ́$	ɐ́/ɐ	kʰɐ́	Tshobdun	1	U+0250 U+0301 U+0024
 ε$	ɛ	mε	Tshobdun	1	U+03b5 U+0024
 ^ⁿdʒ	ⁿdʒ	ⁿdʒi	Tshobdun	1	U+005e U+207f U+0064 U+0292
 ?$	NULL	ⁿgɛʔ ?	Tshobdun	1	U+003f U+0024
-^ⁿɟw	ⁿɟw	ⁿɟwɛʔ	Tshobdun	1	U+005e U+207f U+025f U+0077
-jⁿ	jⁿ	qɐjⁿdʒeʔ	Tshobdun	1	U+006a U+207f
-ɟw	ɟw	qɐɟwɛʔ	Tshobdun	1	U+025f U+0077
-lⁿ	lⁿ	qɐlⁿbjəmʔ	Tshobdun	1	U+006c U+207f
-χʃ	χʃ	raχʃa	Tshobdun	1	U+03c7 U+0283
-eⁿ	eⁿ	reⁿgo	Tshobdun	1	U+0065 U+207f
-^rⁿ	rⁿ	rⁿgu	Tshobdun	1	U+005e U+0072 U+207f
-oⁿ	oⁿ	tʃoⁿbɐjʔ	Tshobdun	1	U+006f U+207f
-^vʒ	vʒ	vʒəɣ	Tshobdun	1	U+005e U+0076 U+0292
+^ⁿɟw	ⁿɟ w	ⁿɟwɛʔ	Tshobdun	1	U+005e U+207f U+025f U+0077
+jⁿ	j ⁿ	qɐjⁿdʒeʔ	Tshobdun	1	U+006a U+207f
+ɟw	ɟ w	qɐɟwɛʔ	Tshobdun	1	U+025f U+0077
+lⁿ	l ⁿ	qɐlⁿbjəmʔ	Tshobdun	1	U+006c U+207f
+χʃ	χ ʃ	raχʃa	Tshobdun	1	U+03c7 U+0283
+eⁿ	e ⁿ	reⁿgo	Tshobdun	1	U+0065 U+207f
+^rⁿ	r ⁿ	rⁿgu	Tshobdun	1	U+005e U+0072 U+207f
+oⁿ	o ⁿ	tʃoⁿbɐjʔ	Tshobdun	1	U+006f U+207f
+^vʒ	v ʒ	vʒəɣ	Tshobdun	1	U+005e U+0076 U+0292
 ε	ɛ	xtεʔ	Tshobdun	1	U+03b5
-^χʃ	χʃ	χʃí	Tshobdun	1	U+005e U+03c7 U+0283
-ŕⁿ	ŕⁿ	ɐ-ʁɐŕⁿdzɐm	NgyaltsuZbu	1	U+0155 U+207f
+^χʃ	χ ʃ	χʃí	Tshobdun	1	U+005e U+03c7 U+0283
+ŕⁿ	ŕ ⁿ	ɐ-ʁɐŕⁿdzɐm	NgyaltsuZbu	1	U+0155 U+207f
 ^ɐ́	ɐ́	ɐ́rqə	NgyaltsuZbu	1	U+005e U+0250 U+0301
-ʁw	ʁw	ɐʁwê	NgyaltsuZbu	1	U+0281 U+0077
-^ɕw	ɕw	ɕwór	NgyaltsuZbu	1	U+005e U+0255 U+0077
+ʁw	ʁ w	ɐʁwê	NgyaltsuZbu	1	U+0281 U+0077
+^ɕw	ɕ w	ɕwór	NgyaltsuZbu	1	U+005e U+0255 U+0077
 ^ə́	ə́/ə	ə́jʔ	NgyaltsuZbu	1	U+005e U+0259 U+0301
 t́$	t́	k-ɐləlɐt́	NgyaltsuZbu	1	U+0074 U+0301 U+0024
-khw	khw	kɐ-rəkəkhwî	NgyaltsuZbu	1	U+006b U+0068 U+0077
+khw	kʰ w	kɐ-rəkəkhwî	NgyaltsuZbu	1	U+006b U+0068 U+0077
 ôˠ$	ô/oˠ	kɑ-vɑmôˠ	NgyaltsuZbu	1	U+00f4 U+02e0 U+0024
 ⁿɟ	ⁿɟ	kə-ⁿɟɐ́ʁ	NgyaltsuZbu	1	U+207f U+025f
-ⁿk	ⁿk	kə-ⁿkɐ́ʔ	NgyaltsuZbu	1	U+207f U+006b
+ⁿk	ⁿ k	kə-ⁿkɐ́ʔ	NgyaltsuZbu	1	U+207f U+006b
 ^ⁿɡ	ⁿg	ⁿɡəréʔ	NgyaltsuZbu	1	U+005e U+207f U+0261
-ɢw	ɢw	nⁿɢwê	NgyaltsuZbu	1	U+0262 U+0077
-cw	cw	qɐcwíʔ	NgyaltsuZbu	1	U+0063 U+0077
-chw	cʰw	təɲchwéʔ	NgyaltsuZbu	1	U+0063 U+0068 U+0077
-^́v	́v	́vi	NgyaltsuZbu	1	U+005e U+0301 U+0076
+ɢw	ɢ w	nⁿɢwê	NgyaltsuZbu	1	U+0262 U+0077
+cw	c w	qɐcwíʔ	NgyaltsuZbu	1	U+0063 U+0077
+chw	cʰ w	təɲchwéʔ	NgyaltsuZbu	1	U+0063 U+0068 U+0077
+^́v	́ v	́vi	NgyaltsuZbu	1	U+005e U+0301 U+0076
 ^ã	ã	ã55na31	Zlarong	1	U+005e U+00e3
 ^ɡ	g	ɡæ31ŋɡɔ55	Zlarong	1	U+005e U+0261
-ʃw	ʃw	təʃwa	KyomkyoSitu	1	U+0283 U+0077
+ʃw	ʃ w	təʃwa	KyomkyoSitu	1	U+0283 U+0077
 ¤	NULL	ɟefun¤ kava	KyomkyoSitu	1	U+00a4
