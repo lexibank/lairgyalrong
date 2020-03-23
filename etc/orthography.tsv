@@ -1,7 +1,7 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 sɔ1̃3	s ɔ̃ 13				
 ɐ-ʁɐŕⁿdzɐm	ɐ + ʁ ɐ́/ɐ r ⁿdz ɐ m				
-1ʁa̠lø	1 ʁ a̙ l ø				
+1ʁa̠ lø	1 ʁ a̙ l ø				
 ^	NULL				
 $	NULL				
 ə	ə	məlé, mər	Daofu, WobziKhroskyabs, Tangut, Bantawa	100	U+0259
@@ -438,7 +438,6 @@ sh	sʰ	də shɛ, kʌ³³ she⁵⁵	Daofu, Zhaba	2	U+0073 U+0068
 əə$	əː	tíkəfsəə, wəə	Tangut, NgyaltsuZbu	2	U+0259 U+0259 U+0024
 oo	oː	gioo¹, goor¹	Tangut	2	U+006f U+006f
 ẹ	e̙	ɣiẹ¹, bẹ¹	Tangut	2	U+1eb9
-ụ	ụ	lụ¹	Tangut	2	U+1ee5
 uu$	uː	djuu, luu	Tangut	2	U+0075 U+0075 U+0024
 ^ɣw	ɣ w	ɣwej, ɣwaɪɕo	Tangut, QueyuPubarong	2	U+005e U+0263 U+0077
 ^nw	n w	nwatɕə, nwə¹	Tangut, Geshiza	2	U+005e U+006e U+0077
@@ -511,10 +510,10 @@ dʰ	dʰ	ɨdʰiwaŋ	Bantawa	1	U+0064 U+02b0
 keŋma (keŋa)	k e ŋ m a	keŋma (keŋa)	Bantawa	1	U+006b U+0065 U+014b U+006d U+0061 U+0020 U+0028 U+006b U+0065 U+014b U+0061 U+0029
 cʰopma (cʰoa)	cʰ o p m a	cʰopma (cʰoa)	Bantawa	1	U+0063 U+02b0 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0063 U+02b0 U+006f U+0061 U+0029
 cʰakma (cʰakta)	cʰ a k m a	cʰakma (cʰakta)	Bantawa	1	U+0063 U+02b0 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0063 U+02b0 U+0061 U+006b U+0074 U+0061 U+0029
-jʰonma (jʰonta)	dzʰ o n m a	jʰonma (jʰonta)	Bantawa	1	U+006a U+02b0 U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006a U+02b0 U+006f U+006e U+0074 U+0061 U+0029
+jʰonma (jʰonta)	dzʱ o n m a	jʰonma (jʰonta)	Bantawa	1	U+006a U+02b0 U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006a U+02b0 U+006f U+006e U+0074 U+0061 U+0029
 hakma (hakta)	h a k m a	hakma (hakta)	Bantawa	1	U+0068 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0068 U+0061 U+006b U+0074 U+0061 U+0029
 paŋma (paŋsa)	p a ŋ m a	paŋma (paŋsa)	Bantawa	1	U+0070 U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+014b U+0073 U+0061 U+0029
-jʰ	dzʰ	majʰan	Bantawa	1	U+006a U+02b0
+jʰ	dzʱ	majʰan	Bantawa	1	U+006a U+02b0
 sepma (septu)	s e p m a	sepma (septu)	Bantawa	1	U+0073 U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0073 U+0065 U+0070 U+0074 U+0075 U+0029
 notma (notta)	n o t m a	notma (notta)	Bantawa	1	U+006e U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006e U+006f U+0074 U+0074 U+0061 U+0029
 ŋs	ŋ s	sɨŋsiwa	Bantawa	1	U+014b U+0073
@@ -761,3 +760,4 @@ chw	cʰ w	təɲchwéʔ	NgyaltsuZbu	1	U+0063 U+0068 U+0077
 ḥ$	ɦ				
 ŕ	r				
 3	3				
+^jʰ	dzʱ				
