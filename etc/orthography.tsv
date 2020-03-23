@@ -463,8 +463,8 @@ ms	m s	kɑ msɑm, bəmstʰûd	SiyuewuKhroskyabs, MaerkangrGyalrong	2	U+006d U+00
 ě	ě/e	děɪ, zěɪ	QueyuPubarong	2	U+011b
 ^kʰw	kʰ w	kʰwa, kʰwi	QueyuPubarong	2	U+005e U+006b U+02b0 U+0077
 ȳ	ȳ/y	mēɪdȳe, xtətɕȳ fla	QueyuPubarong	2	U+0233
-aᵐ	a ⁿ	ⁿdaᵐbā, tɕaᵐtsʰu	QueyuPubarong	2	U+0061 U+1d50
-əᵐ	ə ⁿ	ˣl̥əᵐnə, n̥əᵐpə	QueyuPubarong	2	U+0259 U+1d50
+aᵐ	a m	ⁿdaᵐbā, tɕaᵐtsʰu	QueyuPubarong	2	U+0061 U+1d50
+əᵐ	ə m	ˣl̥əᵐnə, n̥əᵐpə	QueyuPubarong	2	U+0259 U+1d50
 ě$	ě/e	ɲě, jě	QueyuPubarong	2	U+011b U+0024
 ǐ$	ǐ/i	ᵖɕǐ	QueyuPubarong	2	U+01d0 U+0024
 l̥	ɬ	skɐml̥óʁʔ, pjel̥a	QueyuPubarong, NgyaltsuZbu	2	U+006c U+0325
@@ -759,3 +759,4 @@ chw	cʰ w	təɲchwéʔ	NgyaltsuZbu	1	U+0063 U+0068 U+0077
 ŕ	r				
 3	3				
 ^jʰ	dzʱ				
+̃	NULL				
