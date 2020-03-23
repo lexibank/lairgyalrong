@@ -514,7 +514,7 @@ cʰakma (cʰakta)	cʰ a k m a	cʰakma (cʰakta)	Bantawa	1	U+0063 U+02b0 U+0061 U
 jʰonma (jʰonta)	dzʰ o n m a	jʰonma (jʰonta)	Bantawa	1	U+006a U+02b0 U+006f U+006e U+006d U+0061 U+0020 U+0028 U+006a U+02b0 U+006f U+006e U+0074 U+0061 U+0029
 hakma (hakta)	h a k m a	hakma (hakta)	Bantawa	1	U+0068 U+0061 U+006b U+006d U+0061 U+0020 U+0028 U+0068 U+0061 U+006b U+0074 U+0061 U+0029
 paŋma (paŋsa)	p a ŋ m a	paŋma (paŋsa)	Bantawa	1	U+0070 U+0061 U+014b U+006d U+0061 U+0020 U+0028 U+0070 U+0061 U+014b U+0073 U+0061 U+0029
-jʰ	jʰ	majʰan	Bantawa	1	U+006a U+02b0
+jʰ	dzʰ	majʰan	Bantawa	1	U+006a U+02b0
 sepma (septu)	s e p m a	sepma (septu)	Bantawa	1	U+0073 U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0073 U+0065 U+0070 U+0074 U+0075 U+0029
 notma (notta)	n o t m a	notma (notta)	Bantawa	1	U+006e U+006f U+0074 U+006d U+0061 U+0020 U+0028 U+006e U+006f U+0074 U+0074 U+0061 U+0029
 ŋs	ŋ s	sɨŋsiwa	Bantawa	1	U+014b U+0073
@@ -650,9 +650,9 @@ mw	m w	dʑəmwə	QueyuPubarong	1	U+006d U+0077
 ɹ	ɹ	ɲuɹɨ	QueyuPubarong	1	U+0279
 ^ᵑgw	ᵑg w	ᵑgwə	QueyuPubarong	1	U+005e U+1d51 U+0067 U+0077
 ^ᵖtʂʰ	p tʂʰ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+005e U+1d56 U+0074 U+0282 U+02b0
-ōᵖ	ō/o ᵖ	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+014d U+1d56
+ōᵖ	ō/o p	ᵖtʂʰōᵖtʂō	QueyuPubarong	1	U+014d U+1d56
 ptʂ	p tʂ				
-ȭᵐ	ȭ/õ ᵐ	qʰȭᵐbɤ̄	QueyuPubarong	1	U+022d U+1d50
+ȭᵐ	ȭ/õ ⁿ	qʰȭᵐbɤ̄	QueyuPubarong	1	U+022d U+1d50
 ᵐb	ⁿ b				
 ^ɻ	ɻ	ɻɨ̌	QueyuPubarong	1	U+005e U+027b
 ò$	ò/o	sʰò	QueyuPubarong	1	U+00f2 U+0024
@@ -759,3 +759,5 @@ chw	cʰ w	təɲchwéʔ	NgyaltsuZbu	1	U+0063 U+0068 U+0077
 ,	NULL				
 ́	NULL				
 ḥ$	ɦ				
+ŕ	r				
+3	3				
