@@ -172,7 +172,7 @@ y$	y	riy, ṅay	OldBurmese, MenyaGao, QueyuXinlong, Japhug, Bantawa	33	U+0079 U+
 ū$	ū/u	ta-pū, m̥ū	QueyuPubarong, BragbarSitu, OldBurmese	32	U+016b U+0024
 ō$	ō/o	tʂɨtɕō, ᵖtʂʰōᵖtʂō	QueyuPubarong, BragbarSitu, OldBurmese	32	U+014d U+0024
 χ	χ	aχom, sŋɯχcɤl	Japhug, NgyaltsuZbu, GuanyinqiaoKhroskyabs, WobziKhroskyabs, Tshobdun, NjorogsKhroskyabs, SiyuewuKhroskyabs, MenyaGao	31	U+03c7
-jw	jw	njwɨ̣², dzjwo²	Tangut, Japhug	31	U+006a U+0077
+jw	j w	njwɨ̣², dzjwo²	Tangut, Japhug	31	U+006a U+0077
 ə̱	ə̠	qhə̱³³zə̱⁵³, qhə̱³³tə̱⁵³	MuyaKangding	31	U+0259 U+0331
 qʰ	qʰ	ɕeɲeqʰaqʰa, ɴqʰi	Geshiza, NjorogsKhroskyabs, QueyuPubarong, Japhug, GuanyinqiaoKhroskyabs, WobziKhroskyabs, SiyuewuKhroskyabs, MenyaGao, Tshobdun	30	U+0071 U+02b0
 tɕʰ	tɕʰ	mtɕʰə́, mtɕʰi⁵⁵	Geshiza, GuanyinqiaoKhroskyabs, NjorogsKhroskyabs, QueyuPubarong, SiyuewuKhroskyabs, WobziKhroskyabs, BragbarSitu, Japhug	30	U+0074 U+0255 U+02b0
@@ -200,7 +200,7 @@ tʂh	tʂʰ	ptʂho⁵⁵ptʂho³³, 1tʂhøtʂhø	MenyaGao, QueyuXinlong, Zhaba, 
 ō	ō/o	kəɟōk, khō₁	BragbarSitu, QueyuPubarong, OldBurmese	23	U+014d
 ô	ô/o	kɐ-tʂôv, kɐ-ntsôɣ	NgyaltsuZbu, SiyuewuKhroskyabs, BragbarSitu	23	U+00f4
 qh	qʰ	2na̠qha̠, 1qhɔ̠sɔ̠	MenyaGao, Daofu, QueyuXinlong, MuyaKangding, NgyaltsuZbu	22	U+0071 U+0068
-^xs	xs	xsu, xsre⁵³	GuanyinqiaoKhroskyabs, SiyuewuKhroskyabs, Daofu, Tshobdun, QueyuXinlong, NjorogsKhroskyabs, Geshiza	22	U+005e U+0078 U+0073
+^xs	x s	xsu, xsre⁵³	GuanyinqiaoKhroskyabs, SiyuewuKhroskyabs, Daofu, Tshobdun, QueyuXinlong, NjorogsKhroskyabs, Geshiza	22	U+005e U+0078 U+0073
 ^qʰ	qʰ	qʰrɑ́, qʰȭ	QueyuPubarong, Tshobdun, WobziKhroskyabs, Geshiza, SiyuewuKhroskyabs, GuanyinqiaoKhroskyabs, NjorogsKhroskyabs	22	U+005e U+0071 U+02b0
 ê	ê	sêrʁi, kɐ-nɐrcêt	SiyuewuKhroskyabs, NgyaltsuZbu, Tshobdun, WobziKhroskyabs	22	U+00ea
 ɔ̠$	ɔ̠	1ndɔ̠, 1mɔ̠ɲɔ̠	MenyaGao	22	U+0254 U+0320 U+0024
@@ -232,7 +232,7 @@ w$	w	dʑjwow, ʔuiw	Tangut, OldBurmese	18	U+0077 U+0024
 ɛ̂$	ɛ̂/ɛ	tə-ziɛ̂, tə-rniɛ̂	BragbarSitu	17	U+025b U+0302 U+0024
 ^ɟ	ɟ	ɟje³³lɛ⁵⁵, ɟu	Zhaba, KyomkyoSitu, BragbarSitu, MaerkangrGyalrong, SiyuewuKhroskyabs, Daofu, Japhug	16	U+005e U+025f
 ø$	ø	2khəkø, 1tshəʐø	MenyaGao	16	U+00f8 U+0024
-ṅ	<?>	nhaṅḥ, khyo₁ṅḥ	OldBurmese	16	U+1e45
+ṅ	ṅ	nhaṅḥ, khyo₁ṅḥ	OldBurmese	16	U+1e45
 ^o	o	.o¹, okrū	BragbarSitu, Bantawa, Tshobdun, Zhaba, Tangut, NjorogsKhroskyabs	15	U+005e U+006f
 ^.	ʔ				
 ụ	u̙				
@@ -272,7 +272,7 @@ c$	c	pac, sac	OldBurmese	11	U+0063 U+0024
 ^qh	qʰ	qho⁵⁵, qhə̱⁵⁵tʂhuə⁵⁵nɑ³³	MuyaKangding, QueyuXinlong, Daofu	10	U+005e U+0071 U+0068
 ɢ	ɢ	2ɴɢæ̠ɴɢæ̠, nⁿɢɐ́ʔ	MenyaGao, QueyuPubarong, Japhug, NgyaltsuZbu, Daofu	10	U+0262
 β$	β	nɯɣmbɤβ, tʂɯβ	Japhug	10	U+03b2 U+0024
-fs	fs	kɐ-fséʔ, ŋgɛ⁵⁵fsə³³	NgyaltsuZbu, SiyuewuKhroskyabs, NjorogsKhroskyabs, WobziKhroskyabs, GuanyinqiaoKhroskyabs, Tshobdun	10	U+0066 U+0073
+fs	f s	kɐ-fséʔ, ŋgɛ⁵⁵fsə³³	NgyaltsuZbu, SiyuewuKhroskyabs, NjorogsKhroskyabs, WobziKhroskyabs, GuanyinqiaoKhroskyabs, Tshobdun	10	U+0066 U+0073
 ó$	ó	dʑəgó, sæpó	SiyuewuKhroskyabs, WobziKhroskyabs	10	U+00f3 U+0024
 ᴇ	ɛ	kə skrᴇn, kə pᴇ kɐ lɐt	MaerkangrGyalrong	10	U+1d07
 dʒ	dʒ	kə ndʒɐm, ndʒə ru	MaerkangrGyalrong, Tshobdun, QueyuXinlong, KyomkyoSitu	10	U+0064 U+0292
@@ -287,7 +287,7 @@ dʒ	dʒ	kə ndʒɐm, ndʒə ru	MaerkangrGyalrong, Tshobdun, QueyuXinlong, Kyomky
 kw	kʷ	karəkwam, kwākwā	QueyuPubarong, Bantawa, KyomkyoSitu, NgyaltsuZbu	9	U+006b U+0077
 ɮ	ɮ	ɣɮa ɣɮa, ga ɣɮa	Daofu	9	U+026e
 ɬ	ɬ	fɬɛ fɬa, ɬɑv ɬav	Daofu, QueyuXinlong, QueyuPubarong	9	U+026c
-^χs	χs	χsómʔ, χsɯm	Tshobdun, Japhug, NjorogsKhroskyabs, NgyaltsuZbu, SiyuewuKhroskyabs	9	U+005e U+03c7 U+0073
+^χs	χ s	χsómʔ, χsɯm	Tshobdun, Japhug, NjorogsKhroskyabs, NgyaltsuZbu, SiyuewuKhroskyabs	9	U+005e U+03c7 U+0073
 ǽ$	ǽ/æ	rjæzǽ, rǽ	WobziKhroskyabs	9	U+01fd U+0024
 ^vʑ	v ʑ	vʑo⁵⁵, vʑe⁵³	Zhaba, GuanyinqiaoKhroskyabs, Geshiza, NjorogsKhroskyabs	9	U+005e U+0076 U+0291
 ^ɦ	ɦ	ɦæ²⁴ nə³³, ɦo³³lo⁵⁵	MuyaKangding, Zhaba	9	U+005e U+0266
@@ -343,7 +343,7 @@ vs	v s	nvse⁵³, nɑ̂rinvse	GuanyinqiaoKhroskyabs, WobziKhroskyabs	5	U+0076 U+
 ^χɕ	χ ɕ	χɕi⁵³, χɕí	NjorogsKhroskyabs, WobziKhroskyabs, SiyuewuKhroskyabs, GuanyinqiaoKhroskyabs	5	U+005e U+03c7 U+0255
 á	á	sásu, orjáŋnəz	Tshobdun, WobziKhroskyabs	5	U+00e1
 ^tʃh	tʃʰ	tʃhət, tʃhə ri	MaerkangrGyalrong, QueyuXinlong, KyomkyoSitu	5	U+005e U+0074 U+0283 U+0068
-^rh	rh	rhak, rhyat	OldBurmese	5	U+005e U+0072 U+0068
+^rh	r̥	rhak, rhyat	OldBurmese	5	U+005e U+0072 U+0068
 ñ	ɲ	sañ◦to₁ṅ, lak◦sañḥ	OldBurmese	5	U+00f1
 ñ$	ɲ	lañ, ʔa◦mañ	OldBurmese	5	U+00f1 U+0024
 ṃ$	m̩	pyaṃ, sak◦taṃ	OldBurmese	5	U+1e43 U+0024
@@ -374,7 +374,7 @@ tw	t w	tə-ntwiɛ̂, təntwa	NgyaltsuZbu, BragbarSitu, KyomkyoSitu, MaerkangrGya
 ʒ	ʒ	kaməʒur, kəʒu	KyomkyoSitu, MaerkangrGyalrong	4	U+0292
 ^ññ	ñ ñ	ññac◦pat, ññaññḥ	OldBurmese	4	U+005e U+00f1 U+00f1
 tʃh	tʃʰ	kantʃhiʔ, ʃ◦tʃhi⁵⁵	QueyuXinlong, KyomkyoSitu	4	U+0074 U+0283 U+0068
-^ᵖɕ	ᵖɕ	ᵖɕǐ, ᵖɕə̄	QueyuPubarong	4	U+005e U+1d56 U+0255
+^ᵖɕ	p ɕ	ᵖɕǐ, ᵖɕə̄	QueyuPubarong	4	U+005e U+1d56 U+0255
 əⁿ	ə ⁿ	təⁿdʑə̂, təⁿbre	NgyaltsuZbu, QueyuPubarong, Tshobdun	4	U+0259 U+207f
 ɨ̄$	ɨ̄/ɨ	zɨ̄, tʰəntsʰɨ̄	QueyuPubarong	4	U+0268 U+0304 U+0024
 ^e	e	e55, e³³sram⁵⁵	Zlarong, NjorogsKhroskyabs	4	U+005e U+0065
@@ -395,7 +395,7 @@ lw	l w	kɐ-lwɐ́ʔ, kɑ lwɑ	NgyaltsuZbu, Japhug, MaerkangrGyalrong	3	U+006c U+
 ^æ̂	æ̂/æ	æ̂pɑ, æ̂mæ	WobziKhroskyabs, SiyuewuKhroskyabs	3	U+005e U+00e6 U+0302
 ^tʂʰ	ʈʂʰ	tʂʰə̄ptʂʰə, tʂʰʊ́ŋ lǽ	WobziKhroskyabs, QueyuPubarong	3	U+005e U+0074 U+0282 U+02b0
 ᴜ̃	ʊ̃	lᴜ̃³³tɕho⁵⁵, bdʑᴜ̃¹³	Zhaba	3	U+1d1c U+0303
-vʐ	vʐ	the⁵⁵vʐe⁵⁵vʐe³³, ʌ³³ vʐe⁵⁵	Zhaba	3	U+0076 U+0290
+vʐ	v ʐ	the⁵⁵vʐe⁵⁵vʐe³³, ʌ³³ vʐe⁵⁵	Zhaba	3	U+0076 U+0290
 ⁵⁵|	⁵⁵	ʃə⁵⁵|rə⁵⁵, xə⁵⁵|ʐə⁵⁵	Zhaba, QueyuXinlong	3	U+2075 U+2075 U+007c
 ẽ	ẽ	tʂhẽ⁵⁵tʂhe⁵³, xẽ55mbu53	MuyaKangding, Zlarong, Zhaba	3	U+1ebd
 khs	kʰ s	kɐ nɐ ŋkhsə ŋkhsət, mɐ kə khsɐl	MaerkangrGyalrong	3	U+006b U+0068 U+0073
@@ -417,8 +417,8 @@ rɕ	r ɕ	sə⁵⁵rɕoq³³, rə³³rɕə⁵³	GuanyinqiaoKhroskyabs, SiyuewuKhr
 ^wʑ	w ʑ	wʑa, wʑæ	Geshiza	3	U+005e U+0077 U+0291
 ɔ́	ɔ́/ɔ	ʃɔ́ʃəm, qʰɔ́χpe	Tshobdun	3	U+0254 U+0301
 ^ⁿg	ⁿg	ⁿgɐréʔ, ⁿgɛʔ ?	Tshobdun, NgyaltsuZbu	3	U+005e U+207f U+0067
-^nⁿ	nⁿ	nⁿgiʔ, nⁿɢɐ́ʔ	NgyaltsuZbu, Tshobdun	3	U+005e U+006e U+207f
-ɐ́ⁿ	ɐ́ⁿ	qɐ́ⁿbət, tɕɐ́ⁿbɐ	NgyaltsuZbu, Tshobdun	3	U+0250 U+0301 U+207f
+^nⁿ	n ⁿ	nⁿgiʔ, nⁿɢɐ́ʔ	NgyaltsuZbu, Tshobdun	3	U+005e U+006e U+207f
+ɐ́ⁿ	ɐ́ ⁿ	qɐ́ⁿbət, tɕɐ́ⁿbɐ	NgyaltsuZbu, Tshobdun	3	U+0250 U+0301 U+207f
 ⁿdʑ	ⁿdʑ	kɐ-ⁿdʑôv, kɐ-ⁿdʑɐ̂ʁ	NgyaltsuZbu	3	U+207f U+0064 U+0291
 ʁⁿ	ʁⁿ	kɐ-ʁⁿdzɐ́rʔ, tɐʁⁿbɣíʔ	NgyaltsuZbu	3	U+0281 U+207f
 ⁿd	ⁿd	kɑ-ⁿdɑ̂, tə-ⁿdzrúʔ	NgyaltsuZbu	3	U+207f U+0064
@@ -449,6 +449,7 @@ uu	uː	dzuu²	Tangut	2	U+0075 U+0075
 bʐ	b ʐ	mbʐo¹³, mbʐe¹³	Zhaba	2	U+0062 U+0290
 vʑ	v ʑ	xtɕə̄vʑo, ɬe³³vʑʌ⁵⁵	QueyuPubarong, Zhaba	2	U+0076 U+0291
 _|	+	pə |rjɐ, kho |rok	MaerkangrGyalrong	2	U+005f U+007c
+|	NULL				
 ^pʃ	p ʃ	pʃəu jo, pʃɛ¹³	QueyuXinlong, MaerkangrGyalrong	2	U+005e U+0070 U+0283
 pʃ	p ʃ	tə pʃu, təpʃiʔ	KyomkyoSitu, MaerkangrGyalrong	2	U+0070 U+0283
 ms	m s	kɑ msɑm, bəmstʰûd	SiyuewuKhroskyabs, MaerkangrGyalrong	2	U+006d U+0073
@@ -462,19 +463,19 @@ ms	m s	kɑ msɑm, bəmstʰûd	SiyuewuKhroskyabs, MaerkangrGyalrong	2	U+006d U+00
 ě	ě/e	děɪ, zěɪ	QueyuPubarong	2	U+011b
 ^kʰw	kʰ w	kʰwa, kʰwi	QueyuPubarong	2	U+005e U+006b U+02b0 U+0077
 ȳ	ȳ/y	mēɪdȳe, xtətɕȳ fla	QueyuPubarong	2	U+0233
-aᵐ	a ᵐ	ⁿdaᵐbā, tɕaᵐtsʰu	QueyuPubarong	2	U+0061 U+1d50
-əᵐ	ə ᵐ	ˣl̥əᵐnə, n̥əᵐpə	QueyuPubarong	2	U+0259 U+1d50
+aᵐ	a ⁿ	ⁿdaᵐbā, tɕaᵐtsʰu	QueyuPubarong	2	U+0061 U+1d50
+əᵐ	ə ⁿ	ˣl̥əᵐnə, n̥əᵐpə	QueyuPubarong	2	U+0259 U+1d50
 ě$	ě/e	ɲě, jě	QueyuPubarong	2	U+011b U+0024
 ǐ$	ǐ/i	ᵖɕǐ	QueyuPubarong	2	U+01d0 U+0024
 l̥	ɬ	skɐml̥óʁʔ, pjel̥a	QueyuPubarong, NgyaltsuZbu	2	U+006c U+0325
 ȭ	ȭ/o	pȭtsaɪ, zȭntsʰɨ	QueyuPubarong	2	U+022d
-^ᵖs	ᵖ s	ᵖsɨ	QueyuPubarong	2	U+005e U+1d56 U+0073
+^ᵖs	p s	ᵖsɨ	QueyuPubarong	2	U+005e U+1d56 U+0073
 ɯ̄$	ɯ̄	ˣtɕʰɯ̄, ˣkʰɯ̄	QueyuPubarong	2	U+026f U+0304 U+0024
-^ˣk	ˣ k	ˣkū, ˣki	QueyuPubarong	2	U+005e U+02e3 U+006b
-^ˣl̥	ˣ ɬ	ˣl̥əᵐnə, ˣl̥ī	QueyuPubarong	2	U+005e U+02e3 U+006c U+0325
-^ˣn̥	ˣ n̥	ˣn̥əˣn̥o, ˣn̥əʐo	QueyuPubarong	2	U+005e U+02e3 U+006e U+0325
-^ˣs	ˣ s	ˣsɨ, ˣsǒ	QueyuPubarong	2	U+005e U+02e3 U+0073
-^ˣtɕ	ˣ tɕ	ˣtɕûkʰu, ˣtɕæⁿdzə	QueyuPubarong	2	U+005e U+02e3 U+0074 U+0255
+^ˣk	x k	ˣkū, ˣki	QueyuPubarong	2	U+005e U+02e3 U+006b
+^ˣl̥	x ɬ	ˣl̥əᵐnə, ˣl̥ī	QueyuPubarong	2	U+005e U+02e3 U+006c U+0325
+^ˣn̥	x n̥	ˣn̥əˣn̥o, ˣn̥əʐo	QueyuPubarong	2	U+005e U+02e3 U+006e U+0325
+^ˣs	x s	ˣsɨ, ˣsǒ	QueyuPubarong	2	U+005e U+02e3 U+0073
+^ˣtɕ	x tɕ	ˣtɕûkʰu, ˣtɕæⁿdzə	QueyuPubarong	2	U+005e U+02e3 U+0074 U+0255
 ə̌$	ə̌	nə̌, ŋə̌	QueyuPubarong	2	U+0259 U+030c U+0024
 ^bʐ	b ʐ	bʐī, bʐɪ	QueyuPubarong	2	U+005e U+0062 U+0290
 qw	q w	χqwa, pɨqwō	QueyuPubarong	2	U+0071 U+0077
@@ -490,14 +491,14 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ⁵	⁵	sko⁵me⁵⁵, vu⁵ɲaq⁵⁵	GuanyinqiaoKhroskyabs, NjorogsKhroskyabs	2	U+2075
 ʔs$	ʔ s	scçʰeʔs, kəʃnəʔs	KyomkyoSitu, NjorogsKhroskyabs	2	U+0294 U+0073 U+0024
 ^’	NULL	’pa, ’tsʰet	Tshobdun	2	U+005e U+2019
-mⁿ	mⁿ	tɑlvɑⁿdómⁿdom, lɐmⁿdʐo	NgyaltsuZbu, Tshobdun	2	U+006d U+207f
+mⁿ	m ⁿ	tɑlvɑⁿdómⁿdom, lɐmⁿdʐo	NgyaltsuZbu, Tshobdun	2	U+006d U+207f
 cʰw	cʰ w	qɐ́cʰwet, təncʰwe	Tshobdun	2	U+0063 U+02b0 U+0077
 ^rw	r w	rwoʁrwóʁʔ, rwi	NgyaltsuZbu, Tshobdun	2	U+005e U+0072 U+0077
 ^ʁʒ	ʁ ʒ	ʁʒonu	Tshobdun	2	U+005e U+0281 U+0292
 óˠ	óˠ	k-ɑmdzóˠʔ, k-ɑrtóˠmʔ	NgyaltsuZbu	2	U+00f3 U+02e0
 ôˠ	ôˠ	kɑ-mtshôˠt, mtshôˠt	NgyaltsuZbu	2	U+00f4 U+02e0
 ⁿɡ	ⁿg	tɐ-ⁿɡómʔ, kə-ⁿɡór	NgyaltsuZbu	2	U+207f U+0261
-ɑⁿ	ɑⁿ	tɑlvɑⁿdómⁿdom, tɑⁿbɯ̂	NgyaltsuZbu	2	U+0251 U+207f
+ɑⁿ	ɑ ⁿ	tɑlvɑⁿdómⁿdom, tɑⁿbɯ̂	NgyaltsuZbu	2	U+0251 U+207f
 ĩ	ĩ	tɕhĩ55pe53, ɕĩ55phu53	Zlarong	2	U+0129
 N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 @	æ	jamm@y	Bantawa	1	U+0040
@@ -610,7 +611,7 @@ e̱	e̙	le̱³³nə̱⁵³	MuyaKangding	1	U+0065 U+0331
 (tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	tsi³³tʂu⁵⁵_tə³³dʑɐ⁵³	(tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	MuyaKangding	1	U+0028 U+0074 U+0073 U+0069 U+00b3 U+00b3 U+0074 U+0282 U+0075 U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+00b3 U+00b3 U+0064 U+0291 U+0250 U+2075 U+00b3
 ʌʌ$	ʌː	2jʌʌ	MenyaGao	1	U+028c U+028c U+0024
 ^ṅh	ṅ h	ṅhak	OldBurmese	1	U+005e U+1e45 U+0068
-ṁ$	ṁ	to₂ṅ◦paṁ	OldBurmese	1	U+1e41 U+0024
+ṁ$	m	to₂ṅ◦paṁ	OldBurmese	1	U+1e41 U+0024
 nh	n h	ʔa◦nhac	OldBurmese	1	U+006e U+0068
 ññ	ñ ñ	ññaññḥ	OldBurmese	1	U+00f1 U+00f1
 rʒ	r ʒ	qo⁵⁵rʒi¹³	QueyuXinlong	1	U+0072 U+0292
@@ -635,8 +636,8 @@ iᵖ	i p	ɕiᵖɕi	QueyuPubarong	1	U+0069 U+1d56
 oᵑ	o ᵑ	ɕoᵑkʰû	QueyuPubarong	1	U+006f U+1d51
 mw	m w	dʑəmwə	QueyuPubarong	1	U+006d U+0077
 ^ᵍɹ	g ɹ	ᵍɹə̂	QueyuPubarong	1	U+005e U+1d4d U+0279
-^ʰŋ	ʰ ŋ	ʰŋə̄dō	QueyuPubarong	1	U+005e U+02b0 U+014b
-^ʰpʰ	ʰ pʰ	ʰpʰī	QueyuPubarong	1	U+005e U+02b0 U+0070 U+02b0
+^ʰŋ	ʰŋ	ʰŋə̄dō	QueyuPubarong	1	U+005e U+02b0 U+014b
+^ʰpʰ	ʰpʰ	ʰpʰī	QueyuPubarong	1	U+005e U+02b0 U+0070 U+02b0
 ^ᵏɕ	k ɕ	ᵏɕā	QueyuPubarong	1	U+005e U+1d4f U+0255
 ə̃̌$	ə̃̌	mə̃̌	QueyuPubarong	1	U+0259 U+0303 U+030c U+0024
 ^ᵐɲ	m ɲ	ᵐɲē	QueyuPubarong	1	U+005e U+1d50 U+0272
@@ -694,7 +695,7 @@ tɕʰɪ (open the door)	tɕʰ ɪ	tɕʰɪ (open the door)	QueyuPubarong	1	U+0074 
 ^ˈt	t	ˈtə-tɕɐ	BragbarSitu	1	U+005e U+02c8 U+0074
 ^ˈth	tʰ	ˈthə-ksən	BragbarSitu	1	U+005e U+02c8 U+0074 U+0068
 ^chw	cʰ w	chwāk	BragbarSitu	1	U+005e U+0063 U+0068 U+0077
-_̍	_̍	ta-kap ̍tʂhutʂhu	BragbarSitu	1	U+005f U+030d
+_̍	NULL	ta-kap ̍tʂhutʂhu	BragbarSitu	1	U+005f U+030d
 ǝ	ə	tǝ-ɟɐ̄m	BragbarSitu	1	U+01dd
 âs$	â/a s	vartsâs	BragbarSitu	1	U+00e2 U+0073 U+0024
 ˈm	m	kə-ɕəm-ˈmbrombro	BragbarSitu	1	U+02c8 U+006d
@@ -709,7 +710,7 @@ zz	z z	kə-nəz-zɟê	BragbarSitu	1	U+007a U+007a
 ^wɕ	w ɕ	wɕəu	Geshiza	1	U+005e U+0077 U+0255
 ~w	+ w	wji~wji	Geshiza	1	U+007e U+0077
 ^nɕ	n ɕ	nɕi⁵³	GuanyinqiaoKhroskyabs	1	U+005e U+006e U+0255
-ƈʰ	ƈʰ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
+ƈʰ	ɕʰ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
 ^ɣⁿ	ɣⁿ	ɣⁿdʒov	Tshobdun	1	U+005e U+0263 U+207f
 ɐ́$	ɐ́/ɐ	kʰɐ́	Tshobdun	1	U+0250 U+0301 U+0024
 ε$	ɛ	mε	Tshobdun	1	U+03b5 U+0024
@@ -726,7 +727,6 @@ oⁿ	o ⁿ	tʃoⁿbɐjʔ	Tshobdun	1	U+006f U+207f
 ^vʒ	v ʒ	vʒəɣ	Tshobdun	1	U+005e U+0076 U+0292
 ε	ɛ	xtεʔ	Tshobdun	1	U+03b5
 ^χʃ	χ ʃ	χʃí	Tshobdun	1	U+005e U+03c7 U+0283
-ŕⁿ	ŕ ⁿ	ɐ-ʁɐŕⁿdzɐm	NgyaltsuZbu	1	U+0155 U+207f
 ^ɐ́	ɐ́	ɐ́rqə	NgyaltsuZbu	1	U+005e U+0250 U+0301
 ʁw	ʁ w	ɐʁwê	NgyaltsuZbu	1	U+0281 U+0077
 ^ɕw	ɕ w	ɕwór	NgyaltsuZbu	1	U+005e U+0255 U+0077
