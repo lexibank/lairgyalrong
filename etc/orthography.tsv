@@ -1,7 +1,5 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-sɔ1̃3	s ɔ̃ 13				
-ɐ-ʁɐŕⁿdzɐm	ɐ + ʁ ɐ́/ɐ r ⁿdz ɐ m				
-1ʁa̠ lø	1 ʁ a̙ l ø				
+̠	NULL				
 ^	NULL				
 $	NULL				
 ə	ə	məlé, mər	Daofu, WobziKhroskyabs, Tangut, Bantawa	100	U+0259
@@ -635,7 +633,7 @@ m̥	m̥	qha⁵⁵m̥e³³	QueyuXinlong	1	U+006d U+0325
 ʐw	ʐ w	buʐwə	QueyuPubarong	1	U+0290 U+0077
 əᵖ	ə p	ɕəᵖto	QueyuPubarong	1	U+0259 U+1d56
 iᵖ	i p	ɕiᵖɕi	QueyuPubarong	1	U+0069 U+1d56
-oᵑ	o ⁿ	ɕoᵑkʰû	QueyuPubarong	1	U+006f U+1d51
+oᵑ	o ŋ	ɕoᵑkʰû	QueyuPubarong	1	U+006f U+1d51
 mw	m w	dʑəmwə	QueyuPubarong	1	U+006d U+0077
 ^ᵍɹ	g ɹ	ᵍɹə̂	QueyuPubarong	1	U+005e U+1d4d U+0279
 ^ʰŋ	ʰŋ	ʰŋə̄dō	QueyuPubarong	1	U+005e U+02b0 U+014b
