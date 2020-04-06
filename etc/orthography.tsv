@@ -476,7 +476,7 @@ l̥	ɬ	skɐml̥óʁʔ, pjel̥a	QueyuPubarong, NgyaltsuZbu	2	U+006c U+0325
 ^ˣn̥	x n̥	ˣn̥əˣn̥o, ˣn̥əʐo	QueyuPubarong	2	U+005e U+02e3 U+006e U+0325
 ^ˣs	x s	ˣsɨ, ˣsǒ	QueyuPubarong	2	U+005e U+02e3 U+0073
 ^ˣtɕ	x tɕ	ˣtɕûkʰu, ˣtɕæⁿdzə	QueyuPubarong	2	U+005e U+02e3 U+0074 U+0255
-ə̌$	ə̌/e	nə̌, ŋə̌	QueyuPubarong	2	U+0259 U+030c U+0024
+ə̌$	ə̌/ə	nə̌, ŋə̌	QueyuPubarong	2	U+0259 U+030c U+0024
 ^bʐ	b ʐ	bʐī, bʐɪ	QueyuPubarong	2	U+005e U+0062 U+0290
 qw	q w	χqwa, pɨqwō	QueyuPubarong	2	U+0071 U+0077
 īs$	ī/i s	ptɕʰīs, rɲīs	BragbarSitu	2	U+012b U+0073 U+0024
@@ -606,7 +606,7 @@ bʒ	b ʒ	khɐ bʒə kɑ pɑ	MaerkangrGyalrong	1	U+0062 U+0292
 ³⁵$	³⁵	jɐ³³næ⁵⁵βa³⁵	MuyaKangding	1	U+00b3 U+2075 U+0024
 e̱	e̙/e	le̱³³nə̱⁵³	MuyaKangding	1	U+0065 U+0331
 ø̱	ø̙/ø	qø̱²⁴	MuyaKangding	1	U+00f8 U+0331
-^zh	ʑ	zh⁵³zə³³	MuyaKangding	1	U+005e U+007a U+0068
+^zh	ʐʅ	zh⁵³zə³³	MuyaKangding	1	U+005e U+007a U+0068
 (tsi³³tʂu⁵⁵)_tə³³dʑɐ⁵³	ts i ³³ ʈʂ u ⁵⁵ + t ə ³³ dʑ ɐ ⁵³	(tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	MuyaKangding	1	U+0028 U+0074 U+0073 U+0069 U+00b3 U+00b3 U+0074 U+0282 U+0075 U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+00b3 U+00b3 U+0064 U+0291 U+0250 U+2075 U+00b3
 ʌʌ$	ʌː	2jʌʌ	MenyaGao	1	U+028c U+028c U+0024
 ^ṅh	ŋʱ	ṅhak	OldBurmese	1	U+005e U+1e45 U+0068
