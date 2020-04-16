@@ -318,7 +318,7 @@ aa$	aː	mjaa, tɕhjaa	Tangut	7	U+0061 U+0061 U+0024
 ḥ	ɦ	pāḥ◦cap, nāḥ◦ro₁k	OldBurmese	7	U+1e25
 n̥	n̥	ˣn̥əˣn̥o, n̥ɯ⁵⁵n̥ɯ³³	QueyuPubarong, QueyuXinlong	7	U+006e U+0325
 ɐⁿg	ɐ ⁿg	wɐⁿgiʔ, vɐⁿɟí	NgyaltsuZbu, Tshobdun	7	U+0250 U+207f
-ɯ́	ɯ́	tɑ-pɯ́ʔ, kɑ-rɟɯ́ɣʔ	NgyaltsuZbu	7	U+026f U+0301
+ɯ́	ɯ́/ɯ	tɑ-pɯ́ʔ, kɑ-rɟɯ́ɣʔ	NgyaltsuZbu	7	U+026f U+0301
 k-k	k + k	lek-ka, cʰuk-ka	Bantawa	6	U+006b U+006b
 h	h	tahem kava, satʃ he	KyomkyoSitu, Bantawa, MaerkangrGyalrong	6	U+0068
 ^ɕh	ɕʰ	ɕha ren, ɕhõ tho	Daofu, Zhaba	6	U+005e U+0255 U+0068
@@ -705,7 +705,7 @@ _̍	NULL	ta-kap ̍tʂhutʂhu	BragbarSitu	1	U+005f U+030d
 ˈn	n	ta-zōr ˈno-tɕhe	BragbarSitu	1	U+02c8 U+006e
 tɕw	tɕ w	ka-tɕwāk	BragbarSitu	1	U+0074 U+0255 U+0077
 z_z	z + z	kə-nəz-zɟê	BragbarSitu	1	U+007a U+007a
-ɐ̄$	ɐ̄	kətɕɐ̄	BragbarSitu	1	U+0250 U+0304 U+0024
+ɐ̄$	ɐ̄/ɐ	kətɕɐ̄	BragbarSitu	1	U+0250 U+0304 U+0024
 ^̍n	n	nɟeɲō	BragbarSitu	1	U+005e U+030d U+006e
 ^vɕʰ	v ɕʰ	vɕʰə	Geshiza	1	U+005e U+0076 U+0255 U+02b0
 ^wɕ	w ɕ	wɕəu	Geshiza	1	U+005e U+0077 U+0255
