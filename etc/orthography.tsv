@@ -393,7 +393,7 @@ rʑ	r ʑ	tɤ-rʑaβ, tɤ-rʑaʁ	Japhug	3	U+0072 U+0291
 lw	l w	kɐ-lwɐ́ʔ, kɑ lwɑ	NgyaltsuZbu, Japhug, MaerkangrGyalrong	3	U+006c U+0077
 ^u$	u	u	Tangut, OldBurmese	3	U+005e U+0075 U+0024
 ²	²	lhə² lhie², sji²dzjwo¹	Tangut	3	U+00b2
-ạ$	a̙/a	kjạ, lhjwạ	Tangut	3	U+1ea1 U+0024
+ạ$	a̙	kjạ, lhjwạ	Tangut	3	U+1ea1 U+0024
 ^æ̂	æ̂/æ	æ̂pɑ, æ̂mæ	WobziKhroskyabs, SiyuewuKhroskyabs	3	U+005e U+00e6 U+0302
 ^tʂʰ	ʈʂʰ	tʂʰə̄ptʂʰə, tʂʰʊ́ŋ lǽ	WobziKhroskyabs, QueyuPubarong	3	U+005e U+0074 U+0282 U+02b0
 ᴜ̃	ʊ̃	lᴜ̃³³tɕho⁵⁵, bdʑᴜ̃¹³	Zhaba	3	U+1d1c U+0303
@@ -434,7 +434,7 @@ sh	sʰ	də shɛ, kʌ³³ she⁵⁵	Daofu, Zhaba	2	U+0073 U+0068
 2	²	1ɦɛ2tɕhə, djɨr 2.77	Tangut, MenyaGao	2	U+0032
 əə$	əː	tíkəfsəə, wəə	Tangut, NgyaltsuZbu	2	U+0259 U+0259 U+0024
 oo	oː	gioo¹, goor¹	Tangut	2	U+006f U+006f
-ẹ	e̙/e	ɣiẹ¹, bẹ¹	Tangut	2	U+1eb9
+ẹ	e̙	ɣiẹ¹, bẹ¹	Tangut	2	U+1eb9
 uu$	uː	djuu, luu	Tangut	2	U+0075 U+0075 U+0024
 ^ɣw	ɣ w	ɣwej, ɣwaɪɕo	Tangut, QueyuPubarong	2	U+005e U+0263 U+0077
 ^nw	n w	nwatɕə, nwə¹	Tangut, Geshiza	2	U+005e U+006e U+0077
@@ -570,12 +570,12 @@ lh	ɬ	lhə² lhie²	Tangut	1	U+006c U+0068
 əə	əː	məə¹	Tangut	1	U+0259 U+0259
 ^gw	g w	gwjɨr	Tangut	1	U+005e U+0067 U+0077
 ^xw	x w	xwa²	Tangut	1	U+005e U+0078 U+0077
-ə̣	ə̙/ə	pjə̣j²	Tangut	1	U+0259 U+0323
+ə̣	ə̙	pjə̣j²	Tangut	1	U+0259 U+0323
 ^thw	tʰ w	thwər¹	Tangut	1	U+005e U+0074 U+0068 U+0077
-ọ$	o̙/o	ljọ	Tangut	1	U+1ecd U+0024
-i̧	i̙/i	kji̧j	Tangut	1	U+0069 U+0327
+ọ$	o̙	ljọ	Tangut	1	U+1ecd U+0024
+i̧	i̙	kji̧j	Tangut	1	U+0069 U+0327
 ɨ̣$	ɨ̙/ɨ	zjɨ̣	Tangut	1	U+0268 U+0323 U+0024
-^ọ$	o̙/o	.ọ	Tangut	1	U+005e U+1ecd U+0024
+^ọ$	o̙	.ọ	Tangut	1	U+005e U+1ecd U+0024
 ɥ	ɥ	ʁɟɥæ̂	WobziKhroskyabs	1	U+0265
 ʊ	ʊ	ɕɑ̂ŋtʊŋ	WobziKhroskyabs	1	U+028a
 ʊ̂	ʊ̂/ʊ	spjʊ̂ŋkəɣ	WobziKhroskyabs	1	U+028a U+0302
@@ -604,8 +604,8 @@ bʒ	b ʒ	khɐ bʒə kɑ pɑ	MaerkangrGyalrong	1	U+0062 U+0292
 ø̃	ø̃	thø̃³³thø⁵³	MuyaKangding	1	U+00f8 U+0303
 (zu²⁴)_rə³³rə⁵³	z u ²⁴ r ə ³³ r ə ⁵³	(zu²⁴) rə³³rə⁵³	MuyaKangding	1	U+0028 U+007a U+0075 U+00b2 U+2074 U+0029 U+0020 U+0072 U+0259 U+00b3 U+00b3 U+0072 U+0259 U+2075 U+00b3
 ³⁵$	³⁵	jɐ³³næ⁵⁵βa³⁵	MuyaKangding	1	U+00b3 U+2075 U+0024
-e̱	e̙/e	le̱³³nə̱⁵³	MuyaKangding	1	U+0065 U+0331
-ø̱	ø̙/ø	qø̱²⁴	MuyaKangding	1	U+00f8 U+0331
+e̱	e̙	le̱³³nə̱⁵³	MuyaKangding	1	U+0065 U+0331
+ø̱	ø̙	qø̱²⁴	MuyaKangding	1	U+00f8 U+0331
 ^zh	ʐʅ	zh⁵³zə³³	MuyaKangding	1	U+005e U+007a U+0068
 (tsi³³tʂu⁵⁵)_tə³³dʑɐ⁵³	ts i ³³ ʈʂ u ⁵⁵ + t ə ³³ dʑ ɐ ⁵³	(tsi³³tʂu⁵⁵) tə³³dʑɐ⁵³	MuyaKangding	1	U+0028 U+0074 U+0073 U+0069 U+00b3 U+00b3 U+0074 U+0282 U+0075 U+2075 U+2075 U+0029 U+0020 U+0074 U+0259 U+00b3 U+00b3 U+0064 U+0291 U+0250 U+2075 U+00b3
 ʌʌ$	ʌː	2jʌʌ	MenyaGao	1	U+028c U+028c U+0024
