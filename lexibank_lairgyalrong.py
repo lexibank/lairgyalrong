@@ -42,7 +42,7 @@ class Dataset(BaseDataset):
 
         args.writer.add_sources()
         concept_coverage = {c['ENGLISH']: 0 for c in self.concepts}
-        D = {0: ['doculect', 'concept', 'value', 'form', 'source', 'sagart_id']}
+        D = {0: ['id_in_source', 'doculect', 'concept', 'value', 'form', 'source', 'sagart_id']}
         gidx = 1
         for language in self.languages:
             args.log.info("parsing {0}".format(language['Name']))
@@ -50,6 +50,7 @@ class Dataset(BaseDataset):
                 language['ID']+'.tsv', delimiter='\t', dicts=True):
                 if row['CONCEPT'] not in ['UNKNOWN', 'GLOSS', '']:
                     D[gidx] = [
+                        row['ID'] or '',
                         language['ID'], 
                         row['CONCEPT'], 
                         row['FORM'], 
@@ -88,6 +89,7 @@ class Dataset(BaseDataset):
                 'concept', 'value', 'form', 'source', 'sagart_id'):
             args.writer.add_form(
                     Language_ID=language,
+                    Local_ID=wl[idx, 'id_in_source'],
                     Parameter_ID=concepts[concept],
                     Value=value if value else form,
                     Form=form if form else value,
