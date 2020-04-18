@@ -22,7 +22,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 21	to burn [intransitive]	1269	1428	BURNING	
 22	to buy	1516	1869	BUY	
 23	to chew	1424	321	CHEW	
-24	the child (young human)	169	1304	CHILD (YOUNG HUMAN)	
 25	the cloud	7	1489	CLOUD	
 26	cold (of temperature)	1063	1287	COLD	
 27	to come	1491	1446	COME	
@@ -30,7 +29,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 29	to count	1640	1420	COUNT	
 30	to cry (weep)	1485	1839	CRY	
 31	dark	1013	706	DARK	
-32	the daughter	222	1357	DAUGHTER	
 33	the dew	15	1977	DEW	
 34	to die	1651	1494	DIE	
 35	to dig	1698	1418	DIG	
@@ -49,7 +47,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 48	eight	804	1705	EIGHT	
 49	the eye	79	1248	EYE	
 50	far	974	1406	FAR	
-51	the father	218	1217	FATHER	1
 52	the feather	299	1201	FEATHER	
 53	to fight	1234	1423	FIGHT	
 54	the fire	18	221	FIRE	
@@ -64,7 +61,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 63	the fog	16	249	FOG	
 64	the foot	103	1301	FOOT	
 65	the forest	50	420	FOREST	
-66	to forget	1704	1523	FORGET	
 67	four	800	1500	FOUR	
 68	the fox	325	1312	FOX	
 69	the frog	349	503	FROG	
@@ -81,12 +77,10 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 80	the hair (of the head)	75	1040	HAIR	
 81	the hand	107	1277	HAND	
 82	hard	1034	1884	HARD	
-83	he or she [third person singular]	934	262	HE OR SHE OR IT	1
 84	the head	74	1256	HEAD	
 85	to hear	1682	1408	HEAR	
 86	the heart	144	1223	HEART	
 87	heavy	1014	1210	HEAVY	
-88	here	944	136	HERE	
 89	to hide (conceal)	1169	602	HIDE (CONCEAL)	
 90	high / tall	968	1265	HIGH	
 91	to hold	1709	1448	HOLD	
@@ -98,15 +92,11 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 97	the house	494	1252	HOUSE	
 98	hundred	824	1634	HUNDRED	
 99	to hunt	1230	1435	HUNT	
-100	the husband	247	1200	HUSBAND	
-101	I [first person singular]	928	1209	I	1
 102	the ice	17	617	ICE	
 103	inside	715	1606	INSIDE	
 104	to kill	1602	1417	KILL	
 105	to knead	1594	274	KNEAD	
 106	the knee	101	1371	KNEE	
-107	knife	549	1352	KNIFE	
-108	to know (something)	1798	1410	KNOW (SOMETHING)	
 109	the lake	31	624	LAKE	
 110	late	1019	477	LATE	
 111	to laugh	1735	1355	LAUGH	
@@ -129,7 +119,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 128	the moon	4	1313	MOON	
 129	morning	749	1339	MORNING	
 130	the mosquito	360	1509	MOSQUITO	
-131	the mother	219	1216	MOTHER	1
 132	the mountain	23	639	MOUNTAIN	
 133	the mouse or rat	320	2139	MUROID (MOUSE OR RAT)	
 134	the mouth	84	674	MOUTH	
@@ -210,10 +199,8 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 209	there	950	1937	THERE	
 210	thick	980	1244	THICK	
 211	the thigh	100	800	THIGH	
-212	thin (object)	981	2307	THIN (OF HAIR AND LEAF)	
 213	to think (reflect)	1726	1415	THINK (REFLECT)	
 214	this	942	1214	THIS	1
-215	thou [second person singular]	931	1215	THOU	1
 216	three	799	492	THREE	
 217	to throw	1687	1456	THROW	
 218	the thunder	8	1150	THUNDER	
@@ -228,7 +215,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 227	to vomit	1535	1278	VOMIT	
 228	to walk	1815	1443	WALK	
 229	the water	47	948	WATER	
-230	we [first person plural inclusive]	930	1131	WE (INCLUSIVE)	1
 231	wet	1029	1726	WET	
 232	what	954	1236	WHAT	
 233	the wheat	410	1077	WHEAT	
@@ -255,10 +241,8 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 254	dirty				
 255	early				
 256	eight				
-257	far				
-258	female				
-259	few				
-260	forget				
+257	far								
+259	few							
 261	four				
 262	full				
 263	green				
@@ -268,13 +252,11 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 267	how				
 268	late				
 269	left				
-270	light (of weight)				
-271	male				
+270	light (of weight)							
 272	many				
 273	morning				
 274	narrow				
-275	new				
-276	not				
+275	new							
 277	old (of person)				
 278	other				
 279	painful				
@@ -301,8 +283,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 300	the body hair (hair or fur)				
 301	the branch				
 302	the breast (female)				
-303	the child				
-304	the child (descendant)				
+303	the child								
 305	the day (opposed to night)				
 306	the dew				
 307	the dream				
@@ -311,7 +292,6 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 310	the earthworm				
 311	the egg				
 312	the fat (grease)				
-313	the father				1
 314	the feather				
 315	the flea				
 316	the fog				
@@ -327,8 +307,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 326	the intestines				
 327	the knee				
 328	the knife				
-329	the lake				
-330	the leg				
+329	the lake						
 331	the lightning				
 332	the lip (the lips)				
 333	the liver				
@@ -347,8 +326,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 346	the roof				
 347	the root				
 348	the salt				
-349	the sea				
-350	the son				
+349	the sea							
 351	the sparrow				
 352	the spider				
 353	the stick				
@@ -359,12 +337,8 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 358	the wing				
 359	the work				
 360	the worm				
-361	the year				
-362	there				
-363	they [third person plural]				1
-364	thin				1
-365	thin (object)				
-366	thin (slim)				
+361	the year							
+365	thin (object)							
 367	this				1
 368	to be alive				
 369	to bite				
@@ -392,8 +366,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 391	to know				
 392	to learn				
 393	to lick				
-394	to lie down				
-395	to lie, rest				
+394	to lie down							
 396	to marry (a man marries a woman)				
 397	to open				
 398	to plant (vegetals, rice)				
@@ -408,8 +381,7 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 407	to shoot (an arrow)				
 408	to sing				
 409	to sit				
-410	to smell (perceive odor) [transitive]				
-411	to sow (broadcast, scatter seeds)				
+410	to smell (perceive odor) [transitive]							
 412	to spit				
 413	to split				
 414	to squeeze				
@@ -430,5 +402,4 @@ NUMBER	ENGLISH	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	Remove
 429	where				1
 430	wide				
 431	yesterday				
-432	you [second person plural]				1
 433	young				1
