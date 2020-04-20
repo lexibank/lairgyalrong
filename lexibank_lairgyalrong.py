@@ -72,34 +72,33 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(D)
         concepts = {}
         for concept in self.concepts:
-            idx = '{0}_{1}'.format(
-                    concept['NUMBER'],
-                    slug(concept['ENGLISH'])
+            if concept['REMOVE'] != '1':
+                idx = '{0}_{1}'.format(
+                        concept['NUMBER'],
+                        slug(concept['ENGLISH'])
+                        )
+                args.writer.add_concept(
+                    ID=idx,
+                    Name=concept['ENGLISH'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
+                    Coverage=concept_coverage[concept["ENGLISH"]]
                     )
-            args.writer.add_concept(
-                ID=idx,
-                Name=concept['ENGLISH'],
-                Concepticon_ID=concept['CONCEPTICON_ID'],
-                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
-                Coverage=concept_coverage[concept["ENGLISH"]]
-                )
-            concepts[concept['ENGLISH']] = idx
-            args.log.info('added concept {0}'.format(concept['ENGLISH']))
+                concepts[concept['ENGLISH']] = idx
+                args.log.info('added concept {0}'.format(concept['ENGLISH']))
+
         for idx, language, concept, value, form, source, sid in wl.iter_rows('doculect', 
                 'concept', 'value', 'form', 'source', 'sagart_id'):
-            args.writer.add_form(
-                    Language_ID=language,
-                    Local_ID=wl[idx, 'id_in_source'],
-                    Parameter_ID=concepts[concept],
-                    Value=value if value else form,
-                    Form=form if form else value,
-                    Source=[source],
-                    Sagart_ID=sid
-                    )
-
-        wl.output('tsv',
-                filename=self.raw_dir.joinpath('rgyalrong').as_posix(),
-                ignore='all', prettify=False)
+            if concept in concepts:
+                args.writer.add_form(
+                        Language_ID=language,
+                        Local_ID=wl[idx, 'id_in_source'],
+                        Parameter_ID=concepts[concept],
+                        Value=value if value else form,
+                        Form=form if form else value,
+                        Source=[source],
+                        Sagart_ID=sid
+                        )
 
 
 

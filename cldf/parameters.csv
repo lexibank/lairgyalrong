@@ -43,7 +43,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 77_thegrass,the grass,606,GRASS,,,24
 80_thehairofthehead,the hair (of the head),1040,HAIR,,,22
 81_thehand,the hand,1277,HAND,,,22
-83_heorshethirdpersonsingular,he or she [third person singular],262,HE OR SHE OR IT,,,29
 84_thehead,the head,1256,HEAD,,,23
 86_theheart,the heart,1223,HEART,,,27
 87_heavy,heavy,1210,HEAVY,,,21
@@ -54,7 +53,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 96_hot,hot,1286,HOT,,,27
 97_thehouse,the house,1252,HOUSE,,,23
 98_hundred,hundred,1634,HUNDRED,,,21
-101_ifirstpersonsingular,I [first person singular],1209,I,,,24
 103_inside,inside,1606,INSIDE,,,22
 104_tokill,to kill,1417,KILL,,,25
 107_knife,knife,1352,KNIFE,,,25
@@ -67,7 +65,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 126_themeat,the meat,634,MEAT,,,27
 127_middle,middle,1093,MIDDLE,,,22
 128_themoon,the moon,1313,MOON,,,21
-131_themother,the mother,1216,MOTHER,,,23
 132_themountain,the mountain,639,MOUNTAIN,,,25
 133_themouseorrat,the mouse or rat,2139,MUROID (MOUSE OR RAT),,,21
 134_themouth,the mouth,674,MOUTH,,,28
@@ -108,9 +105,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 203_thestoneapieceof,the stone (a piece of),857,STONE,,,24
 205_thesun,the sun,1343,SUN,,,23
 206_thetail,the tail,1220,TAIL,,,21
+208_that,that,78,THAT,,,22
 210_thick,thick,1244,THICK,,,23
 213_tothinkreflect,to think (reflect),1415,THINK (REFLECT),,,24
-215_thousecondpersonsingular,thou [second person singular],1215,THOU,,,24
 216_three,three,492,THREE,,,22
 217_tothrow,to throw,1456,THROW,,,22
 218_thethunder,the thunder,1150,THUNDER,,,20
@@ -122,8 +119,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 226_two,two,1498,TWO,,,22
 227_tovomit,to vomit,1278,VOMIT,,,22
 229_thewater,the water,948,WATER,,,21
-230_wefirstpersonpluralinclusive,we [first person plural inclusive],1131,WE (INCLUSIVE),,,22
 232_what,what,1236,WHAT,,,22
+234_where,where,1237,WHERE,,,24
 235_white,white,1335,WHITE,,,21
 236_who,who,1235,WHO,,,21
 237_thewife,the wife,1199,WIFE,,,27
@@ -132,8 +129,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 242_thewoman,the woman,962,WOMAN,,,23
 243_thewoodmaterial,the wood (material),1803,WOOD,,,23
 246_yellow,yellow,1424,YELLOW,,,21
+249_young,young,1207,YOUNG,,,19
 250_theshit,the shit,676,SHIT (DEFECATE),,,23
-251_and,and,,,,,12
 252_before,before,,,,,19
 253_dark,dark,,,,,22
 254_dirty,dirty,,,,,21
@@ -170,11 +167,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 285_short,short,,,,,21
 286_sick,sick,,,,,16
 287_soft,soft,,,,,26
-288_some,some,,,,,16
 289_stoneoffruit,stone (of fruit),,,,,20
 290_straight,straight,,,,,21
 291_ten,ten,,,,,22
-292_that,that,,,,,22
 293_theant,the ant,,,,,21
 294_thearmpit,the armpit,,,,,20
 295_theashes,the ashes,,,,,20
@@ -195,7 +190,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 310_theearthworm,the earthworm,,,,,20
 311_theegg,the egg,,,,,21
 312_thefatgrease,the fat (grease),,,,,16
-313_thefather,the father,,,,,23
 314_thefeather,the feather,,,,,20
 315_theflea,the flea,,,,,22
 316_thefog,the fog,,,,,20
@@ -245,11 +239,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 360_theworm,the worm,,,,,22
 361_theyear,the year,,,,,23
 362_there,there,,,,,22
-363_theythirdpersonplural,they [third person plural],,,,,19
-364_thin,thin,,,,,18
 365_thinobject,thin (object),,,,,21
 366_thinslim,thin (slim),,,,,22
-367_this,this,,,,,23
 368_tobealive,to be alive,,,,,21
 369_tobite,to bite,,,,,24
 370_tobreathe,to breathe,,,,,15
@@ -310,9 +301,5 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
 425_toyawn,to yawn,,,,,15
 426_warmhot,warm (hot),,,,,21
 427_wet,wet,,,,,21
-428_when,when,,,,,15
-429_where,where,,,,,24
 430_wide,wide,,,,,18
 431_yesterday,yesterday,,,,,21
-432_yousecondpersonplural,you [second person plural],,,,,21
-433_young,young,,,,,19
