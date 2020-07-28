@@ -2,6 +2,7 @@ from lexibase import LexiBase
 from lingpy import *
 from collections import defaultdict
 from clldutils.text import strip_brackets, split_text
+from lingpy.convert.strings import write_nexus
 
 # cogids2cogid
 def cogids2cogid(wordlist, ref="cogids", cognates="cogid", morphemes="morphemes"):
@@ -48,7 +49,7 @@ for idx in lex:
             basictypes.strings(lex[idx, 'cogids'])):
         lex[idx, 'note'] = '!cognates'
     else:
-        if not 'NaN' in lex[idx, 'cogids']:
+        if not 'NaN' in lex[idx, 'cogids'] and lex[idx, 'cogids'].strip():
             D[idx] = [lex[idx, h] for h in D[0]]
 
 wl = Wordlist(D)
@@ -59,6 +60,21 @@ cogids2cogid(wl)
 lex.add_entries('morphemes', 'cogids', lambda x: '')
 for idx in wl:
     lex[idx, 'morphemes'] = wl[idx, 'morphemes']
-    lex[idx, 'cogid'] = wl[idx, 'cogid']
+    lex[idx, 'cogid'] = int(wl[idx, 'cogid'])
 
 lex.output('tsv', filename='rgyalrong-cogid', ignore='all')
+
+new_idx = max([wl[idx, 'cogid'] for idx in wl])+1
+for idx in lex:
+    if lex[idx, 'borrowing'].strip():
+        lex[idx, 'cogid'] = new_idx
+        new_idx += 1
+    elif '!' in lex[idx, 'note']:
+        lex[idx, 'cogid'] = new_idx
+        new_idx += 1
+    try:
+        lex[idx, 'cogid'] = int(lex[idx, 'cogid'])
+    except:
+        print('problem', idx, lex[idx, 'cogid'])
+
+write_nexus(wl, ref='cogid', mode='splitstree', filename='rgyalrong-st.nex')
