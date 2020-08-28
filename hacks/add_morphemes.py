@@ -4,6 +4,7 @@ from collections import defaultdict
 from clldutils.text import strip_brackets, split_text
 from clldutils.misc import slug
 from lingpy.convert.strings import write_nexus
+from pyconcepticon import Concepticon
 
 # cogids2cogid
 def cogids2cogid(wordlist, ref="cogids", cognates="cogid", morphemes="morphemes"):
@@ -35,13 +36,16 @@ def cogids2cogid(wordlist, ref="cogids", cognates="cogid", morphemes="morphemes"
     if morphemes:
         wordlist.add_entries(morphemes, M, lambda x: x)
 
+sconcepts = [c.english for c in Concepticon().conceptlists['Sagart-2019-250'].concepts.values() if c.attributes['coverage'] >= 0.8]
+
 lex = LexiBase.from_dbase(
         table='rgyalrong',
         dbase='rgyalrong.sqlite3',
         url='rgyalrong.sqlite3',
         )
-D = {0: [h for h in lex.columns]}
+
 lex.add_entries('sagartid', 'cogid', lambda x: x)
+D = {0: [h for h in lex.columns]}
 for idx in lex:
     try:
         lex[idx, 'cogids'] = basictypes.ints(cogids)
@@ -50,9 +54,12 @@ for idx in lex:
     if len(basictypes.lists(lex[idx, 'tokens']).n) != len(
             basictypes.strings(lex[idx, 'cogids'])):
         lex[idx, 'note'] = '!cognates'
+        print('! Warning', lex[idx, 'doculect'], lex[idx, 'concept'], lex[idx,
+            'tokens'], lex[idx, 'cogids'])
     else:
         if not 'NaN' in lex[idx, 'cogids'] and lex[idx, 'cogids'].strip():
-            D[idx] = [lex[idx, h] for h in D[0]]
+            if lex[idx, 'doculect'] not in ['Bantawa'] and lex[idx, 'concept'] in sconcepts:
+                D[idx] = [lex[idx, h] for h in D[0]]
 
 wl = Wordlist(D)
 
@@ -93,7 +100,7 @@ commands = [
     "mcmcp ngen=10000000 printfreq=10000 samplefreq=2000 nruns=2 nchains=4 savebrlens=yes filename=rgyalrong-mrbayes-out;",
     ]
 
-write_nexus(wl, ref='cogid', mode='mrbayes', filename='rgyalrong-mrbayes.nex',
+write_nexus(wl, ref='cogid', mode='mrbayes', filename='rgyalrong-mrbayes-180.nex',
         commands=commands)
 
-wl.output('tsv', filename='rgyalrong-check')
+wl.output('tsv', filename='rgyalrong-check-180')
