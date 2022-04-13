@@ -8188,9 +8188,9 @@
         },
         "KyomkyoSitu": {
             "bipa_errors": [
-                "\u207fd\u027d",
                 "t\u027d",
-                "\u0288\u027d"
+                "\u0288\u027d",
+                "\u207fd\u027d"
             ],
             "general_errors": 9,
             "replacements": {
@@ -9489,9 +9489,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u207fd\u027d",
                 "t\u027d",
-                "\u0288\u027d"
+                "\u0288\u027d",
+                "\u207fd\u027d"
             ],
             "segments": {
                 "+": 258,
@@ -10905,9 +10905,9 @@
         },
         "MazurStau": {
             "bipa_errors": [
+                "d\u0259",
                 "s\u0259",
-                "t\u0255\u02b0j\u00e6",
-                "d\u0259"
+                "t\u0255\u02b0j\u00e6"
             ],
             "general_errors": 3,
             "replacements": {
@@ -12206,9 +12206,9 @@
                 ]
             },
             "sclass_errors": [
+                "d\u0259",
                 "s\u0259",
-                "t\u0255\u02b0j\u00e6",
-                "d\u0259"
+                "t\u0255\u02b0j\u00e6"
             ],
             "segments": {
                 "+": 97,
@@ -13661,9 +13661,9 @@
         },
         "MuyaKangding": {
             "bipa_errors": [
-                "\u2075\u00b3\u0250\u0319",
+                "\u00b2\u2074\u0259\u0319",
                 "\u2075\u00b3\u0259\u0319",
-                "\u00b2\u2074\u0259\u0319"
+                "\u2075\u00b3\u0250\u0319"
             ],
             "general_errors": 7,
             "replacements": {
@@ -14962,9 +14962,9 @@
                 ]
             },
             "sclass_errors": [
-                "\u2075\u00b3\u0250\u0319",
+                "\u00b2\u2074\u0259\u0319",
                 "\u2075\u00b3\u0259\u0319",
-                "\u00b2\u2074\u0259\u0319"
+                "\u2075\u00b3\u0250\u0319"
             ],
             "segments": {
                 "+": 86,
@@ -16469,8 +16469,8 @@
         },
         "NjorogsKhroskyabs": {
             "bipa_errors": [
-                "\u025fj",
-                "\u2075\u00b3o"
+                "\u2075\u00b3o",
+                "\u025fj"
             ],
             "general_errors": 5,
             "replacements": {
@@ -17769,8 +17769,8 @@
                 ]
             },
             "sclass_errors": [
-                "\u025fj",
-                "\u2075\u00b3o"
+                "\u2075\u00b3o",
+                "\u025fj"
             ],
             "segments": {
                 "+": 134,
@@ -30706,17 +30706,17 @@
         ],
         "bad_words_count": 54,
         "bipa_errors": [
+            "\u025fj",
+            "\u00b2\u2074\u0259\u0319",
             "\u207fd\u027d",
-            "\u2075\u00b3\u0250\u0319",
+            "s\u0259",
             "d\u0259",
             "\u2075\u00b3\u0259\u0319",
-            "t\u027d",
-            "\u025fj",
-            "s\u0259",
-            "\u00b2\u2074\u0259\u0319",
+            "\u0288\u027d",
+            "\u2075\u00b3\u0250\u0319",
             "t\u0255\u02b0j\u00e6",
-            "\u2075\u00b3o",
-            "\u0288\u027d"
+            "t\u027d",
+            "\u2075\u00b3o"
         ],
         "general_errors": 45,
         "invalid_words": [],
@@ -32018,17 +32018,17 @@
             ]
         },
         "sclass_errors": [
+            "\u025fj",
+            "\u00b2\u2074\u0259\u0319",
             "\u207fd\u027d",
-            "\u2075\u00b3\u0250\u0319",
+            "s\u0259",
             "d\u0259",
             "\u2075\u00b3\u0259\u0319",
-            "t\u027d",
-            "\u025fj",
-            "s\u0259",
-            "\u00b2\u2074\u0259\u0319",
+            "\u0288\u027d",
+            "\u2075\u00b3\u0250\u0319",
             "t\u0255\u02b0j\u00e6",
-            "\u2075\u00b3o",
-            "\u0288\u027d"
+            "t\u027d",
+            "\u2075\u00b3o"
         ],
         "segments": {
             "+": 2792,
