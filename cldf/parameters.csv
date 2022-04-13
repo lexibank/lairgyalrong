@@ -1,295 +1,309 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss,Number,Coverage
-1_above,above,1741,ABOVE,,,32
-2_all,all,98,ALL,,,41
-5_bad,bad,1292,BAD,,,24
-7_thebarleytibetanorhighland,the barley (tibetan or highland),932,BARLEY,,,16
-9_thebelly,the belly,1251,BELLY,,,24
-10_belowunder,"below, under",1485,BELOW OR UNDER,,,35
-11_big,big,1202,BIG,,,24
-12_thebird,the bird,937,BIRD,,,22
-14_black,black,163,BLACK,,,22
-16_toblowofwind,to blow (of wind),175,BLOW (OF WIND),,,21
-18_thebone,the bone,1394,BONE,,,22
-22_tobuy,to buy,1869,BUY,,,21
-25_thecloud,the cloud,1489,CLOUD,,,21
-26_coldoftemperature,cold (of temperature),1287,COLD,,,24
-27_tocome,to come,1446,COME,,,28
-28_correctright,correct (right),1725,CORRECT (RIGHT),,,22
-30_tocryweep,to cry (weep),1839,CRY,,,25
-34_todie,to die,1494,DIE,,,21
-35_todig,to dig,1418,DIG,,,21
-37_thedog,the dog,2009,DOG,,,23
-39_todrink,to drink,1401,DRINK,,,22
-40_dry,dry,1398,DRY,,,27
-42_theear,the ear,1247,EAR,,,21
-46_toeat,to eat,1336,EAT,,,21
-49_theeye,the eye,1248,EYE,,,21
-53_tofight,to fight,1423,FIGHT,,,23
-54_thefire,the fire,221,FIRE,,,22
-55_firewood,firewood,10,FIREWOOD,,,22
-56_thefish,the fish,227,FISH,,,21
-57_five,five,493,FIVE,,,22
-61_theflower,the flower,239,FLOWER,,,22
-62_toflymovethroughair,to fly (move through air),1441,FLY (MOVE THROUGH AIR),,,21
-64_thefoot,the foot,1301,FOOT,,,23
-65_theforest,the forest,420,FOREST,,,21
-68_thefox,the fox,1312,FOX,,,20
-70_thefrontfrontside,the front (front side),2194,FRONT (PART),,,24
-74_togive,to give,1447,GIVE,,,25
-75_thegoat,the goat,1502,GOAT,,,22
-76_good,good,1035,GOOD,,,30
-77_thegrass,the grass,606,GRASS,,,24
-80_thehairofthehead,the hair (of the head),1040,HAIR,,,22
-81_thehand,the hand,1277,HAND,,,22
-84_thehead,the head,1256,HEAD,,,23
-86_theheart,the heart,1223,HEART,,,27
-87_heavy,heavy,1210,HEAVY,,,21
-90_hightall,high / tall,1265,HIGH,,,25
-91_tohold,to hold,1448,HOLD,,,23
-94_thehornkeratinizedskin,the horn (keratinized skin),1393,HORN (ANATOMY),,,22
-95_thehorse,the horse,615,HORSE,,,22
-96_hot,hot,1286,HOT,,,27
-97_thehouse,the house,1252,HOUSE,,,23
-98_hundred,hundred,1634,HUNDRED,,,21
-103_inside,inside,1606,INSIDE,,,22
-104_tokill,to kill,1417,KILL,,,25
-111_tolaugh,to laugh,1355,LAUGH,,,21
-112_theleaf,the leaf,628,LEAF,,,22
-120_long,long,1203,LONG,,,23
-121_thelouse,the louse,1392,LOUSE,,,21
-123_themanmalehuman,the man (male human),2106,MALE PERSON,,,21
-126_themeat,the meat,634,MEAT,,,27
-127_middle,middle,1093,MIDDLE,,,22
-128_themoon,the moon,1313,MOON,,,21
-132_themountain,the mountain,639,MOUNTAIN,,,25
-133_themouseorrat,the mouse or rat,2139,MUROID (MOUSE OR RAT),,,21
-134_themouth,the mouth,674,MOUTH,,,28
-137_thename,the name,1405,NAME,,,22
-139_near,near,1942,NEAR,,,21
-140_theneck,the neck,1333,NECK,,,22
-141_theneedleforsewing,the needle (for sewing),1382,NEEDLE (FOR SEWING),,,21
-143_nine,nine,1483,NINE,,,22
-145_noon,noon,12,MIDDAY,,,23
-146_thenose,the nose,1221,NOSE,,,21
-148_one,one,1493,ONE,,,29
-150_outside,outside,762,OUTSIDE,,,23
-151_thepig,the pig,1337,PIG,,,22
-153_toplay,to play,1413,PLAY,,,24
-155_topush,to push,1452,PUSH,,,25
-156_therain,the rain,658,RAIN (PRECIPITATION),,,22
-158_red,red,156,RED,,,21
-162_theriver,the river,666,RIVER,,,25
-163_theroad,the road,667,ROAD,,,22
-165_therope,the rope,1218,ROPE,,,22
-166_round,round,1395,ROUND,,,24
-170_thesand,the sand,671,SAND,,,21
-174_theseed,the seed,714,SEED,,,21
-177_thesheep,the sheep,1331,SHEEP,,,22
-180_theshoulder,the shoulder,1482,SHOULDER,,,24
-181_shy,shy,487,SHY,,,21
-182_thesickle,the sickle,341,SICKLE,,,22
-184_six,six,1703,SIX,,,22
-185_theskin,the skin,763,SKIN,,,22
-186_thesky,the sky,1732,SKY,,,24
-187_tosleep,to sleep,1585,SLEEP,,,24
-188_small,small,1246,SMALL,,,26
-190_thesmoke,the smoke,778,SMOKE (EXHAUST),,,21
-191_smooth,smooth,1234,SMOOTH,,,22
-192_thesnake,the snake,730,SNAKE,,,22
-193_thesnow,the snow,784,SNOW,,,22
-195_theson,the son,1620,SON,,,21
-200_thestar,the star,1430,STAR,,,21
-203_thestoneapieceof,the stone (a piece of),857,STONE,,,24
-205_thesun,the sun,1343,SUN,,,23
-206_thetail,the tail,1220,TAIL,,,21
-208_that,that,78,THAT,,,22
-209_there,there,1937,THERE,,,22
-210_thick,thick,1244,THICK,,,23
-213_tothinkreflect,to think (reflect),1415,THINK (REFLECT),,,24
-216_three,three,492,THREE,,,22
-217_tothrow,to throw,1456,THROW,,,22
-218_thethunder,the thunder,1150,THUNDER,,,20
-219_thetiger,the tiger,846,TIGER,,,21
-220_today,today,1283,TODAY,,,21
-221_tomorrow,tomorrow,1329,TOMORROW,,,21
-224_thetree,the tree,906,TREE,,,22
-225_twenty,twenty,1710,TWENTY,,,21
-226_two,two,1498,TWO,,,22
-227_tovomit,to vomit,1278,VOMIT,,,22
-229_thewater,the water,948,WATER,,,21
-232_what,what,1236,WHAT,,,22
-234_where,where,1237,WHERE,,,24
-235_white,white,1335,WHITE,,,21
-236_who,who,1235,WHO,,,21
-237_thewife,the wife,1199,WIFE,,,27
-238_thewind,the wind,960,WIND,,,21
-241_thewolf,the wolf,522,WOLF,,,20
-242_thewoman,the woman,962,WOMAN,,,23
-243_thewoodmaterial,the wood (material),1803,WOOD,,,23
-244_tosowbroadcastscatterseeds,"to sow (broadcast, scatter seeds)",748,SOW SEEDS,,,19
-246_yellow,yellow,1424,YELLOW,,,21
-249_young,young,1207,YOUNG,,,19
-250_theshit,the shit,676,SHIT (DEFECATE),,,23
-252_before,before,,,,,20
-253_dark,dark,,,,,22
-254_dirty,dirty,,,,,21
-255_early,early,,,,,19
-256_eight,eight,,,,,23
-257_far,far,,,,,22
-259_few,few,,,,,17
-261_four,four,,,,,22
-262_full,full,,,,,22
-263_green,green,,,,,23
-264_hard,hard,,,,,24
-265_here,here,,,,,26
-266_horizontal,horizontal,,,,,20
-267_how,how,,,,,17
-268_late,late,,,,,24
-269_left,left,,,,,23
-270_lightofweight,light (of weight),,,,,22
-272_many,many,,,,,37
-273_morning,morning,,,,,24
-274_narrow,narrow,,,,,25
-275_new,new,,,,,22
-277_oldofperson,old (of person),,,,,21
-278_other,other,,,,,18
-279_painful,painful,,,,,17
-280_right,right,,,,,21
-281_rottenoffruits,rotten (of fruits),,,,,16
-282_salty,salty,,,,,21
-283_seven,seven,,,,,23
-284_sharp,sharp,,,,,23
-285_short,short,,,,,21
-286_sick,sick,,,,,17
-287_soft,soft,,,,,26
-289_stoneoffruit,stone (of fruit),,,,,21
-290_straight,straight,,,,,21
-291_ten,ten,,,,,22
-293_theant,the ant,,,,,21
-294_thearmpit,the armpit,,,,,20
-295_theashes,the ashes,,,,,21
-296_theback,the back,,,,,17
-297_thebamboo,the bamboo,,,,,21
-298_thebark,the bark,,,,,17
-299_theblood,the blood,,,,,21
-300_thebodyhairhairorfur,the body hair (hair or fur),,,,,23
-301_thebranch,the branch,,,,,23
-302_thebreastfemale,the breast (female),,,,,22
-303_thechild,the child,,,,,21
-305_thedayopposedtonight,the day (opposed to night),,,,,16
-306_thedew,the dew,,,,,22
-307_thedream,the dream,,,,,21
-308_thedust,the dust,,,,,21
-309_theearthsoil,the earth (soil),,,,,21
-310_theearthworm,the earthworm,,,,,20
-311_theegg,the egg,,,,,21
-312_thefatgrease,the fat (grease),,,,,17
-314_thefeather,the feather,,,,,20
-315_theflea,the flea,,,,,22
-316_thefog,the fog,,,,,20
-317_thefrog,the frog,,,,,22
-318_thefrost,the frost,,,,,21
-319_thefruit,the fruit,,,,,24
-320_thegirl,the girl,,,,,16
-321_thehail,the hail,,,,,21
-322_thehair,the hair,,,,,19
-323_thehoof,the hoof,,,,,22
-324_thehusband,the husband,,,,,23
-325_theice,the ice,,,,,20
-326_theintestines,the intestines,,,,,20
-327_theknee,the knee,,,,,24
-328_theknife,the knife,,,,,19
-329_thelake,the lake,,,,,22
-331_thelightning,the lightning,,,,,17
-332_thelipthelips,the lip (the lips),,,,,21
-333_theliver,the liver,,,,,22
-334_thelung,the lung,,,,,21
-335_themorning,the morning,,,,,18
-336_themosquito,the mosquito,,,,,20
-337_themud,the mud,,,,,27
-338_thenailfingernailorclaw,the nail (fingernail or claw),,,,,22
-339_thenight,the night,,,,,24
-340_thenit,the nit,,,,,19
-341_thenoon,the noon,,,,,16
-342_theotter,the otter,,,,,20
-343_theperson,the person,,,,,17
-344_therainbow,the rainbow,,,,,21
-345_thericeplant,the rice plant,,,,,18
-346_theroof,the roof,,,,,16
-347_theroot,the root,,,,,23
-348_thesalt,the salt,,,,,22
-349_thesea,the sea,,,,,21
-351_thesparrow,the sparrow,,,,,20
-352_thespider,the spider,,,,,21
-353_thestick,the stick,,,,,22
-354_thethigh,the thigh,,,,,21
-355_thetongue,the tongue,,,,,21
-356_thetoothfront,the tooth (front),,,,,21
-357_thewheat,the wheat,,,,,21
-358_thewing,the wing,,,,,21
-359_thework,the work,,,,,17
-360_theworm,the worm,,,,,23
-361_theyear,the year,,,,,23
-365_thinobject,thin (object),,,,,21
-368_tobealive,to be alive,,,,,21
-369_tobite,to bite,,,,,24
-370_tobreathe,to breathe,,,,,16
-371_toburnintransitive,to burn [intransitive],,,,,24
-372_toburntransitive,to burn [transitive],,,,,31
-373_tochew,to chew,,,,,20
-374_tochoose,to choose,,,,,18
-375_toclimb,to climb,,,,,17
-376_tocook,to cook,,,,,19
-377_tocount,to count,,,,,22
-378_tocut,to cut,,,,,42
-379_tofall,to fall,,,,,19
-380_tofearbeafraid,to fear (be afraid),,,,,18
-381_tofloat,to float,,,,,21
-382_toflow,to flow,,,,,21
-383_toforget,to forget,,,,,21
-384_tofreezeintransitive,to freeze (intransitive),,,,,16
-385_togrow,to grow,,,,,17
-386_tohear,to hear,,,,,22
-387_tohideconceal,to hide (conceal),,,,,23
-388_tohit,to hit,,,,,20
-389_tohunt,to hunt,,,,,21
-390_toknead,to knead,,,,,23
-391_toknow,to know,,,,,16
-392_tolearn,to learn,,,,,25
-393_tolick,to lick,,,,,21
-394_toliedown,to lie down,,,,,22
-396_tomarryamanmarriesawoman,to marry (a man marries a woman),,,,,24
-397_toopen,to open,,,,,19
-398_toplantvegetalsrice,"to plant (vegetals, rice)",,,,,24
-399_topull,to pull,,,,,24
-400_toresidelive,to reside (live),,,,,22
-401_torub,to rub,,,,,19
-402_torun,to run,,,,,23
-403_tosay,to say,,,,,20
-404_toscratch,to scratch,,,,,22
-405_tosee,to see,,,,,21
-406_tosew,to sew,,,,,16
-407_toshootanarrow,to shoot (an arrow),,,,,21
-408_tosing,to sing,,,,,21
-409_tosit,to sit,,,,,18
-410_tosmellperceiveodortransitive,to smell (perceive odor) [transitive],,,,,23
-412_tospit,to spit,,,,,21
-413_tosplit,to split,,,,,19
-414_tosqueeze,to squeeze,,,,,17
-415_tostab,to stab,,,,,20
-416_tostand,to stand,,,,,22
-417_tosteal,to steal,,,,,21
-418_toswell,to swell,,,,,17
-419_toswim,to swim,,,,,16
-420_totietogether,to tie (together),,,,,25
-421_toturnaround,to turn (around),,,,,18
-422_towalk,to walk,,,,,22
-423_towash,to wash,,,,,17
-424_towipe,to wipe,,,,,26
-425_toyawn,to yawn,,,,,16
-426_warmhot,warm (hot),,,,,22
-427_wet,wet,,,,,21
-430_wide,wide,,,,,19
-431_yesterday,yesterday,,,,,21
-443_ifirstpersonsingular,I [first person singular],,,,,24
-446_thousecondpersonsingular,thou [second person singular],,,,,24
+1_above,above,,,,,
+2_all,all,,,,,
+5_bad,bad,,,,,
+7_thebarleytibetanorhighland,the barley (tibetan or highland),,,,,
+9_thebelly,the belly,,,,,
+10_belowunder,"below, under",,,,,
+11_big,big,,,,,
+12_thebird,the bird,,,,,
+14_black,black,,,,,
+16_toblowofwind,to blow (of wind),,,,,
+18_thebone,the bone,,,,,
+22_tobuy,to buy,,,,,
+25_thecloud,the cloud,,,,,
+26_coldoftemperature,cold (of temperature),,,,,
+27_tocome,to come,,,,,
+28_correctright,correct (right),,,,,
+30_tocryweep,to cry (weep),,,,,
+34_todie,to die,,,,,
+35_todig,to dig,,,,,
+37_thedog,the dog,,,,,
+39_todrink,to drink,,,,,
+40_dry,dry,,,,,
+42_theear,the ear,,,,,
+43_early,early,,,,,
+46_toeat,to eat,,,,,
+48_eight,eight,,,,,
+49_theeye,the eye,,,,,
+53_tofight,to fight,,,,,
+54_thefire,the fire,,,,,
+55_firewood,firewood,,,,,
+56_thefish,the fish,,,,,
+57_five,five,,,,,
+61_theflower,the flower,,,,,
+62_toflymovethroughair,to fly (move through air),,,,,
+64_thefoot,the foot,,,,,
+65_theforest,the forest,,,,,
+68_thefox,the fox,,,,,
+70_thefrontfrontside,the front (front side),,,,,
+74_togive,to give,,,,,
+75_thegoat,the goat,,,,,
+76_good,good,,,,,
+77_thegrass,the grass,,,,,
+80_thehairofthehead,the hair (of the head),,,,,
+81_thehand,the hand,,,,,
+84_thehead,the head,,,,,
+86_theheart,the heart,,,,,
+87_heavy,heavy,,,,,
+90_hightall,high / tall,,,,,
+91_tohold,to hold,,,,,
+94_thehornkeratinizedskin,the horn (keratinized skin),,,,,
+95_thehorse,the horse,,,,,
+96_hot,hot,,,,,
+97_thehouse,the house,,,,,
+98_hundred,hundred,,,,,
+103_inside,inside,,,,,
+104_tokill,to kill,,,,,
+111_tolaugh,to laugh,,,,,
+112_theleaf,the leaf,,,,,
+120_long,long,,,,,
+121_thelouse,the louse,,,,,
+123_themanmalehuman,the man (male human),,,,,
+126_themeat,the meat,,,,,
+127_middle,middle,,,,,
+128_themoon,the moon,,,,,
+132_themountain,the mountain,,,,,
+133_themouseorrat,the mouse or rat,,,,,
+134_themouth,the mouth,,,,,
+137_thename,the name,,,,,
+139_near,near,,,,,
+140_theneck,the neck,,,,,
+141_theneedleforsewing,the needle (for sewing),,,,,
+143_nine,nine,,,,,
+145_noon,noon,,,,,
+146_thenose,the nose,,,,,
+148_one,one,,,,,
+150_outside,outside,,,,,
+151_thepig,the pig,,,,,
+153_toplay,to play,,,,,
+155_topush,to push,,,,,
+156_therain,the rain,,,,,
+158_red,red,,,,,
+162_theriver,the river,,,,,
+163_theroad,the road,,,,,
+165_therope,the rope,,,,,
+166_round,round,,,,,
+170_thesand,the sand,,,,,
+174_theseed,the seed,,,,,
+177_thesheep,the sheep,,,,,
+180_theshoulder,the shoulder,,,,,
+181_shy,shy,,,,,
+182_thesickle,the sickle,,,,,
+184_six,six,,,,,
+185_theskin,the skin,,,,,
+186_thesky,the sky,,,,,
+187_tosleep,to sleep,,,,,
+188_small,small,,,,,
+190_thesmoke,the smoke,,,,,
+191_smooth,smooth,,,,,
+192_thesnake,the snake,,,,,
+193_thesnow,the snow,,,,,
+195_theson,the son,,,,,
+200_thestar,the star,,,,,
+203_thestoneapieceof,the stone (a piece of),,,,,
+205_thesun,the sun,,,,,
+206_thetail,the tail,,,,,
+209_there,there,,,,,
+210_thick,thick,,,,,
+213_tothinkreflect,to think (reflect),,,,,
+216_three,three,,,,,
+217_tothrow,to throw,,,,,
+218_thethunder,the thunder,,,,,
+219_thetiger,the tiger,,,,,
+220_today,today,,,,,
+221_tomorrow,tomorrow,,,,,
+224_thetree,the tree,,,,,
+225_twenty,twenty,,,,,
+226_two,two,,,,,
+227_tovomit,to vomit,,,,,
+229_thewater,the water,,,,,
+232_what,what,,,,,
+235_white,white,,,,,
+236_who,who,,,,,
+237_thewife,the wife,,,,,
+238_thewind,the wind,,,,,
+241_thewolf,the wolf,,,,,
+242_thewoman,the woman,,,,,
+243_thewoodmaterial,the wood (material),,,,,
+244_tosowbroadcastscatterseeds,"to sow (broadcast, scatter seeds)",,,,,
+246_yellow,yellow,,,,,
+248_yousecondpersonplural,you [second person plural],,,,,
+250_theshit,the shit,,,,,
+251_and,and,,,,,
+252_before,before,,,,,
+253_dark,dark,,,,,
+254_dirty,dirty,,,,,
+257_far,far,,,,,
+259_few,few,,,,,
+261_four,four,,,,,
+262_full,full,,,,,
+263_green,green,,,,,
+264_hard,hard,,,,,
+265_here,here,,,,,
+266_horizontal,horizontal,,,,,
+267_how,how,,,,,
+268_late,late,,,,,
+269_left,left,,,,,
+270_lightofweight,light (of weight),,,,,
+272_many,many,,,,,
+273_morning,morning,,,,,
+274_narrow,narrow,,,,,
+275_new,new,,,,,
+277_oldofperson,old (of person),,,,,
+278_other,other,,,,,
+279_painful,painful,,,,,
+280_right,right,,,,,
+281_rottenoffruits,rotten (of fruits),,,,,
+282_salty,salty,,,,,
+283_seven,seven,,,,,
+284_sharp,sharp,,,,,
+285_short,short,,,,,
+286_sick,sick,,,,,
+287_soft,soft,,,,,
+288_some,some,,,,,
+289_stoneoffruit,stone (of fruit),,,,,
+290_straight,straight,,,,,
+291_ten,ten,,,,,
+292_that,that,,,,,
+293_theant,the ant,,,,,
+294_thearmpit,the armpit,,,,,
+295_theashes,the ashes,,,,,
+296_theback,the back,,,,,
+297_thebamboo,the bamboo,,,,,
+298_thebark,the bark,,,,,
+299_theblood,the blood,,,,,
+300_thebodyhairhairorfur,the body hair (hair or fur),,,,,
+301_thebranch,the branch,,,,,
+302_thebreastfemale,the breast (female),,,,,
+303_thechild,the child,,,,,
+305_thedayopposedtonight,the day (opposed to night),,,,,
+306_thedew,the dew,,,,,
+307_thedream,the dream,,,,,
+308_thedust,the dust,,,,,
+309_theearthsoil,the earth (soil),,,,,
+310_theearthworm,the earthworm,,,,,
+311_theegg,the egg,,,,,
+312_thefatgrease,the fat (grease),,,,,
+314_thefeather,the feather,,,,,
+315_theflea,the flea,,,,,
+316_thefog,the fog,,,,,
+317_thefrog,the frog,,,,,
+318_thefrost,the frost,,,,,
+319_thefruit,the fruit,,,,,
+320_thegirl,the girl,,,,,
+321_thehail,the hail,,,,,
+322_thehair,the hair,,,,,
+323_thehoof,the hoof,,,,,
+324_thehusband,the husband,,,,,
+325_theice,the ice,,,,,
+326_theintestines,the intestines,,,,,
+327_theknee,the knee,,,,,
+328_theknife,the knife,,,,,
+329_thelake,the lake,,,,,
+331_thelightning,the lightning,,,,,
+332_thelipthelips,the lip (the lips),,,,,
+333_theliver,the liver,,,,,
+334_thelung,the lung,,,,,
+335_themorning,the morning,,,,,
+336_themosquito,the mosquito,,,,,
+337_themud,the mud,,,,,
+338_thenailfingernailorclaw,the nail (fingernail or claw),,,,,
+339_thenight,the night,,,,,
+340_thenit,the nit,,,,,
+341_thenoon,the noon,,,,,
+342_theotter,the otter,,,,,
+343_theperson,the person,,,,,
+344_therainbow,the rainbow,,,,,
+345_thericeplant,the rice plant,,,,,
+346_theroof,the roof,,,,,
+347_theroot,the root,,,,,
+348_thesalt,the salt,,,,,
+349_thesea,the sea,,,,,
+351_thesparrow,the sparrow,,,,,
+352_thespider,the spider,,,,,
+353_thestick,the stick,,,,,
+354_thethigh,the thigh,,,,,
+355_thetongue,the tongue,,,,,
+356_thetoothfront,the tooth (front),,,,,
+357_thewheat,the wheat,,,,,
+358_thewing,the wing,,,,,
+359_thework,the work,,,,,
+360_theworm,the worm,,,,,
+361_theyear,the year,,,,,
+365_thinobject,thin (object),,,,,
+367_this,this,,,,,
+368_tobealive,to be alive,,,,,
+369_tobite,to bite,,,,,
+370_tobreathe,to breathe,,,,,
+371_toburnintransitive,to burn [intransitive],,,,,
+372_toburntransitive,to burn [transitive],,,,,
+373_tochew,to chew,,,,,
+374_tochoose,to choose,,,,,
+375_toclimb,to climb,,,,,
+376_tocook,to cook,,,,,
+377_tocount,to count,,,,,
+378_tocut,to cut,,,,,
+379_tofall,to fall,,,,,
+380_tofearbeafraid,to fear (be afraid),,,,,
+381_tofloat,to float,,,,,
+382_toflow,to flow,,,,,
+383_toforget,to forget,,,,,
+384_tofreezeintransitive,to freeze (intransitive),,,,,
+385_togrow,to grow,,,,,
+386_tohear,to hear,,,,,
+387_tohideconceal,to hide (conceal),,,,,
+388_tohit,to hit,,,,,
+389_tohunt,to hunt,,,,,
+390_toknead,to knead,,,,,
+391_toknow,to know,,,,,
+392_tolearn,to learn,,,,,
+393_tolick,to lick,,,,,
+394_toliedown,to lie down,,,,,
+396_tomarryamanmarriesawoman,to marry (a man marries a woman),,,,,
+397_toopen,to open,,,,,
+398_toplantvegetalsrice,"to plant (vegetals, rice)",,,,,
+399_topull,to pull,,,,,
+400_toresidelive,to reside (live),,,,,
+401_torub,to rub,,,,,
+402_torun,to run,,,,,
+403_tosay,to say,,,,,
+404_toscratch,to scratch,,,,,
+405_tosee,to see,,,,,
+406_tosew,to sew,,,,,
+407_toshootanarrow,to shoot (an arrow),,,,,
+408_tosing,to sing,,,,,
+409_tosit,to sit,,,,,
+410_tosmellperceiveodortransitive,to smell (perceive odor) [transitive],,,,,
+412_tospit,to spit,,,,,
+413_tosplit,to split,,,,,
+414_tosqueeze,to squeeze,,,,,
+415_tostab,to stab,,,,,
+416_tostand,to stand,,,,,
+417_tosteal,to steal,,,,,
+418_toswell,to swell,,,,,
+419_toswim,to swim,,,,,
+420_totietogether,to tie (together),,,,,
+421_toturnaround,to turn (around),,,,,
+422_towalk,to walk,,,,,
+423_towash,to wash,,,,,
+424_towipe,to wipe,,,,,
+425_toyawn,to yawn,,,,,
+426_warmhot,warm (hot),,,,,
+427_wet,wet,,,,,
+428_when,when,,,,,
+429_where,where,,,,,
+430_wide,wide,,,,,
+431_yesterday,yesterday,,,,,
+433_young,young,,,,,
+434_wefirstpersonpluralinclusive,we [first person plural inclusive],,,,,
+438_thedaughter,the daughter,,,,,
+442_themother,the mother,,,,,
+443_ifirstpersonsingular,I [first person singular],,,,,
+445_not,not,,,,,
+446_thousecondpersonsingular,thou [second person singular],,,,,
+448_thinslim,thin (slim),,,,,
+450_theleg,the leg,,,,,
+452_toknowsomething,to know (something),,,,,
+454_knife,knife,,,,,
+455_thefather,the father,,,,,

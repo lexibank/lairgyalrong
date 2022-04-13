@@ -15,34 +15,38 @@
     "dcat:accessURL": "https://github.com/lingpy/rgyalrong-analysis",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
-            "dc:created": "f4bdf5b"
+            "rdf:type": "prov:Entity",
+            "dc:created": "f6c366a",
+            "dc:title": "Repository"
         },
         {
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "dc:created": "v4.5",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-53-g324a045"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.1.0-26-gb12a7df",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +61,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 6127,
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
+            "dc:extent": 6338,
             "tableSchema": {
                 "columns": [
                     {
@@ -126,14 +131,6 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Benzi"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Sagart_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -168,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 21,
+            "dc:extent": 22,
             "tableSchema": {
                 "columns": [
                     {
@@ -204,8 +201,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -214,8 +211,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -227,15 +224,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "ChineseName"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "SubGroup"
                     },
                     {
                         "datatype": "string",
-                        "name": "DialectGroup"
+                        "name": "Coverage"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sources"
                     }
                 ],
                 "primaryKey": [
@@ -246,7 +243,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 294,
+            "dc:extent": 308,
             "tableSchema": {
                 "columns": [
                     {

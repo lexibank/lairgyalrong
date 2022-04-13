@@ -1,8 +1,14 @@
 # Database of Lexical Cognates in Rgyalrongic
 
-Cite the source dataset as
+## How to cite
 
-> add later
+If you use these data please cite
+- the original source
+  > add later
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -15,23 +21,29 @@ Conceptlists in Concepticon:
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 48%](https://img.shields.io/badge/Concepticon-48%25-red.svg "Concepticon: 48%")
+![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
-- **Varieties:** 21
-- **Concepts:** 294
-- **Lexemes:** 6,127
-- **Sources:** 15
-- **Synonymy:** 1.11
+- **Varieties:** 22
+- **Concepts:** 308
+- **Lexemes:** 6,338
+- **Sources:** 16
+- **Synonymy:** 1.09
 - **Invalid lexemes:** 0
-- **Tokens:** 28,086
-- **Segments:** 395 (0 BIPA errors, 0 CTLS sound class errors, 390 CLTS modified)
-- **Inventory size (avg):** 72.00
+- **Tokens:** 29,452
+- **Segments:** 449 (11 BIPA errors, 11 CTLS sound class errors, 431 CLTS modified)
+- **Inventory size (avg):** 74.18
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 555/6127 (9.06%)
+- Entries missing sources: 567/6338 (8.95%)
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
