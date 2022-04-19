@@ -568,8 +568,8 @@ tɕw	tɕ w	ka-tɕwāk	BragbarSitu	1	U+0074 U+0255 U+0077
 tɕʰ	tɕʰ	mtɕʰə́, mtɕʰi⁵⁵	Geshiza, GuanyinqiaoKhroskyabs, NjorogsKhroskyabs, QueyuPubarong, SiyuewuKhroskyabs, WobziKhroskyabs, BragbarSitu, Japhug	30	U+0074 U+0255 U+02b0
 tɕʰɪ_(open_the_door)	tɕʰ ɪ	tɕʰɪ (open the door)	QueyuPubarong	1	U+0074 U+0255 U+02b0 U+026a U+0020 U+0028 U+006f U+0070 U+0065 U+006e U+0020 U+0074 U+0068 U+0065 U+0020 U+0064 U+006f U+006f U+0072 U+0029
 tʂ	ʈʂ	1tʂytʂy, χtevtʂi	Zhaba, MenyaGao, MaerkangrGyalrong, BragbarSitu, QueyuPubarong, MuyaKangding, QueyuXinlong, Tshobdun, NgyaltsuZbu, Zlarong, Japhug, NjorogsKhroskyabs	52	U+0074 U+0282
-tʂh	tʂʰ	ptʂho⁵⁵ptʂho³³, 1tʂhøtʂhø	MenyaGao, QueyuXinlong, Zhaba, MuyaKangding, BragbarSitu, Zlarong, NgyaltsuZbu, Daofu	23	U+0074 U+0282 U+0068
-tʂʌ³³_(p)_tʂɿ⁵⁵|	ts ʌ ³³ tʂ ɿ ⁵⁵	tʂʌ³³ (p) tʂɿ⁵⁵|	Zhaba	1	U+0074 U+0282 U+028c U+00b3 U+00b3 U+0020 U+0028 U+0070 U+0029 U+0020 U+0074 U+0282 U+027f U+2075 U+2075 U+007c
+tʂh	ʈʂʰ	ptʂho⁵⁵ptʂho³³, 1tʂhøtʂhø	MenyaGao, QueyuXinlong, Zhaba, MuyaKangding, BragbarSitu, Zlarong, NgyaltsuZbu, Daofu	23	U+0074 U+0282 U+0068
+tʂʌ³³_(p)_ʈʂɿ⁵⁵|	ts ʌ ³³ tʂ ɿ ⁵⁵	tʂʌ³³ (p) tʂɿ⁵⁵|	Zhaba	1	U+0074 U+0282 U+028c U+00b3 U+00b3 U+0020 U+0028 U+0070 U+0029 U+0020 U+0074 U+0282 U+027f U+2075 U+2075 U+007c
 tʃ	tʃ	kəxtʃipu, təmtʃuɣʔzɐrnaʔ	Tshobdun, MaerkangrGyalrong, KyomkyoSitu, QueyuXinlong	37	U+0074 U+0283
 tʃh	tʃʰ	kantʃhiʔ, ʃ◦tʃhi⁵⁵	QueyuXinlong, KyomkyoSitu	4	U+0074 U+0283 U+0068
 tʃʰ	tʃʰ	mtʃʰi, ŋɐ́tʃʰə	Tshobdun	5	U+0074 U+0283 U+02b0
@@ -1186,7 +1186,3 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ₂	²	ko₂k, khro₂k	OldBurmese	19	U+2082
 ◦	+	cā◦ka◦leḥ, ma◦nak◦phran	OldBurmese, QueyuXinlong, MaerkangrGyalrong, Daofu	63	U+25e6
 ^mʈʂh	m ʈʂʰ
-tʂ	ʈʂ
-tʂh	ʈʂʰ
-tʂʰ	ʈʂʰ
-ptʂh	p ʈʂʰ
