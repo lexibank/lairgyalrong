@@ -496,7 +496,7 @@ phs	pʰ s	kə nə phso	MaerkangrGyalrong	1	U+0070 U+0068 U+0073
 phʃ	pʰ ʃ	tə phʃᴇ	MaerkangrGyalrong	1	U+0070 U+0068 U+0283
 pp	p p	kuluŋdippa, kippa	Bantawa	2	U+0070 U+0070
 ps	p s	nə-psōs, bʰepsa	QueyuXinlong, BragbarSitu, Bantawa	3	U+0070 U+0073
-ptʂ	p tʂ				
+ptʂ	p ʈʂ				
 ptʂʰ	p ʈʂʰ	tʂʰə̄ptʂʰə	QueyuPubarong	1	U+0074 U+0282 U+02b0
 pw	p w	tsɨpwə	QueyuPubarong	1	U+0070 U+0077
 pɕ	p ɕ	ɕʰjopɕī, ka-rapɕê	QueyuXinlong, Japhug, BragbarSitu, QueyuPubarong	8	U+0070 U+0255
@@ -1185,4 +1185,6 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ₁$	¹	ro₁, khō₁	OldBurmese	2	U+2081 U+0024
 ₂	²	ko₂k, khro₂k	OldBurmese	19	U+2082
 ◦	+	cā◦ka◦leḥ, ma◦nak◦phran	OldBurmese, QueyuXinlong, MaerkangrGyalrong, Daofu	63	U+25e6
+^mʈʂh	m ʈʂʰ
+
 ^mʈʂh	m ʈʂʰ
