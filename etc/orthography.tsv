@@ -137,7 +137,7 @@ N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 ^vʑ	v ʑ	vʑo⁵⁵, vʑe⁵³	Zhaba, GuanyinqiaoKhroskyabs, Geshiza, NjorogsKhroskyabs	9	U+005e U+0076 U+0291
 ^vʒ	v ʒ	vʒəɣ	Tshobdun	1	U+005e U+0076 U+0292
 ^w	w	wə, wmərja	Geshiza, Tangut, Zlarong, MaerkangrGyalrong, KyomkyoSitu, Tshobdun, Bantawa, MuyaKangding, NjorogsKhroskyabs, Japhug, OldBurmese, Zhaba, QueyuPubarong	85	U+005e U+0077
-^wsʰ	w sʰ	wsʰu, wsʰə	Geshiza	2	U+005e U+0077 U+0073 U+02b0
+^wsʰ	w sʰ/s	wsʰu, wsʰə	Geshiza	2	U+005e U+0077 U+0073 U+02b0
 ^wɕ	w ɕ	wɕəu	Geshiza	1	U+005e U+0077 U+0255
 ^wʑ	w ʑ	wʑa, wʑæ	Geshiza	3	U+005e U+0077 U+0291
 ^x	x	xo go, xtɕi	QueyuPubarong, Zlarong, Daofu, Japhug, GuanyinqiaoKhroskyabs, QueyuXinlong, SiyuewuKhroskyabs, Tshobdun, NjorogsKhroskyabs, MuyaKangding, Zhaba	52	U+005e U+0078
@@ -812,7 +812,7 @@ ã̄ 	ã
 ū	ū/u	būʐǒ, xpū ʐye	QueyuPubarong, OldBurmese, BragbarSitu	8	U+016b
 ū$	ū/u	ta-pū, m̥ū	QueyuPubarong, BragbarSitu, OldBurmese	32	U+016b U+0024
 ŷ$	ŷ/y	nyɕŷ	QueyuPubarong	1	U+0177 U+0024
-ƈʰ	ɕʰ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
+ƈʰ	ɕʰ/ɕ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
 ǎ$	ǎ	vǎ, ʐalǎ	QueyuPubarong	3	U+01ce U+0024
 ǐ$	ǐ/i	ᵖɕǐ	QueyuPubarong	2	U+01d0 U+0024
 ǒ$	ǒ/o	būʐǒ, mǒ	QueyuPubarong	3	U+01d2 U+0024
