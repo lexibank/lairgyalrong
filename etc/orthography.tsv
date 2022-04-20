@@ -168,7 +168,7 @@ N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 ^ɕ	ɕ	ɕə̂, ɕɣe⁵⁵ze³³	BragbarSitu, GuanyinqiaoKhroskyabs, QueyuXinlong, Tangut, NjorogsKhroskyabs, QueyuPubarong, SiyuewuKhroskyabs, Japhug, WobziKhroskyabs, Daofu, Zhaba, MuyaKangding, Geshiza	100	U+005e U+0255
 ^ɕh	ɕʰ/ɕ	ɕha ren, ɕhõ tho	Daofu, Zhaba	6	U+005e U+0255 U+0068
 ^ɕw	ɕ w	ɕwór	NgyaltsuZbu	1	U+005e U+0255 U+0077
-^ɕʰ	ɕʰ	ɕʰjopɕī, ɕʰō	QueyuPubarong, Geshiza	8	U+005e U+0255 U+02b0
+^ɕʰ	ɕʰ/ɕ	ɕʰjopɕī, ɕʰō	QueyuPubarong, Geshiza	8	U+005e U+0255 U+02b0
 ^ə	ə	ə⁵⁵tə³³, ə³³vi⁵³	GuanyinqiaoKhroskyabs, NjorogsKhroskyabs, Zhaba, Daofu	24	U+005e U+0259
 ^ə́	ə́/ə	ə́jʔ	NgyaltsuZbu	1	U+005e U+0259 U+0301
 ^ə̄	ə̄/ə	ə̄ntsʰɨ	QueyuPubarong	1	U+005e U+0259 U+0304
@@ -349,7 +349,7 @@ hopma_(hoa)	h o p m a	hopma (hoa)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U
 hopma_(hoptu)	h o p m a	hopma (hoptu)	Bantawa	1	U+0068 U+006f U+0070 U+006d U+0061 U+0020 U+0028 U+0068 U+006f U+0070 U+0074 U+0075 U+0029
 i	i	bjij, mji¹	Tangut, Bantawa, Daofu, Japhug	100	U+0069
 i$	i	si, tɯ-mi	Japhug, Daofu, Bantawa	100	U+0069 U+0024
-i.	i̙				
+i.	i̙/i				
 i1	¹/i
 i13	¹³/i
 i2	²/i
@@ -541,12 +541,12 @@ s33	³³/s
 s53	⁵³/s
 s55	⁵⁵/s
 sepma_(septu)	s e p m a	sepma (septu)	Bantawa	1	U+0073 U+0065 U+0070 U+006d U+0061 U+0020 U+0028 U+0073 U+0065 U+0070 U+0074 U+0075 U+0029
-sh	sʰ	də shɛ, kʌ³³ she⁵⁵	Daofu, Zhaba	2	U+0073 U+0068
+sh	sʰ/s	də shɛ, kʌ³³ she⁵⁵	Daofu, Zhaba	2	U+0073 U+0068
 sinma_(sintu)	s i n m a	sinma (sintu)	Bantawa	1	U+0073 U+0069 U+006e U+006d U+0061 U+0020 U+0028 U+0073 U+0069 U+006e U+0074 U+0075 U+0029
 ss	s s	ɨssawa	Bantawa	1	U+0073 U+0073
 sw	s w	tə swɑ	MaerkangrGyalrong	1	U+0073 U+0077
 s³³	³³/s
-sʰ	sʰ	pɨ̄sʰɨ, v-sʰæ	QueyuPubarong, Geshiza	6	U+0073 U+02b0
+sʰ	sʰ/s	pɨ̄sʰɨ, v-sʰæ	QueyuPubarong, Geshiza	6	U+0073 U+02b0
 s⁵³	⁵³/s
 s⁵⁵	⁵⁵/s
 t	t	1tətə, rdɤstaʁ	MenyaGao, Japhug, MaerkangrGyalrong, Zhaba, WobziKhroskyabs, Bantawa, MuyaKangding, Daofu	100	U+0074
@@ -582,7 +582,7 @@ t⁵³	⁵³/t
 t⁵⁵	⁵⁵/t
 u	u	cuncurukwa, ʂtʂu⁵⁵tʂu³³	Bantawa, Zhaba, Daofu, Tangut, Japhug, WobziKhroskyabs	100	U+0075
 u$	u	tɯ-pu, mu	Japhug, Daofu, Tangut, MaerkangrGyalrong, MenyaGao, Bantawa, WobziKhroskyabs	100	U+0075 U+0024
-u.	u̙				
+u.	u̙/u				
 u1	¹/u
 u13	¹³/u
 u2	²/u
@@ -1009,11 +1009,11 @@ ã̄ 	ã
 ɨ̄	ɨ̄/ɨ	kʰəsɨ̄the, mətɕɨ̄ʐæ	QueyuPubarong	10	U+0268 U+0304
 ɨ̄$	ɨ̄/ɨ	zɨ̄, tʰəntsʰɨ̄	QueyuPubarong	4	U+0268 U+0304 U+0024
 ɨ̌$	ɨ̌/ɨ	ɹɨ̌, ɻɨ̌	QueyuPubarong	3	U+0268 U+030c U+0024
-ɨ̙1	¹/ɨ̙
-ɨ̙2	²/ɨ̙
-ɨ̙²	²/ɨ̙
-ɨ̙¹	¹/ɨ̙
-ɨ̣	ɨ̙	njwɨ̣², mjɨ̣²	Tangut	5	U+0268 U+0323
+ɨ̙1	¹/ɨ
+ɨ̙2	²/ɨ
+ɨ̙²	²/ɨ
+ɨ̙¹	¹/ɨ
+ɨ̣	ɨ̙/ɨ	njwɨ̣², mjɨ̣²	Tangut	5	U+0268 U+0323
 ɨ̣$	ɨ̙/ɨ	zjɨ̣	Tangut	1	U+0268 U+0323 U+0024
 ɨ⁵³	⁵³/ɨ
 ɨ⁵⁵	⁵⁵/ɨ
