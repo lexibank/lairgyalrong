@@ -142,7 +142,7 @@ N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 ^wʑ	w ʑ	wʑa, wʑæ	Geshiza	3	U+005e U+0077 U+0291
 ^x	x	xo go, xtɕi	QueyuPubarong, Zlarong, Daofu, Japhug, GuanyinqiaoKhroskyabs, QueyuXinlong, SiyuewuKhroskyabs, Tshobdun, NjorogsKhroskyabs, MuyaKangding, Zhaba	52	U+005e U+0078
 ^xs	x s	xsu, xsre⁵³	GuanyinqiaoKhroskyabs, SiyuewuKhroskyabs, Daofu, Tshobdun, QueyuXinlong, NjorogsKhroskyabs, Geshiza	22	U+005e U+0078 U+0073
-^xsʰw	x sʰ w	xsʰwē	QueyuPubarong	1	U+005e U+0078 U+0073 U+02b0 U+0077
+^xsʰw	x sʰ/s w	xsʰwē	QueyuPubarong	1	U+005e U+0078 U+0073 U+02b0 U+0077
 ^xw	x w	xwa²	Tangut	1	U+005e U+0078 U+0077
 ^xɕ	x ɕ	xɕiʔt⁵⁵, xɕɛr	Daofu, Japhug, NjorogsKhroskyabs	3	U+005e U+0078 U+0255
 ^xʃ	x ʃ	xʃi⁵⁵rme⁵⁵	QueyuXinlong	1	U+005e U+0078 U+0283
@@ -212,7 +212,7 @@ N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 ^ˣpʰ	x pʰ	ˣpʰə̄	QueyuPubarong	1	U+005e U+02e3 U+0070 U+02b0
 ^ˣqʰ	x qʰ	ˣqʰə̂	QueyuPubarong	1	U+005e U+02e3 U+0071 U+02b0
 ^ˣs	x s	ˣsɨ, ˣsǒ	QueyuPubarong	2	U+005e U+02e3 U+0073
-^ˣsʰ	x sʰ	ˣsʰɨ	QueyuPubarong	1	U+005e U+02e3 U+0073 U+02b0
+^ˣsʰ	x sʰ/s	ˣsʰɨ	QueyuPubarong	1	U+005e U+02e3 U+0073 U+02b0
 ^ˣt	x t	ˣtēɪʐə̄mu, ˣtapu	QueyuPubarong	5	U+005e U+02e3 U+0074
 ^ˣtsʰ	x tsʰ	ˣtsʰopɤ	QueyuPubarong	1	U+005e U+02e3 U+0074 U+0073 U+02b0
 ^ˣtɕ	x tɕ	ˣtɕûkʰu, ˣtɕæⁿdzə	QueyuPubarong	2	U+005e U+02e3 U+0074 U+0255
@@ -241,7 +241,7 @@ N$	ŋ	cʰoN	Bantawa	1	U+004e U+0024
 ^’	NULL	’pa, ’tsʰet	Tshobdun	2	U+005e U+2019
 ^ⁿb	ⁿb	ⁿbrə́tʃu, ⁿbrɑ̂	Tshobdun, NgyaltsuZbu	11	U+005e U+207f U+0062
 ^ⁿd	ⁿd	ⁿdze, ⁿdaᵐbā	Tshobdun, QueyuPubarong	5	U+005e U+207f U+0064
-^ⁿdʑ	ⁿdʑ	ⁿdʑəríʔ, ⁿdʑō	NgyaltsuZbu, QueyuPubarong	3	U+005e U+207f U+0064 U+0291
+^ⁿdʑ	ⁿdʑ/dʑ	ⁿdʑəríʔ, ⁿdʑō	NgyaltsuZbu, QueyuPubarong	3	U+005e U+207f U+0064 U+0291
 ^ⁿdʒ	ⁿdʒ	ⁿdʒi	Tshobdun	1	U+005e U+207f U+0064 U+0292
 ^ⁿg	ⁿg	ⁿgɐréʔ, ⁿgɛʔ ?	Tshobdun, NgyaltsuZbu	3	U+005e U+207f U+0067
 ^ⁿɟw	ⁿɟ w	ⁿɟwɛʔ	Tshobdun	1	U+005e U+207f U+025f U+0077
@@ -679,7 +679,7 @@ ǎ	ǎ/a
 ã55	⁵⁵/ã
 ã̄ 	ã
 ã³¹	³¹/ã
-ã̄	ã̄	ŋã̄ɪŋã̄ɪ, qã̄ɪ	QueyuPubarong	5	U+00e3 U+0304
+ã̄	ã̄/ã	ŋã̄ɪŋã̄ɪ, qã̄ɪ	QueyuPubarong	5	U+00e3 U+0304
 ã⁵³	⁵³/ã
 ã⁵⁵	⁵⁵/ã
 æ	æ	ɲæʁdí, kærkær	MuyaKangding, Geshiza, SiyuewuKhroskyabs, WobziKhroskyabs, QueyuPubarong	100	U+00e6
@@ -813,7 +813,7 @@ ã̄ 	ã
 ū$	ū/u	ta-pū, m̥ū	QueyuPubarong, BragbarSitu, OldBurmese	32	U+016b U+0024
 ŷ$	ŷ/y	nyɕŷ	QueyuPubarong	1	U+0177 U+0024
 ƈʰ	ɕʰ/ɕ	tƈʰav⁵³	GuanyinqiaoKhroskyabs	1	U+0188 U+02b0
-ǎ$	ǎ	vǎ, ʐalǎ	QueyuPubarong	3	U+01ce U+0024
+ǎ$	ǎ/a	vǎ, ʐalǎ	QueyuPubarong	3	U+01ce U+0024
 ǐ$	ǐ/i	ᵖɕǐ	QueyuPubarong	2	U+01d0 U+0024
 ǒ$	ǒ/o	būʐǒ, mǒ	QueyuPubarong	3	U+01d2 U+0024
 ǝ	ə	tǝ-ɟɐ̄m	BragbarSitu	1	U+01dd
