@@ -895,7 +895,7 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ɕw	ɕ w	tə-ɕwiɛ̂, tə-ɕwéʔ	NgyaltsuZbu, BragbarSitu	2	U+0255 U+0077
 ə	ə	məlé, mər	Daofu, WobziKhroskyabs, Tangut, Bantawa	100	U+0259
 ə$	ə	ngə, ɕə	Daofu, Tangut, MaerkangrGyalrong, WobziKhroskyabs	100	U+0259 U+0024
-ə.	ə̙				
+ə.	ə̙/ə				
 ə1	¹/ə
 ə13	¹³/ə
 ə2	²/ə
@@ -927,16 +927,16 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ə̄ˣ	ə̄/ə x	tɕʰə̄ˣke	QueyuPubarong	1	U+0259 U+0304 U+02e3
 ə̌	ə̌/ə	nə̌nə	QueyuPubarong	1	U+0259 U+030c
 ə̌$	ə̌/ə	nə̌, ŋə̌	QueyuPubarong	2	U+0259 U+030c U+0024
-ə̠24	²⁴/ə̠
-ə̠33	³³/ə̠
-ə̠53	⁵³/ə̠
-ə̠55	⁵⁵/ə̠
-ə̠²⁴	²⁴/ə̠
-ə̠³³	³³/ə̠
-ə̠⁵³	⁵³/ə̠
-ə̠⁵⁵	⁵⁵/ə̠
+ə̠24	²⁴/ə
+ə̠33	³³/ə
+ə̠53	⁵³/ə
+ə̠55	⁵⁵/ə
+ə̠²⁴	²⁴/ə
+ə̠³³	³³/ə
+ə̠⁵³	⁵³/ə
+ə̠⁵⁵	⁵⁵/ə
 ə̣	ə̙/ə	pjə̣j²	Tangut	1	U+0259 U+0323
-ə̱	ə̠	qhə̱³³zə̱⁵³, qhə̱³³tə̱⁵³	MuyaKangding	31	U+0259 U+0331
+ə̱	ə̠/ə	qhə̱³³zə̱⁵³, qhə̱³³tə̱⁵³	MuyaKangding	31	U+0259 U+0331
 əᵖ	ə p	ɕəᵖto	QueyuPubarong	1	U+0259 U+1d56
 ə⁵³	⁵³/ə
 ə⁵⁵	⁵⁵/ə
@@ -1188,3 +1188,4 @@ zw	z w	rdzwiɛ̂, kardzwa	BragbarSitu, KyomkyoSitu	2	U+007a U+0077
 ^mʈʂh	m ʈʂʰ
 ʈ ʈ
 ʰ ʰ
+ʂ̩  ʂ
