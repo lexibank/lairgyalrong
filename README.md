@@ -28,19 +28,19 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 22
 - **Concepts:** 308
-- **Lexemes:** 6,338
+- **Lexemes:** 6,337
 - **Sources:** 16
 - **Synonymy:** 1.09
 - **Invalid lexemes:** 0
-- **Tokens:** 29,452
+- **Tokens:** 29,434
 - **Segments:** 449 (11 BIPA errors, 11 CTLS sound class errors, 431 CLTS modified)
-- **Inventory size (avg):** 74.18
+- **Inventory size (avg):** 74.00
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 567/6338 (8.95%)
+- Entries missing sources: 567/6337 (8.95%)
 
 ## CLDF Datasets
 

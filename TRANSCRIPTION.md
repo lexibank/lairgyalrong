@@ -5,13 +5,13 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 2792 | ✓ | ✓ |
+| + | 2781 | ✓ | ✓ |
 | r | 1377 | ✓ | ✓ |
 | m | 1279 | ✓ | ✓ |
 | ə | 1158 | ✓ | ✓ |
 | a | 1099 | ✓ | ✓ |
 | k | 1042 | ✓ | ✓ |
-| n | 990 | ✓ | ✓ |
+| n | 989 | ✓ | ✓ |
 | t | 898 | ✓ | ✓ |
 | s | 883 | ✓ | ✓ |
 | j | 746 | ✓ | ✓ |
@@ -71,10 +71,10 @@
 | ʃ | 87 | ✓ | ✓ |
 | cʰ | 83 | ✓ | ✓ |
 | f | 82 | ✓ | ✓ |
-| ⁵³/e | 82 | ✓ | ✓ |
+| ʈʂ | 82 | ✓ | ✓ |
+| ⁵³/e | 81 | ✓ | ✓ |
 | ³³/a | 80 | ✓ | ✓ |
 | î | 80 | ✓ | ✓ |
-| ʈʂ | 80 | ✓ | ✓ |
 | ʑ | 75 | ✓ | ✓ |
 | ā/a | 74 | ✓ | ✓ |
 | ȵ | 71 | ✓ | ✓ |
@@ -84,7 +84,7 @@
 | ɐ́/ɐ | 64 | ✓ | ✓ |
 | ⁵³/i | 63 | ✓ | ✓ |
 | ³³/i | 60 | ✓ | ✓ |
-| ʂ | 58 | ✓ | ✓ |
+| ʂ | 59 | ✓ | ✓ |
 | ¹/ə | 56 | ✓ | ✓ |
 | ō/o | 55 | ✓ | ✓ |
 | ô/o | 54 | ✓ | ✓ |
@@ -128,7 +128,6 @@
 | ɑ̂ | 26 | ✓ | ✓ |
 | ²/o | 25 | ✓ | ✓ |
 | ɟj | 25 | ? | ? |
-| tʂʰ | 23 | ✓ | ✓ |
 | ³³/ɑ | 23 | ✓ | ✓ |
 | ³³/ɛ | 23 | ✓ | ✓ |
 | ɮ | 23 | ✓ | ✓ |
@@ -144,6 +143,7 @@
 | ⁿdz | 20 | ✓ | ✓ |
 | ¹/a̙ | 19 | ✓ | ✓ |
 | ɔ | 19 | ✓ | ✓ |
+| ʈʂʰ | 19 | ✓ | ✓ |
 | ⁵³/ɑ | 19 | ✓ | ✓ |
 | ⁵⁵/ʌ | 19 | ✓ | ✓ |
 | n̥ | 18 | ✓ | ✓ |
@@ -157,9 +157,9 @@
 | ʌ̙ | 18 | ✓ | ✓ |
 | ⁵⁵/y | 18 | ✓ | ✓ |
 | ⁿg | 18 | ✓ | ✓ |
+| tʂʰ | 17 | ✓ | ✓ |
 | ⁵⁵/ɪ | 17 | ✓ | ✓ |
 | ¹³/ʌ | 16 | ✓ | ✓ |
-| ʈʂʰ | 16 | ✓ | ✓ |
 | ⁵³/ø | 16 | ✓ | ✓ |
 | ⁵⁵/ɔ | 16 | ✓ | ✓ |
 | kʷ | 15 | ✓ | ✓ |
@@ -183,7 +183,6 @@
 | ɡ | 13 | ✓ | ✓ |
 | ⁵⁵/t | 13 | ✓ | ✓ |
 | ³¹/e | 12 | ✓ | ✓ |
-| ¹/e | 12 | ✓ | ✓ |
 | ¹/æ̙ | 12 | ✓ | ✓ |
 | ¹³/ə | 12 | ✓ | ✓ |
 | û/u | 12 | ✓ | ✓ |
@@ -196,6 +195,7 @@
 | m̩/m | 11 | ✓ | ✓ |
 | nh/n̥ | 11 | ✓ | ✓ |
 | ²/u | 11 | ✓ | ✓ |
+| ¹/e | 11 | ✓ | ✓ |
 | ¹/ø | 11 | ✓ | ✓ |
 | ¹/ʌ̙ | 11 | ✓ | ✓ |
 | ¹³/ɯ | 11 | ✓ | ✓ |
@@ -244,12 +244,10 @@
 | bʱ | 5 | ✓ | ✓ |
 | dʰ | 5 | ✓ | ✓ |
 | r̥ | 5 | ✓ | ✓ |
-| tʂ | 5 | ✓ | ✓ |
 | ²⁴/o | 5 | ✓ | ✓ |
 | ³³/ə̙ | 5 | ✓ | ✓ |
 | ³³/ɪ | 5 | ✓ | ✓ |
 | ¹/o | 5 | ✓ | ✓ |
-| ã̄ | 5 | ✓ | ✓ |
 | ññ/ȵ | 5 | ✓ | ✓ |
 | ǣ/æ | 5 | ✓ | ✓ |
 | ɛ̙ | 5 | ✓ | ✓ |
@@ -288,6 +286,7 @@
 | dʐ | 3 | ✓ | ✓ |
 | dʒ | 3 | ✓ | ✓ |
 | o̙ | 3 | ✓ | ✓ |
+| tʂ | 3 | ✓ | ✓ |
 | ²/r | 3 | ✓ | ✓ |
 | ²⁴/æ | 3 | ✓ | ✓ |
 | ²⁴/ə̙ | 3 | ✓ | ✓ |
@@ -299,10 +298,11 @@
 | ¹³/ɨ | 3 | ✓ | ✓ |
 | ¹³/ɪ | 3 | ✓ | ✓ |
 | ¹³/ɿ | 3 | ✓ | ✓ |
+| ã̄ | 3 | ✓ | ✓ |
 | íˠ/iˠ | 3 | ✓ | ✓ |
 | ô/oˠ | 3 | ✓ | ✓ |
 | ā/aː | 3 | ✓ | ✓ |
-| ǎ | 3 | ✓ | ✓ |
+| ǎ/a | 3 | ✓ | ✓ |
 | ǒ/o | 3 | ✓ | ✓ |
 | ȳ/y | 3 | ✓ | ✓ |
 | ɔ́/ɔ | 3 | ✓ | ✓ |
@@ -345,6 +345,7 @@
 | ¹/u̙ | 2 | ✓ | ✓ |
 | ¹/æ̠ | 2 | ✓ | ✓ |
 | ã | 2 | ✓ | ✓ |
+| ã̄/ã | 2 | ✓ | ✓ |
 | î/i | 2 | ✓ | ✓ |
 | ó/oˠ | 2 | ✓ | ✓ |
 | ũ | 2 | ✓ | ✓ |
@@ -364,7 +365,6 @@
 | ⁵⁵/s | 2 | ✓ | ✓ |
 | ⁵⁵/ĩ | 2 | ✓ | ✓ |
 | ⁵⁵/ɨ | 2 | ✓ | ✓ |
-| ⁵⁵/ẽ | 2 | ✓ | ✓ |
 | ⁿtsʰ | 2 | ✓ | ✓ |
 | ⁿɢ | 2 | ✓ | ✓ |
 | də | 1 | ? | ? |
@@ -426,7 +426,6 @@
 | ɨ̙/ɨ | 1 | ✓ | ✓ |
 | ɪ̄/ɪ | 1 | ✓ | ✓ |
 | ɲ̊ | 1 | ✓ | ✓ |
-| ʂ̩ | 1 | ✓ | ✓ |
 | ʈɽ | 1 | ? | ? |
 | ʉ | 1 | ✓ | ✓ |
 | ʊ́/ʊ | 1 | ✓ | ✓ |
@@ -450,6 +449,7 @@
 | ⁵⁵/ɐ̙ | 1 | ✓ | ✓ |
 | ⁵⁵/ɛ̃ | 1 | ✓ | ✓ |
 | ⁵⁵/ʊ̃ | 1 | ✓ | ✓ |
+| ⁵⁵/ẽ | 1 | ✓ | ✓ |
 | ⁿdɽ | 1 | ? | ? |
 | ⁿk | 1 | ✓ | ✓ |
 | ⁿn | 1 | ✓ | ✓ |
@@ -472,11 +472,8 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:-----------------------------------------|:----------------------|:--------------------------|:-----------------|:---------------------------------------|
-| Bantawa-291_ten-1 | Bantawa | 291_ten | ina-nam- | i n a + n a m + |
-| Bantawa-379_tofall-1 | Bantawa | 379_tofall | tenma (tea) | t e n m a + t e a + |
 | Daofu-217_tothrow-1 | Daofu | 217_tothrow | ɟjɛr qɛ | <s> ɟj </s> ɛ + r q ɛ |
 | Daofu-402_torun-1 | Daofu | 402_torun | mɟjə ra | m + <s> ɟj </s> ə + r a |
-| Geshiza-64_thefoot-2 | Geshiza | 64_thefoot | mæ- | m æ + |
 | GuanyinqiaoKhroskyabs-272_many-1 | GuanyinqiaoKhroskyabs | 272_many | vɟjɑχ³³tsə⁵³ | v <s> ɟj </s> ³³/ɑ χ ts ⁵³/ə |
 | GuanyinqiaoKhroskyabs-278_other-1 | GuanyinqiaoKhroskyabs | 278_other | kʰɛ³³kʰa⁵³ɟji³³ | kʰ ³³/ɛ kʰ ⁵³/a + <s> ɟj </s> ³³/i |
 | GuanyinqiaoKhroskyabs-28_correctright-1 | GuanyinqiaoKhroskyabs | 28_correctright | vɟji⁵³ | v <s> ɟj </s> ⁵³/i |
@@ -506,19 +503,11 @@
 | MuyaKangding-68_thefox-1 | MuyaKangding | 68_thefox | ndzə̱⁵³ | n + dz <s> ⁵³ə̙ </s> |
 | MuyaKangding-80_thehairofthehead-1 | MuyaKangding | 80_thehairofthehead | ʁɐ̱⁵³mo³³ | ʁ <s> ⁵³ɐ̙ </s> + m ³³/o |
 | MuyaKangding-94_thehornkeratinizedskin-1 | MuyaKangding | 94_thehornkeratinizedskin | tʂhə̱⁵³ | ʈʂʰ <s> ⁵³ə̙ </s> |
-| NgyaltsuZbu-274_narrow-1 | NgyaltsuZbu | 274_narrow | kə-ⁿɡór | k ə + ⁿg ó/o r + |
-| NgyaltsuZbu-356_thetoothfront-1 | NgyaltsuZbu | 356_thetoothfront | tə-ɕwéʔ | t ə + ɕ w é/e ʔ + |
-| NgyaltsuZbu-402_torun-1 | NgyaltsuZbu | 402_torun | kɑ-rɟɯ́ɣʔ | k ɑ + r ɟ ɯ́/ɯ ɣ ʔ + |
 | NjorogsKhroskyabs-278_other-1 | NjorogsKhroskyabs | 278_other | ka³³ka⁵⁵ɟjo³³ | k ³³/a k ⁵⁵/a + <s> ɟj </s> ³³/o |
 | NjorogsKhroskyabs-28_correctright-1 | NjorogsKhroskyabs | 28_correctright | vɟje⁵⁵ | v <s> ɟj </s> ⁵⁵/e |
 | NjorogsKhroskyabs-349_thesea-1 | NjorogsKhroskyabs | 349_thesea | rɟja³³mtsʰo⁵⁵ | r <s> ɟj </s> ³³/a m tsʰ ⁵⁵/o |
 | NjorogsKhroskyabs-392_tolearn-1 | NjorogsKhroskyabs | 392_tolearn | ndzoʔs⁵³ | n + dz <s> ⁵³o </s> ʔ s |
 | NjorogsKhroskyabs-402_torun-1 | NjorogsKhroskyabs | 402_torun | rɟjuk⁵⁵ | r <s> ɟj </s> u ⁵⁵/k |
-| Tangut-150_outside-1 | Tangut | 150_outside | djɨr 2.77 | d j ɨ r + |
-| Tangut-264_hard-1 | Tangut | 264_hard | .jijr 1.74 | ʔ j i j r + |
-| Tshobdun-155_topush-1 | Tshobdun | 155_topush | stʰɔ < | s tʰ ɔ + |
-| Tshobdun-39_todrink-1 | Tshobdun | 39_todrink | tʰi < | tʰ i + |
-| Tshobdun-416_tostand-1 | Tshobdun | 416_tostand | ⁿdzor < | ⁿdz o r + |
 | Zhaba-163_theroad-1 | Zhaba | 163_theroad | ɟje³³lɛ⁵⁵ | <s> ɟj </s> ³³/e + l ⁵⁵/ɛ |
 | Zhaba-195_theson-1 | Zhaba | 195_theson | zɿ¹³pʌ³³ɟjʌ⁵⁵ | z ¹³/ɿ + p ³³/ʌ + <s> ɟj </s> ⁵⁵/ʌ |
 | Zhaba-217_tothrow-1 | Zhaba | 217_tothrow | a³³ ɟjo⁵⁵ | ³³/a + <s> ɟj </s> ⁵⁵/o |
@@ -527,6 +516,6 @@
 | Zhaba-48_eight-1 | Zhaba | 48_eight | ɟje⁵⁵ | <s> ɟj </s> ⁵⁵/e |
 | Zhaba-98_hundred-1 | Zhaba | 98_hundred | ɟji¹³ | <s> ɟj </s> ¹³/i |
 
-(54 rows)
+(43 rows)
 
 
