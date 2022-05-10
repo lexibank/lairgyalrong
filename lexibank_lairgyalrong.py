@@ -49,6 +49,8 @@ class Dataset(BaseDataset):
                 args.writer.add_concept(
                         ID=idx,
                         Name=concept["ENGLISH"],
+                        Concepticon_ID=concept["CONCEPTICON_ID"],
+                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                         )
                 concepts[concept["ENGLISH"]] = idx
         # check if all concepts are covered
