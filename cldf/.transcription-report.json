@@ -10239,8 +10239,8 @@
         },
         "MazurStau": {
             "bipa_errors": [
-                "s\u0259",
                 "t\u0255\u02b0\u00e6",
+                "s\u0259",
                 "d\u0259"
             ],
             "general_errors": 3,
@@ -11459,8 +11459,8 @@
                 ]
             },
             "sclass_errors": [
-                "s\u0259",
                 "t\u0255\u02b0\u00e6",
+                "s\u0259",
                 "d\u0259"
             ],
             "segments": {
@@ -28557,12 +28557,12 @@
         ],
         "bad_words_count": 11,
         "bipa_errors": [
-            "s\u0259",
             "\u207fd\u027d",
             "tr",
-            "t\u0255\u02b0\u00e6",
+            "s\u0259",
             "\u2075\u00b3o",
-            "d\u0259"
+            "d\u0259",
+            "t\u0255\u02b0\u00e6"
         ],
         "general_errors": 13,
         "invalid_words": [],
@@ -29783,12 +29783,12 @@
             ]
         },
         "sclass_errors": [
-            "s\u0259",
             "\u207fd\u027d",
             "tr",
-            "t\u0255\u02b0\u00e6",
+            "s\u0259",
             "\u2075\u00b3o",
-            "d\u0259"
+            "d\u0259",
+            "t\u0255\u02b0\u00e6"
         ],
         "segments": {
             "+": 2781,

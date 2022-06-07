@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
             "rdf:type": "prov:Entity",
-            "dc:created": "6fb7476",
+            "dc:created": "ac3a07b",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.6.0",
             "dc:title": "Concepticon"
         },
         {
