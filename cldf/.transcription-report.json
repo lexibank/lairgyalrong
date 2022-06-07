@@ -7692,8 +7692,8 @@
         },
         "KyomkyoSitu": {
             "bipa_errors": [
-                "\u207fd\u027d",
-                "tr"
+                "tr",
+                "\u207fd\u027d"
             ],
             "general_errors": 9,
             "replacements": {
@@ -8911,8 +8911,8 @@
                 ]
             },
             "sclass_errors": [
-                "\u207fd\u027d",
-                "tr"
+                "tr",
+                "\u207fd\u027d"
             ],
             "segments": {
                 "+": 258,
@@ -28478,6 +28478,20 @@
     "stats": {
         "bad_words": [
             [
+                "KyomkyoSitu-135_themud-3",
+                "KyomkyoSitu",
+                "135_themud",
+                "tatro",
+                "t a + <s> tr </s> o"
+            ],
+            [
+                "KyomkyoSitu-147_oldofperson-1",
+                "KyomkyoSitu",
+                "147_oldofperson",
+                "k\u0259mtro\u0294k",
+                "k \u0259 + m <s> tr </s> o \u0294 k"
+            ],
+            [
                 "KyomkyoSitu-155_topush-3",
                 "KyomkyoSitu",
                 "155_topush",
@@ -28506,18 +28520,11 @@
                 "t \u0259 + <s> \u207fd\u027d </s> u"
             ],
             [
-                "KyomkyoSitu-277_oldofperson-1",
+                "KyomkyoSitu-228_towalk-1",
                 "KyomkyoSitu",
-                "277_oldofperson",
-                "k\u0259mtro\u0294k",
-                "k \u0259 + m <s> tr </s> o \u0294 k"
-            ],
-            [
-                "KyomkyoSitu-337_themud-3",
-                "KyomkyoSitu",
-                "337_themud",
-                "tatro",
-                "t a + <s> tr </s> o"
+                "228_towalk",
+                "kav\u0259tri",
+                "k a + v \u0259 + <s> tr </s> i"
             ],
             [
                 "KyomkyoSitu-406_tosew-1",
@@ -28525,13 +28532,6 @@
                 "406_tosew",
                 "katrop",
                 "k a + <s> tr </s> o p"
-            ],
-            [
-                "KyomkyoSitu-422_towalk-1",
-                "KyomkyoSitu",
-                "422_towalk",
-                "kav\u0259tri",
-                "k a + v \u0259 + <s> tr </s> i"
             ],
             [
                 "KyomkyoSitu-70_thefrontfrontside-1",
@@ -28548,21 +28548,21 @@
                 "<s> s\u0259 </s> <s> d\u0259 </s> <s> t\u0255\u02b0\u00e6 </s>"
             ],
             [
-                "NjorogsKhroskyabs-392_tolearn-1",
+                "NjorogsKhroskyabs-113_tolearn-1",
                 "NjorogsKhroskyabs",
-                "392_tolearn",
+                "113_tolearn",
                 "ndzo\u0294s\u2075\u00b3",
                 "n + dz <s> \u2075\u00b3o </s> \u0294 s"
             ]
         ],
         "bad_words_count": 11,
         "bipa_errors": [
-            "\u207fd\u027d",
-            "tr",
-            "s\u0259",
             "\u2075\u00b3o",
-            "d\u0259",
-            "t\u0255\u02b0\u00e6"
+            "tr",
+            "t\u0255\u02b0\u00e6",
+            "s\u0259",
+            "\u207fd\u027d",
+            "d\u0259"
         ],
         "general_errors": 13,
         "invalid_words": [],
@@ -29783,12 +29783,12 @@
             ]
         },
         "sclass_errors": [
-            "\u207fd\u027d",
-            "tr",
-            "s\u0259",
             "\u2075\u00b3o",
-            "d\u0259",
-            "t\u0255\u02b0\u00e6"
+            "tr",
+            "t\u0255\u02b0\u00e6",
+            "s\u0259",
+            "\u207fd\u027d",
+            "d\u0259"
         ],
         "segments": {
             "+": 2781,

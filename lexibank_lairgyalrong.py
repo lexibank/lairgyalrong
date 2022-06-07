@@ -44,15 +44,16 @@ class Dataset(BaseDataset):
         # later add concept list here
         concepts = {}
         for concept in self.concepts:
-            if concept["ENGLISH"] in wl.rows:
-                idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
-                args.writer.add_concept(
-                        ID=idx,
-                        Name=concept["ENGLISH"],
-                        Concepticon_ID=concept["CONCEPTICON_ID"],
-                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                        )
-                concepts[concept["ENGLISH"]] = idx
+            for gloss in concept["LEXIBANK_GLOSS"].split(" // "):
+                if gloss in wl.rows:
+                    idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
+                    args.writer.add_concept(
+                            ID=idx,
+                            Name=concept["ENGLISH"],
+                            Concepticon_ID=concept["CONCEPTICON_ID"],
+                            Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                            )
+                    concepts[gloss] = idx
         # check if all concepts are covered
         rest = [c for c in wl.rows if c not in concepts]
         if rest:

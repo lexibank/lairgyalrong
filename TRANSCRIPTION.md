@@ -440,17 +440,17 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:-----------------------------------|:------------------|:---------------------|:-----------|:--------------------------------------|
+| KyomkyoSitu-135_themud-3 | KyomkyoSitu | 135_themud | tatro | t a + <s> tr </s> o |
+| KyomkyoSitu-147_oldofperson-1 | KyomkyoSitu | 147_oldofperson | kəmtroʔk | k ə + m <s> tr </s> o ʔ k |
 | KyomkyoSitu-155_topush-3 | KyomkyoSitu | 155_topush | katrap | k a + <s> tr </s> a p |
 | KyomkyoSitu-163_theroad-1 | KyomkyoSitu | 163_theroad | tralaʔ | <s> tr </s> a + l a ʔ |
 | KyomkyoSitu-184_six-1 | KyomkyoSitu | 184_six | kətroʔk | k ə <s> tr </s> o ʔ k |
 | KyomkyoSitu-185_theskin-2 | KyomkyoSitu | 185_theskin | təndɽu | t ə + <s> ⁿdɽ </s> u |
-| KyomkyoSitu-277_oldofperson-1 | KyomkyoSitu | 277_oldofperson | kəmtroʔk | k ə + m <s> tr </s> o ʔ k |
-| KyomkyoSitu-337_themud-3 | KyomkyoSitu | 337_themud | tatro | t a + <s> tr </s> o |
+| KyomkyoSitu-228_towalk-1 | KyomkyoSitu | 228_towalk | kavətri | k a + v ə + <s> tr </s> i |
 | KyomkyoSitu-406_tosew-1 | KyomkyoSitu | 406_tosew | katrop | k a + <s> tr </s> o p |
-| KyomkyoSitu-422_towalk-1 | KyomkyoSitu | 422_towalk | kavətri | k a + v ə + <s> tr </s> i |
 | KyomkyoSitu-70_thefrontfrontside-1 | KyomkyoSitu | 70_thefrontfrontside | tətru | t ə <s> tr </s> u |
 | MazurStau-428_when-1 | MazurStau | 428_when | sə də tɕʰæ | <s> sə </s> <s> də </s> <s> tɕʰæ </s> |
-| NjorogsKhroskyabs-392_tolearn-1 | NjorogsKhroskyabs | 392_tolearn | ndzoʔs⁵³ | n + dz <s> ⁵³o </s> ʔ s |
+| NjorogsKhroskyabs-113_tolearn-1 | NjorogsKhroskyabs | 113_tolearn | ndzoʔs⁵³ | n + dz <s> ⁵³o </s> ʔ s |
 
 (11 rows)
 
