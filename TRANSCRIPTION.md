@@ -8,12 +8,12 @@
 | + | 2781 | ✓ | ✓ |
 | r | 1377 | ✓ | ✓ |
 | m | 1279 | ✓ | ✓ |
-| ə | 1161 | ✓ | ✓ |
+| ə | 1163 | ✓ | ✓ |
 | a | 1120 | ✓ | ✓ |
 | k | 1042 | ✓ | ✓ |
 | n | 990 | ✓ | ✓ |
 | t | 898 | ✓ | ✓ |
-| s | 883 | ✓ | ✓ |
+| s | 884 | ✓ | ✓ |
 | j | 746 | ✓ | ✓ |
 | i | 679 | ✓ | ✓ |
 | l | 583 | ✓ | ✓ |
@@ -27,14 +27,14 @@
 | ɣ | 331 | ✓ | ✓ |
 | ɐ | 328 | ✓ | ✓ |
 | w | 320 | ✓ | ✓ |
-| d | 315 | ✓ | ✓ |
+| d | 316 | ✓ | ✓ |
 | ʁ | 292 | ✓ | ✓ |
 | kʰ | 291 | ✓ | ✓ |
 | b | 280 | ✓ | ✓ |
 | z | 274 | ✓ | ✓ |
 | ɑ | 266 | ✓ | ✓ |
 | ɕ | 231 | ✓ | ✓ |
-| æ | 225 | ✓ | ✓ |
+| æ | 226 | ✓ | ✓ |
 | g | 211 | ✓ | ✓ |
 | tsʰ | 203 | ✓ | ✓ |
 | tʰ | 201 | ✓ | ✓ |
@@ -49,7 +49,7 @@
 | ⁵⁵/e | 170 | ✓ | ✓ |
 | dʑ | 168 | ✓ | ✓ |
 | q | 167 | ✓ | ✓ |
-| tɕʰ | 164 | ✓ | ✓ |
+| tɕʰ | 165 | ✓ | ✓ |
 | x | 143 | ✓ | ✓ |
 | tɕ | 140 | ✓ | ✓ |
 | ɲ | 133 | ✓ | ✓ |
@@ -100,7 +100,7 @@
 | û/u | 47 | ✓ | ✓ |
 | ó/o | 46 | ✓ | ✓ |
 | ʌ | 46 | ✓ | ✓ |
-| ⁵³/o | 44 | ✓ | ✓ |
+| ⁵³/o | 45 | ✓ | ✓ |
 | h | 43 | ✓ | ✓ |
 | ¹/ʌ | 43 | ✓ | ✓ |
 | â/a | 43 | ✓ | ✓ |
@@ -207,7 +207,7 @@
 | ɨː | 9 | ✓ | ✓ |
 | a̯ | 8 | ✓ | ✓ |
 | dʱ | 8 | ✓ | ✓ |
-| tr | 8 | ? | ? |
+| tʳ | 8 | ✓ | ✓ |
 | ²/æ | 8 | ✓ | ✓ |
 | ²/ɛ | 8 | ✓ | ✓ |
 | ³³/ɿ | 8 | ✓ | ✓ |
@@ -340,11 +340,8 @@
 | ⁵⁵/ɨ | 2 | ✓ | ✓ |
 | ⁿɢ | 2 | ✓ | ✓ |
 | a̙ | 1 | ✓ | ✓ |
-| də | 1 | ? | ? |
 | eː | 1 | ✓ | ✓ |
 | e̙/e | 1 | ✓ | ✓ |
-| sə | 1 | ? | ? |
-| tɕʰæ | 1 | ? | ? |
 | tʂ | 1 | ✓ | ✓ |
 | tʂʰ | 1 | ✓ | ✓ |
 | ²/aː | 1 | ✓ | ✓ |
@@ -413,17 +410,16 @@
 | ⁵³/ɤ | 1 | ✓ | ✓ |
 | ⁵³/ʅ | 1 | ✓ | ✓ |
 | ⁵³/ʌ | 1 | ✓ | ✓ |
-| ⁵³o | 1 | ? | ? |
 | ⁵⁵/l | 1 | ✓ | ✓ |
 | ⁵⁵/ũ | 1 | ✓ | ✓ |
 | ⁵⁵/ɛ̃ | 1 | ✓ | ✓ |
 | ⁵⁵/ʊ̃ | 1 | ✓ | ✓ |
 | ⁵⁵/ẽ | 1 | ✓ | ✓ |
-| ⁿdɽ | 1 | ? | ? |
+| ⁿdʳ | 1 | ✓ | ✓ |
 | ⁿk | 1 | ✓ | ✓ |
 | ⁿn | 1 | ✓ | ✓ |
 
-(417 rows)
+(413 rows)
 
 
 
@@ -439,19 +435,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------|:------------------|:---------------------|:-----------|:--------------------------------------|
-| KyomkyoSitu-135_themud-3 | KyomkyoSitu | 135_themud | tatro | t a + <s> tr </s> o |
-| KyomkyoSitu-147_oldofperson-1 | KyomkyoSitu | 147_oldofperson | kəmtroʔk | k ə + m <s> tr </s> o ʔ k |
-| KyomkyoSitu-155_topush-3 | KyomkyoSitu | 155_topush | katrap | k a + <s> tr </s> a p |
-| KyomkyoSitu-163_theroad-1 | KyomkyoSitu | 163_theroad | tralaʔ | <s> tr </s> a + l a ʔ |
-| KyomkyoSitu-184_six-1 | KyomkyoSitu | 184_six | kətroʔk | k ə <s> tr </s> o ʔ k |
-| KyomkyoSitu-185_theskin-2 | KyomkyoSitu | 185_theskin | təndɽu | t ə + <s> ⁿdɽ </s> u |
-| KyomkyoSitu-228_towalk-1 | KyomkyoSitu | 228_towalk | kavətri | k a + v ə + <s> tr </s> i |
-| KyomkyoSitu-406_tosew-1 | KyomkyoSitu | 406_tosew | katrop | k a + <s> tr </s> o p |
-| KyomkyoSitu-70_thefrontfrontside-1 | KyomkyoSitu | 70_thefrontfrontside | tətru | t ə <s> tr </s> u |
-| MazurStau-428_when-1 | MazurStau | 428_when | sə də tɕʰæ | <s> sə </s> <s> də </s> <s> tɕʰæ </s> |
-| NjorogsKhroskyabs-113_tolearn-1 | NjorogsKhroskyabs | 113_tolearn | ndzoʔs⁵³ | n + dz <s> ⁵³o </s> ʔ s |
+|------|------------|-----------|--------|------------|
 
-(11 rows)
+(0 rows)
 
 
