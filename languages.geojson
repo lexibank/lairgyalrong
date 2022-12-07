@@ -1,0 +1,433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.049995,
+          27.117894
+        ]
+      },
+      "properties": {
+        "Name": "Kiranti_Bantawa",
+        "Glottocode": "bant1281",
+        "Glottolog_Name": "Bantawa",
+        "ISO639P3code": "bap",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Kiranti",
+        "Coverage": "195",
+        "Sources": "Jongens2009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.123742,
+          30.975281
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrong_Daofu",
+        "Glottocode": "horp1240",
+        "Glottolog_Name": "Horpa",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "rGyalrongic",
+        "Coverage": "223",
+        "Sources": "Huang1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.957636,
+          32.207076
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrong_Japhug",
+        "Glottocode": "japh1234",
+        "Glottolog_Name": "Japhug",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "rGyalrongic",
+        "Coverage": "225",
+        "Sources": "Jacques2015b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.285383,
+          38.477453
+        ]
+      },
+      "properties": {
+        "Name": "Tangut",
+        "Glottocode": "tang1334",
+        "Glottolog_Name": "Tangut",
+        "ISO639P3code": "txg",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Tangut",
+        "Coverage": "236",
+        "Sources": "Li1997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.427999,
+          31.62758
+        ]
+      },
+      "properties": {
+        "Name": "Khroskyabs_Wobzi",
+        "Glottocode": "eree1240",
+        "Glottolog_Name": "Ere (China)",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "rGyalrongic",
+        "Coverage": "224",
+        "Sources": "Lai2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.058397,
+          30.538892
+        ]
+      },
+      "properties": {
+        "Name": "Qiangic_Zhaba",
+        "Glottocode": "zhab1238",
+        "Glottolog_Name": "Zhaba",
+        "ISO639P3code": "zhb",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Qiangic",
+        "Coverage": "224",
+        "Sources": "Huang1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.295293,
+          31.868614
+        ]
+      },
+      "properties": {
+        "Name": "rGyalrong_Maerkang",
+        "Glottocode": "situ1238",
+        "Glottolog_Name": "Situ",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "rGyalrongic",
+        "Coverage": "225",
+        "Sources": "Huang1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.962819,
+          30.055673
+        ]
+      },
+      "properties": {
+        "Name": "Muya-kangding",
+        "Glottocode": "west2417",
+        "Glottolog_Name": "Western Muya",
+        "ISO639P3code": "wmg",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Qiangic",
+        "Coverage": "273",
+        "Sources": "Huang1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.53514,
+          29.762152
+        ]
+      },
+      "properties": {
+        "Name": "Menya-Gao",
+        "Glottocode": "west2417",
+        "Glottolog_Name": "Western Muya",
+        "ISO639P3code": "wmg",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Qiangic",
+        "Sources": "Gao2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.595184,
+          21.461103
+        ]
+      },
+      "properties": {
+        "Name": "OldBurmese",
+        "Glottocode": "oldb1235",
+        "Glottolog_Name": "Old Burmese",
+        "ISO639P3code": "obr",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Burmish",
+        "Coverage": "259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.260535,
+          30.978459
+        ]
+      },
+      "properties": {
+        "Name": "Queyu_Xinlong",
+        "Glottocode": "quey1238",
+        "Glottolog_Name": "Queyu",
+        "ISO639P3code": "qvy",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Qiangic",
+        "Coverage": "254",
+        "Sources": "Huang1992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.778441,
+          30.222522
+        ]
+      },
+      "properties": {
+        "Name": "Queyu_pubarong",
+        "Glottocode": "quey1239",
+        "SubGroup": "Qiangic",
+        "Sources": "GuanForthcoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.423119,
+          31.752277
+        ]
+      },
+      "properties": {
+        "Name": "Siyuewu_Khroskyabs",
+        "Glottocode": "siya1242",
+        "Glottolog_Name": "Siyaowu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.909098,
+          31.815434
+        ]
+      },
+      "properties": {
+        "Name": "Bragbar Situ",
+        "Glottocode": "situ1238",
+        "Glottolog_Name": "Situ",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "ZhangForthcoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.648464,
+          31.028655
+        ]
+      },
+      "properties": {
+        "Name": "Geshiza",
+        "Glottocode": "horp1240",
+        "Glottolog_Name": "Horpa",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Honkasalo2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.655159,
+          31.79783
+        ]
+      },
+      "properties": {
+        "Name": "Guanyinqiao_Khroskyabs",
+        "Glottocode": "guan1252",
+        "Glottolog_Name": "Guanyingqiao",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Huang2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.861052,
+          31.816015
+        ]
+      },
+      "properties": {
+        "Name": "Njorogs_Khroskyabs",
+        "Glottocode": "yelo1242",
+        "Glottolog_Name": "Yelong",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Yin2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.832761,
+          32.208994
+        ]
+      },
+      "properties": {
+        "Name": "Tshobdun",
+        "Glottocode": "tsho1240",
+        "Glottolog_Name": "Tshobdun",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Sun2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.735946,
+          32.146564
+        ]
+      },
+      "properties": {
+        "Name": "Ngyaltsu Zbu",
+        "Glottocode": "zbua1234",
+        "Glottolog_Name": "Zbu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Gong2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.085308,
+          29.933395
+        ]
+      },
+      "properties": {
+        "Name": "Zlarong",
+        "Glottocode": "zlar1234",
+        "Glottolog_Name": "Zlarong",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Chamdoic",
+        "Sources": "Zhao2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.036889,
+          31.986879
+        ]
+      },
+      "properties": {
+        "Name": "Kyomkyo_Situ",
+        "Glottocode": "situ1238",
+        "Glottolog_Name": "Situ",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "Prins2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.05192,
+          31.04136
+        ]
+      },
+      "properties": {
+        "Name": "MazurStau",
+        "Glottocode": "daof1238",
+        "Glottolog_Name": "Rtau",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "SubGroup": "Rgyalrongic",
+        "Sources": "GatesForthcoming"
+      }
+    }
+  ]
+}
