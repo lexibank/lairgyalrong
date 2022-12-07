@@ -1,7 +1,7 @@
 {
-    "url": "http://github.com/lingpy/rgyalrong-analysis/",
-    "citation": "add later",
+    "url": "http://github.com/lexibank/lairgyalrong",
+    "citation": "Lai, Yunfan and List, Johann-Mattis (2022): Collection of Wordlists in Rgyalrongic Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "license": "CC-BY-4.0",
     "conceptlist": "Sagart-2019-250",
-    "title": "Database of Lexical Cognates in Rgyalrongic"
+    "title": "Collection of Wordlists in Rgyalrongic Languages"
 }

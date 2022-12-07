@@ -1,10 +1,10 @@
-# Database of Lexical Cognates in Rgyalrongic
+# Collection of Wordlists in Rgyalrongic Languages
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > add later
+  > Lai, Yunfan and List, Johann-Mattis (2022): Collection of Wordlists in Rgyalrongic Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -12,7 +12,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at http://github.com/lingpy/rgyalrong-analysis/
+Available online at http://github.com/lexibank/lairgyalrong
 
 
 Conceptlists in Concepticon:
@@ -33,7 +33,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.10
 - **Invalid lexemes:** 0
 - **Tokens:** 29,431
-- **Segments:** 413 (0 BIPA errors, 0 CTLS sound class errors, 406 CLTS modified)
+- **Segments:** 413 (0 BIPA errors, 0 CLTS sound class errors, 406 CLTS modified)
 - **Inventory size (avg):** 72.27
 
 ## Possible Improvements:

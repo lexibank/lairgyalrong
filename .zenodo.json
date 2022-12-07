@@ -1,5 +1,5 @@
 {
-    "title": "Database of Lexical Cognates in Rgyalrongic",
+    "title": "Collection of Wordlists in Rgyalrongic Languages",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -13,7 +13,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>add later</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lai, Yunfan and List, Johann-Mattis (2022): Collection of Wordlists in Rgyalrongic Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
