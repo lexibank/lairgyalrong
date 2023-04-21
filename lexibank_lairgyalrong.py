@@ -25,12 +25,17 @@ class CustomLanguage(Language):
     Sources = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    Partial_Cognacy = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "lairgyalrong"
     concept_class = CustomConcept
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
 
     def cmd_download(self, args):
         data = fetch("rgyalrong", base_url="https://lingulist.de/edev")
@@ -69,6 +74,13 @@ class Dataset(BaseDataset):
         # add word forms
         for idx in progressbar(wl, desc="cldfify"):
             if wl[idx, "tokens"]:
+                # compare data
+                if len("".join(wl[idx, "tokens"]).split("+")) != len(wl[idx,
+                                                                        "cogids"]):
+                    args.log.info("error in word form {0} / {1} / {2}".format(
+                        idx,
+                        wl[idx, "concept"],
+                        wl[idx, "doculect"]))
                 args.writer.add_form_with_segments(
                         Local_ID=wl[idx, "id_in_source"],
                         Language_ID=wl[idx, "doculect"],
@@ -78,6 +90,7 @@ class Dataset(BaseDataset):
                         Form=wl[idx, "form"].strip() or wl[idx,
                             "value"].strip() or "?",
                         Segments=wl[idx, "tokens"],
+                        Partial_Cognacy=str(wl[idx, "cogids"]),
                         Source=sources[wl[idx, "doculect"]]
                         )
 
