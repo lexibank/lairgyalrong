@@ -5631,7 +5631,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 5783	t ⁵⁵/ə + r ⁵⁵/ã -	0	8028 6988	to swell	Zlarong	tə55rã55	t ⁵⁵/ə + r ⁵⁵/ã	tə55rã55									
 5784	tʰ - ¹³/a - -	0	5711	to drink	Zlarong	tha13	tʰ ¹³/a	tha13									
 5785	- tʰ ³¹/a - + r ⁵⁵/i -	0	8037 474	far	Zlarong	tha31ri55	tʰ ³¹/a + r ⁵⁵/i	tha31ri55		tib		_8037 _474					
-5786	- - - tʰ ⁵⁵/a + n ⁵⁵/a	0	5122	there	Zlarong	tha55na55	tʰ ⁵⁵/a + n ⁵⁵/a	tha55na55									
+5786	- - - tʰ ⁵⁵/a + n ⁵⁵/a	0	5122 0	there	Zlarong	tha55na55	tʰ ⁵⁵/a + n ⁵⁵/a	tha55na55									
 5787	tʰ ¹³/e + - - r ¹³/e - - - -	0	8471 809	horizontal	Zlarong	the13re13	tʰ ¹³/e + r ¹³/e	the13re13									
 5788	tʰ ⁵³/e s ³¹/ɨ	0	2191	the child	Zlarong	the53sɨ31	tʰ ⁵³/e s ³¹/ɨ	the53sɨ31									
 5789	tʰ - ⁵⁵/e - -	0	1833	that	Zlarong	the55	tʰ ⁵⁵/e	the55									
@@ -5694,7 +5694,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 5847	k ə + ŋ a n	0	7781 113	bad	KyomkyoSitu	kəŋan	k ə + ŋ a n	kəŋan		tib		7781 _113					
 5848	k ə + s c e -	0	7647 7672	before	KyomkyoSitu	kəsce	k ə + s c e	kəsce									
 5849	w a + k a j	0	7649 7641	before	KyomkyoSitu	wakaj	w a + k a j	wakaj									
-5850	t a + k a	0	7910	below, under	KyomkyoSitu	taka	t a + k a	taka									
+5850	t a + k a	0	7910 0	below, under	KyomkyoSitu	taka	t a + k a	taka									
 5851	t a + p a -	0	7910 179	below, under	KyomkyoSitu	tapa	t a + p a	tapa									
 5852	t ə + s p o ʔ k -	0	7910 178	below, under	KyomkyoSitu	təspoʔk	t ə + s p o ʔ k	təspoʔk									
 5853	k ə + - k t u -	0	7777 224	big	KyomkyoSitu	kəktu	k ə + k t u	kəktu									
@@ -5967,7 +5967,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6507	- - - ɲ cʰ - ǽ/æ l		6419	to play	WobziKhroskyabs	ɲcʰæl	ɲ cʰ ǽ/æ l	ɲcʰǽl									
 6508	tɕʰ j æ		30	above	MazurStau	tɕʰjæ	tɕʰ j æ	tɕʰjæ									
 6509			7930	all	MazurStau	χsəmbə	χ s ə m b ə	χsəmbə									
-6510				and	MazurStau	reɡɛ	r e ɡ ɛ	reɡɛ									
+6510			0	and	MazurStau	reɡɛ	r e ɡ ɛ	reɡɛ									
 6511	qʰ ə m æ		114	bad	MazurStau	qʰəmæ	qʰ ə m æ	qʰəmæ									
 6512	ŋ ə -	29791	7643	before	MazurStau	ŋə	ŋ ə	ŋə		tib?		_7643					
 6513	v ə -		179	below, under	MazurStau	və	v ə	və									
@@ -5999,7 +5999,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6539	r j - ə -		7856	hundred	MazurStau	rjə	r j ə	rjə									
 6540	ŋ æ -		2	I [first person singular]	MazurStau	ŋæ	ŋ æ	ŋæ									
 6541	n ə - - -		898	inside	MazurStau	nə	n ə	nə		tib		_898					
-6542				knife	MazurStau	pərzi	p ə r z i	pərzi									
+6542			0	knife	MazurStau	pərzi	p ə r z i	pərzi
 6543	tʰ - o		937	late	MazurStau	tʰo	tʰ o	tʰo									
 6544	ʁ - - - - j - u - - + k u		955 8482	left	MazurStau	ʁjuku	ʁ j u + k u	ʁjuku									
 6545	ɣ + - - j i - - - - - - -		8467 982	light (of weight)	MazurStau	ɣji	ɣ + j i	ɣji									
@@ -6014,7 +6014,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6555	χ s ɛ r p æ - - - -		1191	new	MazurStau	χsɛrpæ	χ s ɛ r p æ	χsɛrpæ		tib		_1191					
 6556	n ɡ - - ə - - - -		1210	nine	MazurStau	nɡə	n ɡ ə	nɡə									
 6557	s ɲ ə - - + χ c i -		7860 1237	noon	MazurStau	sɲəχci	s ɲ ə + χ c i	sɲəχci		partial tib: dkyil		7860 _1237					
-6558				not	MazurStau	mjæ	m j æ	mjæ									
+6558			0	not	MazurStau	mjæ	m j æ	mjæ
 6559	- r ɡ e - - + v ʑ ə		1267 8296	old (of person)	MazurStau	rɡevʑə	r ɡ e + v ʑ ə	rɡevʑə		tib		_1267 _8296					
 6560	r o -		8531	one	MazurStau	ro	r o	ro									
 6561	kʰ æ kʰ æ		1323	other	MazurStau	kʰækʰæ	kʰ æ kʰ æ	kʰækʰæ									
@@ -6036,7 +6036,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6577	ts e - - -		8523	small	MazurStau	tse	ts e	tse									
 6578	n dʑ ɛ m		7967	smooth	MazurStau	ndʑɛm	n dʑ ɛ m	ndʑɛm		tib		_7967					
 6579	n + - d v - ə - - - - - - -		8457 1726	soft	MazurStau	ndvə	n + d v ə	ndvə									
-6580				some	MazurStau	pʰæji	pʰ æ j i	pʰæji									
+6580			0	some	MazurStau	pʰæji	pʰ æ j i	pʰæji
 6581				some	MazurStau	roji	r o j i	roji									
 6582	r qʰ ə r qʰ æ		1756	stone (of fruit)	MazurStau	rqʰərqʰæ	r qʰ ə r qʰ æ	rqʰərqʰæ									
 6583	r - t - ə - - - - - + kʰ æ		1777 8203	straight	MazurStau	rtəkʰæ	r t ə + kʰ æ	rtəkʰæ									
@@ -6058,7 +6058,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6599	n - e - - - - n e		2158	the breast (female)	MazurStau	nene	n e n e	nene									
 6600	k e + d i		7992 2185	the child	MazurStau	kedi	k e + d i	kedi									
 6601	z - d - o - - -		2207	the cloud	MazurStau	zdo	z d o	zdo									
-6602				the daughter	MazurStau	smi	s m i	smi									
+6602			0	the daughter	MazurStau	smi	s m i	smi
 6603	s ɲ e - + l - e		2231 8106	the day (opposed to night)	MazurStau	sɲele	s ɲ e + l e	sɲele									
 6604	- r z - e -		2246	the dew	MazurStau	rze	r z e	rze									
 6605	kʰ - - ə - - + t æ		2268 2269	the dog	MazurStau	kʰətæ	kʰ ə + t æ	kʰətæ									
@@ -6071,7 +6071,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6612	z ɡ ə ŋ æ -		2428	the egg	MazurStau	zɡəŋæ	z ɡ ə ŋ æ	zɡəŋæ		tib		_2428					
 6613	m - o - - -		2446	the eye	MazurStau	mo	m o	mo									
 6614	r tsʰ i r tsʰ æ - - -		8515	the fat (grease)	MazurStau	rtsʰirtsʰæ	r tsʰ i r tsʰ æ	rtsʰirtsʰæ									
-6615				the father	MazurStau	æpæ	æ p æ	æpæ									
+6615			0	the father	MazurStau	æpæ	æ p æ	æpæ
 6616	s p ə s p æ		2493	the feather	MazurStau	spəspæ	s p ə s p æ	spəspæ									
 6617	ɣ + m ə -		8445 2518	the fire	MazurStau	ɣmə	ɣ + m ə	ɣmə									
 6618	ʁ - + j - - ə - - - - - -		8164 2542	the fish	MazurStau	ʁjə	ʁ + j ə	ʁjə									
@@ -6105,7 +6105,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6646	r ŋ - ə -		3235	the knee	MazurStau	rŋə	r ŋ ə	rŋə									
 6647	m tsʰ u		3287	the lake	MazurStau	mtsʰu	m tsʰ u	mtsʰu		tib		_3287					
 6648	r b - ɑ - - + l ɑ		3312 3310	the leaf	MazurStau	rbɑlɑ	r b ɑ + l ɑ	rbɑlɑ									
-6649				the leg	MazurStau	rko	r k o	rko									
+6649			0	the leg	MazurStau	rko	r k o	rko
 6650	- - f ɬ - ɛ - + f ts ə		3340 8151	the lightning	MazurStau	fɬɛftsə	f ɬ ɛ + f ts ə	fɬɛftsə									
 6651	ɣ - m u r		3359	the lip (the lips)	MazurStau	ɣmur	ɣ m u r	ɣmur									
 6652	s - i - - - -		3386	the liver	MazurStau	si	s i	si									
@@ -6115,7 +6115,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6656	p j ɛ - n o -		3486	the meat	MazurStau	pjɛno	p j ɛ n o	pjɛno									
 6657	s ɬ ə + ɣ + - n ə		7942 8427 7945	the moon	MazurStau	sɬəɣnə	s ɬ ə + ɣ + n ə	sɬəɣnə		partial tib		_7942 7945					
 6658	p u - - - - kʰ u		3572	the mosquito	MazurStau	pukʰu	p u kʰ u	pukʰu									
-6659				the mother	MazurStau	æmə	æ m ə	æmə									
+6659			0	the mother	MazurStau	æmə	æ m ə	æmə
 6660	r ə + n ɡ u		3584 7997	the mountain	MazurStau	rənɡu	r ə + n ɡ u	rənɡu		tib		_3584 _7997					
 6661	f - c ə -		3616	the mouse or rat	MazurStau	fcə	f c ə	fcə									
 6662	j æ		3636	the mouth	MazurStau	jæ	j æ	jæ									
@@ -6186,8 +6186,8 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6727	- - - r w o -		5141	thick	MazurStau	rwo	r w o	rwo									
 6728	ɣ + ɮ - æ - - - - - - -		8478 5132	thick	MazurStau	ɣɮæ	ɣ + ɮ æ	ɣɮæ									
 6729	x tsʰ o		7971	thin (object)	MazurStau	xtsʰo	x tsʰ o	xtsʰo									
-6730				thin (slim)	MazurStau	pəpə	p ə p ə	pəpə									
-6731				this	MazurStau	ədɛ	ə d ɛ	ədɛ									
+6730			0	thin (slim)	MazurStau	pəpə	p ə p ə	pəpə
+6731			0	this	MazurStau	ədɛ	ə d ɛ	ədɛ
 6732	ɲ - i - -		5189	thou [second person singular]	MazurStau	ɲi	ɲ i	ɲi									
 6733	x - s u - - -		7832	three	MazurStau	xsu	x s u	xsu									
 6734	x s - - ə - - - - -		7769	to be alive	MazurStau	xsə	x s ə	xsə									
@@ -6234,7 +6234,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6775	v + s - ɛ -		6143 6142	to kill	MazurStau	v-sɛ	v + s ɛ	v-sɛ									
 6776	r + n i - - - -		8493 6173	to knead	MazurStau	rni	r + n i	rni									
 6777	s - i - -		8544	to know	MazurStau	si	s i	si									
-6778				to know (something)	MazurStau	χɑɡu	χ ɑ ɡ u	χɑɡu									
+6778			0	to know (something)	MazurStau	χɑɡu	χ ɑ ɡ u	χɑɡu							
 6779	- qʰ æ - - -		6223	to laugh	MazurStau	qʰæ	qʰ æ	qʰæ									
 6780	n + - dʑ - - i - - - - - -		8438 6249	to learn	MazurStau	ndʑi	n + dʑ i	ndʑi									
 6781	n + - - d j - æ - - l æ		8435 6287	to lick	MazurStau	ndjælæ	n + d j æ l æ	ndjælæ									
@@ -6287,17 +6287,17 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	TOKENS	VALUE	ID_IN_SOURCE	BORROW
 6828	qʰ ə + - s j i - - - -		8127 7284	tomorrow	MazurStau	qʰəsji	qʰ ə + s j i	qʰəsji									
 6829	ɣ - n - ə - - s q - ɑ - -		7312	twenty	MazurStau	ɣnəsqɑ	ɣ n ə s q ɑ	ɣnəsqɑ									
 6830	ɣ - n - e - -		7341	two	MazurStau	ɣne	ɣ n e	ɣne									
-6831				we [first person plural inclusive]	MazurStau	ŋæji	ŋ æ j i	ŋæji									
+6831			0	we [first person plural inclusive]	MazurStau	ŋæji	ŋ æ j i	ŋæji
 6832	- ɬ ə - - -		7391	wet	MazurStau	ɬə	ɬ ə	ɬə									
 6833	- æ + - tɕʰ - ə -		7416 7413	what	MazurStau	æ-tɕʰə	æ + tɕʰ ə	æ-tɕʰə									
-6834	s ə d ə tɕʰ æ			when	MazurStau	sə də tɕʰæ	s ə d ə tɕʰ æ	sə də tɕʰæ									
+6834	s ə d ə tɕʰ æ		0	when	MazurStau	sə də tɕʰæ	s ə d ə tɕʰ æ	sə də tɕʰæ
 6835	l o - + r ə		7441 7442	where	MazurStau	lo-rə	l o + r ə	lo-rə									
 6836	pʰ - r u - - - - - - -		7471	white	MazurStau	pʰru	pʰ r u	pʰru									
 6837	s - - ə - -		7495	who	MazurStau	sə	s ə	sə									
 6838	l - o - -		7518	wide	MazurStau	lo	l o	lo									
 6839	r ɲ ə - - - r ɲ ə -		7540	yellow	MazurStau	rɲərɲə	r ɲ ə r ɲ ə	rɲərɲə									
 6840	æ + v ə + s ɲ - i -		7673 7567 7579	yesterday	MazurStau	ævəsɲi	æ + v ə + s ɲ i	ævəsɲi									
-6841				you [second person plural]	MazurStau	ɲi	ɲ i	ɲi									
+6841			0	you [second person plural]	MazurStau	ɲi	ɲ i	ɲi
 6842	l u - tɕʰ - õ -		7599	young	MazurStau	lutɕʰõ	l u tɕʰ õ	lutɕʰõ		tib		_7599					
 6843	pʰ æ - - - s l - ə́/ə		2321	the dust	WobziKhroskyabs	pʰæslə́	pʰ æ s l ə́/ə	pʰæslə́									
 6844	pʰ ê/e - - - s l - ə		2321	the dust	SiyuewuKhroskyabs	pʰeslə	pʰ ê/e s l ə	pʰeslə									
