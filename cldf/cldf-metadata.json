@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Lai, Yunfan and List, Johann-Mattis (2022): Collection of Wordlists in Rgyalrongic Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.9]. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Sagart-2019-250"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
             "rdf:type": "prov:Entity",
-            "dc:created": "c943144",
+            "dc:created": "848bcf0",
             "dc:title": "Repository"
         },
         {
