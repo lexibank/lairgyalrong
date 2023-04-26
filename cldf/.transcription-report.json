@@ -4,6 +4,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -1225,6 +1228,7 @@
             },
             "sclass_errors": [],
             "segments": {
+                "!y/j": 1,
                 "+": 102,
                 "a": 309,
                 "b": 24,
@@ -1258,7 +1262,7 @@
                 "u": 110,
                 "u\u02d0": 2,
                 "w": 38,
-                "y": 25,
+                "y": 24,
                 "\u00e3": 1,
                 "\u00e6": 1,
                 "\u014b": 70,
@@ -1270,6 +1274,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -2570,6 +2577,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -3855,6 +3865,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -5130,6 +5143,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -6442,6 +6458,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -7730,6 +7749,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -9008,6 +9030,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -10283,6 +10308,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -11565,6 +11593,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -12873,6 +12904,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -14196,6 +14230,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -15505,6 +15542,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -16815,6 +16855,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -18086,6 +18129,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -19424,6 +19470,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -20740,6 +20789,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -22037,6 +22089,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -23350,6 +23405,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -24644,6 +24702,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -25948,6 +26009,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -27275,6 +27339,9 @@
             "bipa_errors": [],
             "general_errors": 0,
             "replacements": {
+                "!y/j": [
+                    "j"
+                ],
                 "+": [
                     "+"
                 ],
@@ -28592,8 +28659,11 @@
         "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 72.27272727272728,
+        "inventory_size": 72.31818181818183,
         "replacements": {
+            "!y/j": [
+                "j"
+            ],
             "+": [
                 "+"
             ],
@@ -29815,6 +29885,7 @@
         },
         "sclass_errors": [],
         "segments": {
+            "!y/j": 1,
             "+": 2781,
             "a": 1120,
             "a\u02d0": 7,
@@ -29892,7 +29963,7 @@
             "v": 413,
             "w": 320,
             "x": 143,
-            "y": 117,
+            "y": 116,
             "z": 274,
             "\u00b2/a": 13,
             "\u00b2/a\u02d0": 1,
