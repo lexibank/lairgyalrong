@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.9]. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  > Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.1]. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
