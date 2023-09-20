@@ -68,8 +68,8 @@ class Dataset(BaseDataset):
             args.log.info("all concepts were added")
 
         # add languages
-        args.writer.add_languages()
-        sources = {l["ID"]: l["Sources"] for l in self.languages}
+        languages = args.writer.add_languages(lookup_factory="LookupName")
+        sources = {l["LookupName"]: l["Sources"] for l in self.languages}
 
         # add word forms
         for idx in progressbar(wl, desc="cldfify"):
@@ -83,7 +83,7 @@ class Dataset(BaseDataset):
                         wl[idx, "doculect"]))
                 args.writer.add_form_with_segments(
                         Local_ID=wl[idx, "id_in_source"],
-                        Language_ID=wl[idx, "doculect"],
+                        Language_ID=languages[wl[idx, "doculect"]],
                         Parameter_ID=concepts[wl[idx, "concept"]],
                         Value=wl[idx, "value"].strip() or wl[idx,
                             "form"].strip() or "?",

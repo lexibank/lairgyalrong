@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
             "rdf:type": "prov:Entity",
-            "dc:created": "5b8dd8f",
+            "dc:created": "87c0b50",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 6335,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -165,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 22,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -243,7 +243,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 305,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
