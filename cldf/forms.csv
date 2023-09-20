@@ -516,7 +516,7 @@ Daofu-234_where-1,19249,Daofu,234_where,lo rə,lo rə,l o + r ə,,Huang1992,,,,,
 Daofu-235_white-1,19780,Daofu,235_white,phru phru,phru phru,pʰ r u pʰ r u,,Huang1992,,,,,[7471]
 Daofu-236_who-1,19247,Daofu,236_who,sə,sə,sʰ ə,,Huang1992,,,,,[7495]
 Daofu-246_yellow-1,19307,Daofu,246_yellow,gɛ rȵə,gɛ rȵə,g ɛ + r ȵ ə,,Huang1992,,,,,"[7546, 7540]"
-Daofu-247_yesterday-1,19115,Daofu,247_yesterday,a və sȵi,a və sȵi,a + v ə + s ȵ i,,Huang1992,,,,,"[7673, 7567, 7579]"
+Daofu-247_yesterday-1,19115,Daofu,247_yesterday,a və sȵi,a və sȵi,a + v ə + s ȵ i,,Huang1992,,,,,"[7673, 7567, 7256]"
 Daofu-249_young-1,20636,Daofu,249_young,lo tɕhoŋ,lo tɕhoŋ,l o tɕʰ o ŋ,,Huang1992,,,,,[7599]
 Japhug-443_ifirstpersonsingular-1,5083,Japhug,443_ifirstpersonsingular,aʑo,aʑo,a + ʑ o,,Jacques2015b,,,,,"[8561, 8411]"
 Japhug-1_above-1,48,Japhug,1_above,ɯ-taʁ,ɯ-taʁ,ɯ + t a ʁ,,Jacques2015b,,,,,"[45, 33]"
@@ -826,7 +826,7 @@ Japhug-286_sick-2,,Japhug,286_sick,ngo,ngo,n g o,,Jacques2015b,,,,,[1620]
 Japhug-289_stoneoffruit-1,,Japhug,289_stoneoffruit,rdɤstaʁ,rdɤstaʁ,r d ɤ s t a ʁ,,Jacques2015b,,,,,[1759]
 Japhug-295_theashes-2,,Japhug,295_theashes,smɯʁrɤt,smɯʁrɤt,s m ɯ ʁ r ɤ t,,Jacques2015b,,,,,[1909]
 Japhug-298_thebark-2,,Japhug,298_thebark,ɲchɣaʁ,ɲchɣaʁ,ɲ cʰ ɣ a ʁ,,Jacques2015b,,,,,[1958]
-Japhug-305_thedayopposedtonight-1,,Japhug,305_thedayopposedtonight,sŋi,sŋi,s ŋ i,,Jacques2015b,,,,,[8563]
+Japhug-305_thedayopposedtonight-1,,Japhug,305_thedayopposedtonight,sŋi,sŋi,s ŋ i,,Jacques2015b,,,,,[7256]
 Japhug-320_thegirl-2,,Japhug,320_thegirl,tɕheme,tɕheme,tɕʰ e + m e,,Jacques2015b,,,,,"[8246, 2814]"
 Japhug-17_thebodyhairhairorfur-3,,Japhug,17_thebodyhairhairorfur,tɤ-rme,tɤ-rme,t ɤ + r m e,,Jacques2015b,,,,,"[2911, 2910]"
 Japhug-129_morning-2,,Japhug,129_morning,sos,sos,s o s,,Jacques2015b,,,,,[8547]
@@ -1966,7 +1966,7 @@ MaerkangrGyalrong-234_where-1,17992,MaerkangrGyalrong,234_where,kə təi,kə tə
 MaerkangrGyalrong-235_white-1,22460,MaerkangrGyalrong,235_white,kə prɑm,kə prɑm,k ə + p r ɑ m,,Huang1992,,,,,"[7470, 7471]"
 MaerkangrGyalrong-236_who-1,17990,MaerkangrGyalrong,236_who,sə,sə,s ə,,Huang1992,,,,,[7495]
 MaerkangrGyalrong-246_yellow-1,18024,MaerkangrGyalrong,246_yellow,khsər po,khsər po,kʰ s ə r p o,,Huang1992,,,,,[7538]
-MaerkangrGyalrong-247_yesterday-1,17868,MaerkangrGyalrong,247_yesterday,mə ʃᴇr sni,mə ʃᴇr sni,m ə + ʃ ɛ r + s n i,,Huang1992,,,,,"[7614, 7575, 7579]"
+MaerkangrGyalrong-247_yesterday-1,17868,MaerkangrGyalrong,247_yesterday,mə ʃᴇr sni,mə ʃᴇr sni,m ə + ʃ ɛ r + s n i,,Huang1992,,,,,"[7614, 7575, 7256]"
 MaerkangrGyalrong-249_young-1,18055,MaerkangrGyalrong,249_young,tɑ bli kə tsi,tɑ bli kə tsi,t ɑ + b l i + k ə + ts i,,Huang1992,,,,,"[7595, 7596, 7597, 7598]"
 MuyaKangding-443_ifirstpersonsingular-1,22957,MuyaKangding,443_ifirstpersonsingular,ŋə⁵³,ŋə⁵³,ŋ ⁵³/ə,,Huang1992,,,,,[2]
 MuyaKangding-1_above-1,22825,MuyaKangding,1_above,jɐ̃³³tɕhø⁵³,jɐ̃³³tɕhø⁵³,j ³³/ɐ̃ + tɕʰ ⁵³/ø,,Huang1992,,,,,"[38, 30]"
@@ -2224,7 +2224,7 @@ MuyaKangding-234_where-1,22979,MuyaKangding,234_where,ɐ³³ xɐ⁵³ tɕhɐ³³
 MuyaKangding-235_white-1,23023,MuyaKangding,235_white,tʂhø⁵³tʂhø³³,tʂhø⁵³tʂhø³³,ʈʂʰ ⁵³/ø ʈʂʰ ³³/ø,,Huang1992,,,,,[7471]
 MuyaKangding-236_who-1,22977,MuyaKangding,236_who,ɦæ²⁴ nə³³,ɦæ²⁴ nə³³,ɦ ²⁴/æ n ³³/ə,,Huang1992,,,,,[7496]
 MuyaKangding-246_yellow-1,23025,MuyaKangding,246_yellow,nə⁵⁵nə³³,nə⁵⁵nə³³,n ⁵⁵/ə n ³³/ə,,Huang1992,,,,,[7540]
-MuyaKangding-247_yesterday-1,22830,MuyaKangding,247_yesterday,ji³³sə⁵³,ji³³sə⁵³,j ³³/i + s ⁵³/ə,,Huang1992,,,,,"[7566, 7615]"
+MuyaKangding-247_yesterday-1,22830,MuyaKangding,247_yesterday,ji³³sə⁵³,ji³³sə⁵³,j ³³/i + s ⁵³/ə,,Huang1992,,,,,"[7566, 7261]"
 MenyaGao-7_thebarleytibetanorhighland-1,,MenyaGao,7_thebarleytibetanorhighland,1ɕa,1ɕa,ɕ ¹/a,,Gao2016,,,,,[1976]
 MenyaGao-185_theskin-1,,MenyaGao,185_theskin,1ɕɛtsɛ,1ɕɛtsɛ,ɕ ɛ ts ¹/ɛ,,Gao2016,,,,,[4352]
 MenyaGao-72_thefruit-1,,MenyaGao,72_thefruit,1ɕindɔ,1ɕindɔ,ɕ i n + d ¹/ɔ,,Gao2016,,,,,"[7823, 8207]"
@@ -2255,7 +2255,7 @@ MenyaGao-236_who-1,,MenyaGao,236_who,1ɦɛnə,1ɦɛnə,ɦ ɛ n ¹/ə,,Gao2016,,,
 MenyaGao-27_tocome-1,,MenyaGao,27_tocome,1ɦɛthi,1ɦɛthi,ɦ ɛ + tʰ ¹/i,,Gao2016,,,,,"[7675, 5497]"
 MenyaGao-165_therope-1,,MenyaGao,165_therope,1ɦʌ,1ɦʌ,ɦ ¹/ʌ,,Gao2016,,,,,[4118]
 MenyaGao-209_there-1,,MenyaGao,209_there,1ɦʌkhʌ,1ɦʌkhʌ,ɦ ʌ kʰ ¹/ʌ,,Gao2016,,,,,[5118]
-MenyaGao-247_yesterday-1,,MenyaGao,247_yesterday,1isə,1isə,i + s ¹/ə,,Gao2016,,,,,"[7566, 7615]"
+MenyaGao-247_yesterday-1,,MenyaGao,247_yesterday,1isə,1isə,i + s ¹/ə,,Gao2016,,,,,"[7566, 7261]"
 MenyaGao-19_thebranch-1,,MenyaGao,19_thebranch,1jɛɡɛ,1jɛɡɛ,j ɛ g ¹/ɛ,,Gao2016,,,,,[2131]
 MenyaGao-5_bad-1,,MenyaGao,5_bad,1kætɕhæ,1kætɕhæ,k æ̙/æ tɕʰ ¹/æ,,Gao2016,,,,,[117]
 MenyaGao-124_many-1,,MenyaGao,124_many,1kɛɦi,1kɛɦi,k ɛ ɦ ¹/i,,Gao2016,,,,,[1043]
@@ -3912,7 +3912,7 @@ BragbarSitu-235_white-1,,BragbarSitu,235_white,kə-prə̂m,kə-prə̂m,k ə + p 
 BragbarSitu-236_who-1,,BragbarSitu,236_who,sə̂,sə̂,s ə̂/ə,,ZhangForthcoming,,,,,[7495]
 BragbarSitu-430_wide-1,,BragbarSitu,430_wide,jâm,jâm,j â/a m,,ZhangForthcoming,,,,,[7518]
 BragbarSitu-246_yellow-1,,BragbarSitu,246_yellow,sɐrpɐ-mdɐ̄k,sɐrpɐ-mdɐ̄k,s ɐ r p ɐ + m d ɐ̄/ɐ k,,ZhangForthcoming,,,,,"[7538, 7539]"
-BragbarSitu-247_yesterday-1,,BragbarSitu,247_yesterday,pɕɐr-ɕni,pɕɐr-ɕni,p + ɕ ɐ r + ɕ n ī/i,,ZhangForthcoming,,,,,"[7570, 7575, 7579]"
+BragbarSitu-247_yesterday-1,,BragbarSitu,247_yesterday,pɕɐr-ɕni,pɕɐr-ɕni,p + ɕ ɐ r + ɕ n ī/i,,ZhangForthcoming,,,,,"[7570, 7575, 7256]"
 BragbarSitu-249_young-1,,BragbarSitu,249_young,ta-vli kə-tsâj,ta-vli kə-tsâj,t a + v l ī/i + k ə + ts â/a j,,ZhangForthcoming,,,,,"[7595, 7596, 7597, 7598]"
 Geshiza-170_thesand-1,,Geshiza,170_thesand,a̯bu,a̯bu,a̯ + b u,,Honkasalo2019,,,,,"[4166, 4172]"
 Geshiza-2_all-1,,Geshiza,2_all,æqɛ,æqɛ,æ q ɛ,,Honkasalo2019,,,,,[70]
@@ -4301,7 +4301,7 @@ GuanyinqiaoKhroskyabs-19_thebranch-1,,GuanyinqiaoKhroskyabs,19_thebranch,jal³³
 GuanyinqiaoKhroskyabs-20_thebreastfemale-1,,GuanyinqiaoKhroskyabs,20_thebreastfemale,na³³no⁵⁵,na³³no⁵⁵,n ³³/a n ⁵⁵/o,,Huang2007,,,,,[2158]
 GuanyinqiaoKhroskyabs-303_thechild-1,,GuanyinqiaoKhroskyabs,303_thechild,ɲɑ³³də⁵⁵,ɲɑ³³də⁵⁵,ɲ ³³/ɑ + d ⁵⁵/ə,,Huang2007,,,,,"[8350, 2185]"
 GuanyinqiaoKhroskyabs-25_thecloud-1,,GuanyinqiaoKhroskyabs,25_thecloud,zdə̂m,zdə̂m,z d ə̂/ə m,,Huang2007,,,,,[2207]
-GuanyinqiaoKhroskyabs-305_thedayopposedtonight-1,,GuanyinqiaoKhroskyabs,305_thedayopposedtonight,snə⁵⁵go³³,snə⁵⁵go³³,s n ⁵⁵/ə + g ³³/o,,Huang2007,,,,,"[2231, 8105]"
+GuanyinqiaoKhroskyabs-305_thedayopposedtonight-1,,GuanyinqiaoKhroskyabs,305_thedayopposedtonight,snə⁵⁵go³³,snə⁵⁵go³³,s n ⁵⁵/ə + g ³³/o,,Huang2007,,,,,"[7256, 8105]"
 GuanyinqiaoKhroskyabs-33_thedew-1,,GuanyinqiaoKhroskyabs,33_thedew,vər⁵³,vər⁵³,v ə ⁵³/r,,Huang2007,,,,,[2248]
 GuanyinqiaoKhroskyabs-37_thedog-1,,GuanyinqiaoKhroskyabs,37_thedog,kə⁵⁵tɑ⁵⁵,kə⁵⁵tɑ⁵⁵,k ⁵⁵/ə + t ⁵⁵/ɑ,,Huang2007,,,,,"[8425, 2269]"
 GuanyinqiaoKhroskyabs-38_thedream-1,,GuanyinqiaoKhroskyabs,38_thedream,rmo⁵³,rmo⁵³,r m ⁵³/o,,Huang2007,,,,,[2299]
@@ -4536,7 +4536,7 @@ GuanyinqiaoKhroskyabs-236_who-1,,GuanyinqiaoKhroskyabs,236_who,sə⁵³,sə⁵³
 GuanyinqiaoKhroskyabs-430_wide-1,,GuanyinqiaoKhroskyabs,430_wide,ləm⁵⁵,ləm⁵⁵,l ⁵⁵/ə m,,Huang2007,,,,,[7518]
 GuanyinqiaoKhroskyabs-430_wide-2,,GuanyinqiaoKhroskyabs,430_wide,ʁrjəm⁵⁵,ʁrjəm⁵⁵,ʁ r j ⁵⁵/ə m,,Huang2007,,,,,[7520]
 GuanyinqiaoKhroskyabs-246_yellow-1,,GuanyinqiaoKhroskyabs,246_yellow,sɛr⁵⁵pu³³,sɛr⁵⁵pu³³,s ⁵⁵/ɛ r p ³³/u,,Huang2007,,,,,[7538]
-GuanyinqiaoKhroskyabs-247_yesterday-1,,GuanyinqiaoKhroskyabs,247_yesterday,xsnəl⁵⁵,xsnəl⁵⁵,x + s n ⁵⁵/ə + l,,Huang2007,,,,,"[7567, 7579, 8342]"
+GuanyinqiaoKhroskyabs-247_yesterday-1,,GuanyinqiaoKhroskyabs,247_yesterday,xsnəl⁵⁵,xsnəl⁵⁵,x + s n ⁵⁵/ə + l,,Huang2007,,,,,"[7567, 7256, 8342]"
 GuanyinqiaoKhroskyabs-249_young-1,,GuanyinqiaoKhroskyabs,249_young,ɕɣi⁵³zi³³,ɕɣi⁵³zi³³,ɕ ɣ ⁵³/i + z ³³/i,,Huang2007,,,,,"[7602, 7598]"
 NjorogsKhroskyabs-208_that-1,,NjorogsKhroskyabs,208_that,ai⁵⁵ti³³,ai⁵⁵ti³³,a ⁵⁵/i + t ³³/i,,Yin2007,,,,,"[8138, 1833]"
 NjorogsKhroskyabs-209_there-1,,NjorogsKhroskyabs,209_there,ai⁵⁵to³³,ai⁵⁵to³³,a ⁵⁵/i t ³³/o,,Yin2007,,,,,[7751]
@@ -6059,7 +6059,7 @@ MazurStau-20_thebreastfemale-1,,MazurStau,20_thebreastfemale,nene,nene,n e n e,,
 MazurStau-303_thechild-1,,MazurStau,303_thechild,kedi,kedi,k e + d i,,GatesForthcoming,,,,,"[7992, 2185]"
 MazurStau-25_thecloud-1,,MazurStau,25_thecloud,zdo,zdo,z d o,,GatesForthcoming,,,,,[2207]
 MazurStau-438_thedaughter-1,,MazurStau,438_thedaughter,smi,smi,s m i,,GatesForthcoming,,,,,[0]
-MazurStau-305_thedayopposedtonight-1,,MazurStau,305_thedayopposedtonight,sɲele,sɲele,s ɲ e + l e,,GatesForthcoming,,,,,"[2231, 8106]"
+MazurStau-305_thedayopposedtonight-1,,MazurStau,305_thedayopposedtonight,sɲele,sɲele,s ɲ e + l e,,GatesForthcoming,,,,,"[7256, 8106]"
 MazurStau-33_thedew-1,,MazurStau,33_thedew,rze,rze,r z e,,GatesForthcoming,,,,,[2246]
 MazurStau-37_thedog-1,,MazurStau,37_thedog,kʰətæ,kʰətæ,kʰ ə + t æ,,GatesForthcoming,,,,,"[2268, 2269]"
 MazurStau-38_thedream-1,,MazurStau,38_thedream,rɲi,rɲi,r ɲ i,,GatesForthcoming,,,,,[2294]
@@ -6296,7 +6296,7 @@ MazurStau-235_white-1,,MazurStau,235_white,pʰru,pʰru,pʰ r u,,GatesForthcoming
 MazurStau-236_who-1,,MazurStau,236_who,sə,sə,s ə,,GatesForthcoming,,,,,[7495]
 MazurStau-430_wide-1,,MazurStau,430_wide,lo,lo,l o,,GatesForthcoming,,,,,[7518]
 MazurStau-246_yellow-1,,MazurStau,246_yellow,rɲərɲə,rɲərɲə,r ɲ ə r ɲ ə,,GatesForthcoming,,,,,[7540]
-MazurStau-247_yesterday-1,,MazurStau,247_yesterday,ævəsɲi,ævəsɲi,æ + v ə + s ɲ i,,GatesForthcoming,,,,,"[7673, 7567, 7579]"
+MazurStau-247_yesterday-1,,MazurStau,247_yesterday,ævəsɲi,ævəsɲi,æ + v ə + s ɲ i,,GatesForthcoming,,,,,"[7673, 7567, 7256]"
 MazurStau-248_yousecondpersonplural-1,,MazurStau,248_yousecondpersonplural,ɲi,ɲi,ɲ i,,GatesForthcoming,,,,,[0]
 MazurStau-249_young-1,,MazurStau,249_young,lutɕʰõ,lutɕʰõ,l u tɕʰ õ,,GatesForthcoming,,,,,[7599]
 WobziKhroskyabs-41_thedust-2,,WobziKhroskyabs,41_thedust,pʰæslə́,pʰæslə́,pʰ æ s l ə́/ə,,Lai2017,,,,,[2321]

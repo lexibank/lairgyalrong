@@ -1,23 +1,23 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Coverage,Sources
-Bantawa,Kiranti_Bantawa,bant1281,Bantawa,bap,Eurasia,27.117894,87.049995,Sino-Tibetan,Kiranti,195,Jongens2009
-Daofu,rGyalrong_Daofu,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,rGyalrongic,223,Huang1992
-Japhug,rGyalrong_Japhug,japh1234,Japhug,,Eurasia,32.207076,101.957636,Sino-Tibetan,rGyalrongic,225,Jacques2015b
+Bantawa,Bantawa,bant1281,Bantawa,bap,Eurasia,27.117894,87.049995,Sino-Tibetan,Kiranti,195,Jongens2009
+Daofu,Daofu,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,rGyalrongic,223,Huang1992
+Japhug,Japhug,japh1234,Japhug,,Eurasia,32.207076,101.957636,Sino-Tibetan,rGyalrongic,225,Jacques2015b
 Tangut,Tangut,tang1334,Tangut,txg,Eurasia,38.477453,106.285383,Sino-Tibetan,Tangut,236,Li1997
-WobziKhroskyabs,Khroskyabs_Wobzi,eree1240,Ere (China),,Eurasia,31.62758,101.427999,Sino-Tibetan,rGyalrongic,224,Lai2017
-Zhaba,Qiangic_Zhaba,zhab1238,Zhaba,zhb,Eurasia,30.538892,101.058397,Sino-Tibetan,Qiangic,224,Huang1992
-MaerkangrGyalrong,rGyalrong_Maerkang,situ1238,Situ,,Eurasia,31.868614,102.295293,Sino-Tibetan,rGyalrongic,225,Huang1992
-MuyaKangding,Muya-kangding,west2417,Western Muya,wmg,Eurasia,30.055673,101.962819,Sino-Tibetan,Qiangic,273,Huang1992
-MenyaGao,Menya-Gao,west2417,Western Muya,wmg,Eurasia,29.762152,101.53514,Sino-Tibetan,Qiangic,,Gao2016
-OldBurmese,OldBurmese,oldb1235,Old Burmese,obr,Eurasia,21.461103,96.595184,Sino-Tibetan,Burmish,259,
-QueyuXinlong,Queyu_Xinlong,quey1238,Queyu,qvy,Eurasia,30.978459,100.260535,Sino-Tibetan,Qiangic,254,Huang1992
-QueyuPubarong,Queyu_pubarong,quey1239,,,,30.222522,100.778441,,Qiangic,,GuanForthcoming
+WobziKhroskyabs,Wobzi_Khroskyabs,eree1240,Ere (China),,Eurasia,31.62758,101.427999,Sino-Tibetan,rGyalrongic,224,Lai2017
+Zhaba,Zhaba,zhab1238,Zhaba,zhb,Eurasia,30.538892,101.058397,Sino-Tibetan,Qiangic,224,Huang1992
+MaerkangrGyalrong,Mbarkhams_Situ,situ1238,Situ,,Eurasia,31.868614,102.295293,Sino-Tibetan,rGyalrongic,225,Huang1992
+MuyaKangding,Kangding_Minyag,west2417,Western Muya,wmg,Eurasia,30.055673,101.962819,Sino-Tibetan,Qiangic,273,Huang1992
+MenyaGao,Pengbuxi_Minyag,west2417,Western Muya,wmg,Eurasia,29.762152,101.53514,Sino-Tibetan,Qiangic,,Gao2016
+OldBurmese,Old_Burmese,oldb1235,Old Burmese,obr,Eurasia,21.461103,96.595184,Sino-Tibetan,Burmish,259,
+QueyuXinlong,Xinlong_Queyu,quey1238,Queyu,qvy,Eurasia,30.978459,100.260535,Sino-Tibetan,Qiangic,254,Huang1992
+QueyuPubarong,Pubarong_Queyu,quey1239,,,,30.222522,100.778441,,Qiangic,,GuanForthcoming
 SiyuewuKhroskyabs,Siyuewu_Khroskyabs,siya1242,Siyaowu,,Eurasia,31.752277,101.423119,Sino-Tibetan,Rgyalrongic,,
-BragbarSitu,Bragbar Situ,situ1238,Situ,,Eurasia,31.815434,101.909098,Sino-Tibetan,Rgyalrongic,,ZhangForthcoming
+BragbarSitu,Bragbar_Situ,situ1238,Situ,,Eurasia,31.815434,101.909098,Sino-Tibetan,Rgyalrongic,,ZhangForthcoming
 Geshiza,Geshiza,horp1240,Horpa,,,31.028655,101.648464,Sino-Tibetan,Rgyalrongic,,Honkasalo2019
 GuanyinqiaoKhroskyabs,Guanyinqiao_Khroskyabs,guan1252,Guanyingqiao,,Eurasia,31.79783,101.655159,Sino-Tibetan,Rgyalrongic,,Huang2007
 NjorogsKhroskyabs,Njorogs_Khroskyabs,yelo1242,Yelong,,Eurasia,31.816015,101.861052,Sino-Tibetan,Rgyalrongic,,Yin2007
 Tshobdun,Tshobdun,tsho1240,Tshobdun,,Eurasia,32.208994,101.832761,Sino-Tibetan,Rgyalrongic,,Sun2019
-NgyaltsuZbu,Ngyaltsu Zbu,zbua1234,Zbu,,Eurasia,32.146564,101.735946,Sino-Tibetan,Rgyalrongic,,Gong2018
+NgyaltsuZbu,Ngyaltsu_Zbu,zbua1234,Zbu,,Eurasia,32.146564,101.735946,Sino-Tibetan,Rgyalrongic,,Gong2018
 Zlarong,Zlarong,zlar1234,Zlarong,,Eurasia,29.933395,98.085308,Sino-Tibetan,Chamdoic,,Zhao2019
 KyomkyoSitu,Kyomkyo_Situ,situ1238,Situ,,Eurasia,31.986879,102.036889,Sino-Tibetan,Rgyalrongic,,Prins2016
-MazurStau,MazurStau,daof1238,Rtau,,Eurasia,31.04136,101.05192,Sino-Tibetan,Rgyalrongic,,GatesForthcoming
+MazurStau,Mazur_Stau,daof1238,Rtau,,Eurasia,31.04136,101.05192,Sino-Tibetan,Rgyalrongic,,GatesForthcoming
