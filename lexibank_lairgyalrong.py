@@ -20,6 +20,7 @@ class CustomConcept(Concept):
 
 @attr.s
 class CustomLanguage(Language):
+    LookupName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Coverage = attr.ib(default=None)
     Sources = attr.ib(default=None)
