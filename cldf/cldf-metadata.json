@@ -1,23 +1,23 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.1]. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Lai, Yunfan and List, Johann-Mattis (2023): Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 1.0]. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Sagart-2019-250"
+        "http://concepticon.clld.org/contributions/Lai-2023-291"
     ],
     "dc:identifier": "http://github.com/lexibank/lairgyalrong",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Collection of Wordlists in Rgyalrongic Languages",
+    "dc:title": "CLDF dataset derived from Lai and List's \"Comparison of Rgyalrongic Languages\" from 2023",
     "dcat:accessURL": "https://github.com/lingpy/rgyalrong-analysis",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
             "rdf:type": "prov:Entity",
-            "dc:created": "6b835b4",
+            "dc:created": "d13505a",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.1.0-50-g98478eab",
             "dc:title": "Concepticon"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 6335,
+            "dc:extent": 6321,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +247,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 305,
+            "dc:extent": 291,
             "tableSchema": {
                 "columns": [
                     {
@@ -272,7 +272,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Chinese_Gloss"
+                        "name": "Huang_1992_1820_ID"
                     },
                     {
                         "datatype": "string",
@@ -280,7 +280,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Coverage"
+                        "name": "Lexibank_Gloss"
                     }
                 ],
                 "primaryKey": [

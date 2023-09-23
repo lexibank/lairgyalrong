@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Collection of Wordlists in Rgyalrongic Languages
+# Wordlist CLDF dataset derived from Lai and List's "Comparison of Rgyalrongic Languages" from 2023
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -8,13 +8,13 @@
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.1]. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Lai, Yunfan and List, Johann-Mattis (2023): Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 1.0]. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Sagart-2019-250</li></ol>
+[dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Lai-2023-291</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://github.com/lexibank/lairgyalrong
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lingpy/rgyalrong-analysis
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lingpy/rgyalrong-analysis/tree/6b835b4">lingpy/rgyalrong-analysis 6b835b4</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lingpy/rgyalrong-analysis/tree/d13505a">lingpy/rgyalrong-analysis d13505a</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/98478eab">Concepticon v3.1.0-50-g98478eab</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.16</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | lairgyalrong
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -25,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 6335
+[dc:extent](http://purl.org/dc/terms/extent) | 6321
 
 
 ### Columns
@@ -78,7 +78,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 305
+[dc:extent](http://purl.org/dc/terms/extent) | 291
 
 
 ### Columns
@@ -89,7 +89,7 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
-`Chinese_Gloss` | `string` | 
+`Huang_1992_1820_ID` | `string` | 
 `Number` | `string` | 
-`Coverage` | `string` | 
+`Lexibank_Gloss` | `string` | 
 

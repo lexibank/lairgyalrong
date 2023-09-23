@@ -1,5 +1,5 @@
 {
-    "title": "Collection of Wordlists in Rgyalrongic Languages",
+    "title": "CLDF dataset derived from Lai and List's \"Comparison of Rgyalrongic Languages\" from 2023",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -13,7 +13,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.1]. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lai, Yunfan and List, Johann-Mattis (2023): Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 1.0]. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

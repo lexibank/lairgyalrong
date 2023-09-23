@@ -10,13 +10,14 @@ from clldutils.misc import slug
 import lingpy
 from lingpy.sequence.sound_classes import syllabify
 from pyedictor import fetch
-from lingpy import Wordlist
+from lingpy import Wordlist, basictypes
 
 @attr.s
 class CustomConcept(Concept):
-    Chinese_Gloss = attr.ib(default=None)
+    Huang_1992_1820_ID = attr.ib(default=None)
     Number = attr.ib(default=None)
-    Coverage = attr.ib(default=None)
+    Lexibank_Gloss = attr.ib(default=None)
+    
 
 @attr.s
 class CustomLanguage(Language):
@@ -49,24 +50,19 @@ class Dataset(BaseDataset):
         wl = Wordlist(str(self.raw_dir / "wordlist.tsv"))
         # later add concept list here
         concepts = {}
-        for concept in self.concepts:
-            for gloss in concept["LEXIBANK_GLOSS"].split(" // "):
-                if gloss in wl.rows:
-                    idx = concept["NUMBER"]+"_"+slug(concept["ENGLISH"])
-                    args.writer.add_concept(
-                            ID=idx,
-                            Name=concept["ENGLISH"],
-                            Concepticon_ID=concept["CONCEPTICON_ID"],
-                            Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                            )
-                    concepts[gloss] = idx
-        # check if all concepts are covered
-        rest = [c for c in wl.rows if c not in concepts]
-        if rest:
-            for c in rest:
-                args.log.info("missing concept {0}".format(c))
-        else:
-            args.log.info("all concepts were added")
+        for concept in self.conceptlists[0].concepts.values():
+            for gloss in concept.attributes["lexibank_gloss"]:
+                idx = concept.number+"_"+slug(concept.english)
+                args.writer.add_concept(
+                        ID=idx,
+                        Name=concept.english,
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss,
+                        Number=concept.number,
+                        Lexibank_Gloss=concept.attributes["lexibank_gloss"],
+                        Huang_1992_1820_ID=concept.attributes["huang_1992_1820"]
+                        )
+                concepts[gloss] = idx
 
         # add languages
         languages = args.writer.add_languages(lookup_factory="LookupName")
@@ -76,24 +72,24 @@ class Dataset(BaseDataset):
         for idx in progressbar(wl, desc="cldfify"):
             if wl[idx, "tokens"]:
                 # compare data
-                if len("".join(wl[idx, "tokens"]).split("+")) != len(wl[idx,
-                                                                        "cogids"]):
-                    args.log.info("error in word form {0} / {1} / {2}".format(
-                        idx,
-                        wl[idx, "concept"],
-                        wl[idx, "doculect"]))
-                args.writer.add_form_with_segments(
-                        Local_ID=wl[idx, "id_in_source"],
-                        Language_ID=languages[wl[idx, "doculect"]],
-                        Parameter_ID=concepts[wl[idx, "concept"]],
-                        Value=wl[idx, "value"].strip() or wl[idx,
-                            "form"].strip() or "?",
-                        Form=wl[idx, "form"].strip() or wl[idx,
-                            "value"].strip() or "?",
-                        Segments=wl[idx, "tokens"],
-                        Partial_Cognacy=str(wl[idx, "cogids"]),
-                        Source=sources[wl[idx, "doculect"]]
-                        )
+                #if len("".join(wl[idx, "tokens"]).split("+")) != len(wl[idx, "cogids"]):
+                #    args.log.info("error in word form {0} / {1} / {2}".format(
+                #        idx,
+                #        wl[idx, "concept"],
+                #        wl[idx, "doculect"]))
+                if wl[idx, "concept"] in concepts:
+                    args.writer.add_form_with_segments(
+                            Local_ID=wl[idx, "id_in_source"],
+                            Language_ID=languages[wl[idx, "doculect"]],
+                            Parameter_ID=concepts[wl[idx, "concept"]],
+                            Value=wl[idx, "value"].strip() or wl[idx, "form"].strip() or "?",
+                            Form=wl[idx, "form"].strip() or wl[idx, "value"].strip() or "?",
+                            Segments=wl[idx, "tokens"],
+                            Partial_Cognacy=str(basictypes.ints(wl[idx, "cogids"])),
+                            Source=sources[wl[idx, "doculect"]]
+                            )
+                #else:
+                #    args.log.info("ignoring concept {0}".format(wl[idx, "concept"]))
 
 
                 

@@ -1,7 +1,7 @@
 {
     "url": "http://github.com/lexibank/lairgyalrong",
-    "citation": "Lai, Yunfan and List, Johann-Mattis (2023):Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 0.1]. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "citation": "Lai, Yunfan and List, Johann-Mattis (2023): Lexical Data for the Historical Comparison of Rgyalrongic Languages [Dataset, Version 1.0]. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "license": "CC-BY-4.0",
-    "conceptlist": "Sagart-2019-250",
-    "title": "Collection of Wordlists in Rgyalrongic Languages"
+    "conceptlist": "Lai-2023-291",
+    "title": "CLDF dataset derived from Lai and List's \"Comparison of Rgyalrongic Languages\" from 2023"
 }

@@ -71,7 +71,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 190	the smoke	the smoke	19	778	SMOKE (EXHAUST)	
 193	the snow	the snow	12	784	SNOW	
 211	the thigh	the thigh	100	800	THIGH	
-441	they [third person plural]	they [third person plural]		817	THEY	1
 197	the spider	the spider	361	843	SPIDER	
 219	the tiger	the tiger	304	846	TIGER	
 203	the stone (a piece of)	the stone (a piece of)	43	857	STONE	
@@ -110,12 +109,7 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 249	young	young	1059	1207	YOUNG	
 443	I [first person singular]	I [first person singular]		1209	I	
 87	heavy	heavy	1014	1210	HEAVY	
-434	we [first person plural inclusive]	we [first person plural inclusive]		1212	WE	1
-248	you [second person plural]	you [second person plural]	933	1213	YOU	1
-214	this	this	942	1214	THIS	1
 446	thou [second person singular]	thou [second person singular]		1215	THOU	
-442	the mother	the mother		1216	MOTHER	1
-455	the father	the father		1217	FATHER	1
 165	the rope	the rope	619	1218	ROPE	
 360	the worm	the worm		1219	WORM	
 206	the tail	the tail	267	1220	TAIL	
@@ -133,10 +127,7 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 236	who	who	953	1235	WHO	
 232	what	what	954	1236	WHAT	
 234	where	where	955	1237	WHERE	
-428	when	when		1238	WHEN	1
 267	how	how		1239	HOW	
-445	not	not		1240	NOT	1
-288	some	some		1241	SOME	1
 259	few	few		1242	FEW	
 210	thick	thick	980	1244	THICK	
 188	small	small	965	1246	SMALL	
@@ -160,9 +151,7 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 296	the back	the back		1291	BACK	
 5	bad	bad	1053	1292	BAD	
 202	the stick	the stick	586	1295	STICK	
-450	the leg	the leg		1297	LEG	1
 64	the foot	the foot	103	1301	FOOT	
-435	the child (young human)	the child (young human)		1304	CHILD (YOUNG HUMAN)	1
 68	the fox	the fox	325	1312	FOX	
 128	the moon	the moon	4	1313	MOON	
 221	tomorrow	tomorrow	742	1329	TOMORROW	
@@ -175,7 +164,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 205	the sun	the sun	2	1343	SUN	
 328	the knife	the knife // knife		1352	KNIFE	
 111	to laugh	to laugh	1735	1355	LAUGH	
-438	the daughter	the daughter		1357	DAUGHTER	1
 106	the knee	the knee	101	1371	KNEE	
 223	the tooth (front)	the tooth (front)	137	1380	TOOTH	
 141	the needle (for sewing)	the needle (for sewing)	578	1382	NEEDLE (FOR SEWING)	
@@ -185,7 +173,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 166	round	round	990	1395	ROUND	
 176	sharp	sharp	1020	1396	SHARP	
 40	dry	dry	1028	1398	DRY	
-448	thin (slim)	thin (slim)		1400	THIN (SLIM)	1
 39	to drink	to drink	1370	1401	DRINK	
 20	the breast (female)	the breast (female)	94	1402	BREAST	
 13	to bite	to bite	1753	1403	BITE	
@@ -195,8 +182,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 370	to breathe	to breathe		1407	BREATHE	
 85	to hear	to hear	1682	1408	HEAR	
 173	to see	to see	1471	1409	SEE	
-452	to know (something)	to know (something)		1410	KNOW (SOMETHING)	1
-439	to lie, rest	to lie, rest		1411	LIE (REST)	1
 153	to play	to play	1703	1413	PLAY	
 414	to squeeze	to squeeze		1414	SQUEEZE	
 213	to think (reflect)	to think (reflect)	1726	1415	THINK (REFLECT)	
@@ -255,7 +240,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 19	the branch	the branch	374	1531	BRANCH	
 418	to swell	to swell		1573	SWELL	
 59	to float	to float	1553	1574	FLOAT	
-251	and	and		1577	AND	1
 187	to sleep	to sleep	1646	1585	SLEEP	
 189	to smell (perceive odor) [transitive]	to smell (perceive odor) [transitive]	1707	1586	SMELL (PERCEIVE)	
 103	inside	inside	715	1606	INSIDE	
@@ -276,7 +260,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 1	above	above	731	1741	ABOVE	
 374	to choose	to choose		1750	CHOOSE	
 289	stone (of fruit)	stone (of fruit)		1762	STONE (OF FRUIT)	
-447	the child (descendant)	the child (descendant)		1801	CHILD (DESCENDANT)	1
 243	the wood (material)	the wood (material)	511	1803	WOOD	
 30	to cry (weep)	to cry (weep)	1485	1839	CRY	
 286	sick	sick		1847	SICK	
@@ -297,7 +280,6 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 160	the rice plant	the rice plant	439	2026	RICE PLANT	
 71	the frost	the frost	14	2034	FROST	
 303	the child	the child		2099	CHILD	
-440	female	female		2105	FEMALE PERSON	1
 123	the man (male human)	the man (male human) // male	173	2106	MALE PERSON	
 147	old (of person)	old (of person)	1058	2112	OLD (AGED)	
 136	the nail (fingernail or claw)	the nail (fingernail or claw)	113	2128	CLAW OR NAIL	
@@ -305,10 +287,8 @@ NUMBER	ENGLISH	LEXIBANK_GLOSS	HUANG_1992_1820	CONCEPTICON_ID	CONCEPTICON_GLOSS	R
 125	to marry (a man marries a woman)	to marry (a man marries a woman)	1578	2164	MARRY (AS MAN)	
 70	the front (front side)	the front (front side)	712	2194	FRONT (PART)	
 365	thin (object)	thin (object)		2249	THIN (OF SHAPE OF OBJECT)	
-453	thin	thin		2308	THIN	1
 45	the earthworm	the earthworm	363	2350	EARTHWORM	
 38	the dream	the dream	699	2374	DREAM	
 93	horizontal	horizontal	1001	2376	HORIZONTAL	
 430	wide	wide		2531	BROAD	
-451	he or she [third person singular]	he or she [third person singular]		2642	HE OR SHE	1
 391	to know	to know		3626	KNOW	
