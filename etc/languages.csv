@@ -1,6 +1,6 @@
 ID,LookupName,Name,SubGroup,Coverage,Glottocode,Longitude,Latitude,Sources
 Bantawa,Bantawa,Bantawa,Kiranti,195,bant1281,87.049995,27.117894,Jongens2009
-Daofu,Daofu,Daofu,rGyalrongic,223,horp1240,101.123742,30.975281,Huang1992
+Stau,Stau,Stau,rGyalrongic,223,horp1240,101.123742,30.975281,Huang1992
 Japhug,Japhug,Japhug,rGyalrongic,225,japh1234,101.957636,32.207076,Jacques2015b
 Tangut,Tangut,Tangut,Tangut,236,tang1334,106.285383,38.477453,Li1997
 WobziKhroskyabs,WobziKhroskyabs,Wobzi_Khroskyabs,rGyalrongic,224,eree1240,101.427999,31.62758,Lai2017
@@ -12,7 +12,7 @@ OldBurmese,OldBurmese,Old_Burmese,Burmish,259,oldb1235,96.595184,21.461103,
 XinlongQueyu,QueyuXinlong,Xinlong_Queyu,Qiangic,254,quey1238,100.260535,30.978459,Huang1992
 PubarongQueyu,QueyuPubarong,Pubarong_Queyu,Qiangic,,quey1239,100.778441,30.222522,GuanForthcoming
 SiyuewuKhroskyabs,SiyuewuKhroskyabs,Siyuewu_Khroskyabs,Rgyalrongic,,siya1242,101.423119,31.752277,
-BragbarSitu,BragbarSitu,Bragbar_Situ,Rgyalrongic,,situ1238,101.909098,31.815434,ZhangForthcoming
+BragbarSitu,BragbarSitu,Bragbar_Situ,Rgyalrongic,,situ1238,101.909098,31.815434,Zhang2020
 Geshiza,Geshiza,Geshiza,Rgyalrongic,,horp1240,101.648464,31.028655,Honkasalo2019
 GuanyinqiaoKhroskyabs,GuanyinqiaoKhroskyabs,Guanyinqiao_Khroskyabs,Rgyalrongic,,guan1252,101.655159,31.79783,Huang2007
 NjorogsKhroskyabs,NjorogsKhroskyabs,Njorogs_Khroskyabs,Rgyalrongic,,yelo1242,101.861052,31.816015,Yin2007
@@ -20,4 +20,4 @@ Tshobdun,Tshobdun,Tshobdun,Rgyalrongic,,tsho1240,101.832761,32.208994,Sun2019
 NgyaltsuZbu,NgyaltsuZbu,Ngyaltsu_Zbu,Rgyalrongic,,zbua1234,101.735946,32.146564,Gong2018
 Zlarong,Zlarong,Zlarong,Chamdoic,,zlar1234,98.085308,29.933395,Zhao2019
 KyomkyoSitu,KyomkyoSitu,Kyomkyo_Situ,Rgyalrongic,,situ1238,102.036889,31.986879,Prins2016
-MazurStau,MazurStau,Mazur_Stau,Rgyalrongic,,daof1238,101.05192,31.04136,GatesForthcoming
+MazurStau,MazurStau,Mazur_Stau,Rgyalrongic,,daof1238,101.05192,31.04136,Gates2020
