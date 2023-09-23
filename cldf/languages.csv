@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,LookupName,SubGroup,Coverage,Sources
 Bantawa,Bantawa,bant1281,Bantawa,bap,Eurasia,27.117894,87.049995,Sino-Tibetan,Bantawa,Kiranti,195,Jongens2009
-Daofu,Daofu,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,Daofu,rGyalrongic,223,Huang1992
+Stau,Stau,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,Daofu,rGyalrongic,223,Huang1992
 Japhug,Japhug,japh1234,Japhug,,Eurasia,32.207076,101.957636,Sino-Tibetan,Japhug,rGyalrongic,225,Jacques2015b
 Tangut,Tangut,tang1334,Tangut,txg,Eurasia,38.477453,106.285383,Sino-Tibetan,Tangut,Tangut,236,Li1997
 WobziKhroskyabs,Wobzi_Khroskyabs,eree1240,Ere (China),,Eurasia,31.62758,101.427999,Sino-Tibetan,WobziKhroskyabs,rGyalrongic,224,Lai2017
@@ -12,7 +12,7 @@ OldBurmese,Old_Burmese,oldb1235,Old Burmese,obr,Eurasia,21.461103,96.595184,Sino
 XinlongQueyu,Xinlong_Queyu,quey1238,Queyu,qvy,Eurasia,30.978459,100.260535,Sino-Tibetan,QueyuXinlong,Qiangic,254,Huang1992
 PubarongQueyu,Pubarong_Queyu,quey1239,,,,30.222522,100.778441,,QueyuPubarong,Qiangic,,GuanForthcoming
 SiyuewuKhroskyabs,Siyuewu_Khroskyabs,siya1242,Siyaowu,,Eurasia,31.752277,101.423119,Sino-Tibetan,SiyuewuKhroskyabs,Rgyalrongic,,
-BragbarSitu,Bragbar_Situ,situ1238,Situ,,Eurasia,31.815434,101.909098,Sino-Tibetan,BragbarSitu,Rgyalrongic,,ZhangForthcoming
+BragbarSitu,Bragbar_Situ,situ1238,Situ,,Eurasia,31.815434,101.909098,Sino-Tibetan,BragbarSitu,Rgyalrongic,,Zhang2020
 Geshiza,Geshiza,horp1240,Horpa,,,31.028655,101.648464,Sino-Tibetan,Geshiza,Rgyalrongic,,Honkasalo2019
 GuanyinqiaoKhroskyabs,Guanyinqiao_Khroskyabs,guan1252,Guanyingqiao,,Eurasia,31.79783,101.655159,Sino-Tibetan,GuanyinqiaoKhroskyabs,Rgyalrongic,,Huang2007
 NjorogsKhroskyabs,Njorogs_Khroskyabs,yelo1242,Yelong,,Eurasia,31.816015,101.861052,Sino-Tibetan,NjorogsKhroskyabs,Rgyalrongic,,Yin2007
@@ -20,4 +20,4 @@ Tshobdun,Tshobdun,tsho1240,Tshobdun,,Eurasia,32.208994,101.832761,Sino-Tibetan,T
 NgyaltsuZbu,Ngyaltsu_Zbu,zbua1234,Zbu,,Eurasia,32.146564,101.735946,Sino-Tibetan,NgyaltsuZbu,Rgyalrongic,,Gong2018
 Zlarong,Zlarong,zlar1234,Zlarong,,Eurasia,29.933395,98.085308,Sino-Tibetan,Zlarong,Chamdoic,,Zhao2019
 KyomkyoSitu,Kyomkyo_Situ,situ1238,Situ,,Eurasia,31.986879,102.036889,Sino-Tibetan,KyomkyoSitu,Rgyalrongic,,Prins2016
-MazurStau,Mazur_Stau,daof1238,Rtau,,Eurasia,31.04136,101.05192,Sino-Tibetan,MazurStau,Rgyalrongic,,GatesForthcoming
+MazurStau,Mazur_Stau,daof1238,Rtau,,Eurasia,31.04136,101.05192,Sino-Tibetan,MazurStau,Rgyalrongic,,Gates2020

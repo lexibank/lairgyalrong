@@ -72,11 +72,11 @@ class Dataset(BaseDataset):
         for idx in progressbar(wl, desc="cldfify"):
             if wl[idx, "tokens"]:
                 # compare data
-                #if len("".join(wl[idx, "tokens"]).split("+")) != len(wl[idx, "cogids"]):
-                #    args.log.info("error in word form {0} / {1} / {2}".format(
-                #        idx,
-                #        wl[idx, "concept"],
-                #        wl[idx, "doculect"]))
+                if len("".join(wl[idx, "tokens"]).split("+")) != len(wl[idx, "cogids"]):
+                    args.log.info("error in word form {0} / {1} / {2}".format(
+                        idx,
+                        wl[idx, "concept"],
+                        wl[idx, "doculect"]))
                 if wl[idx, "concept"] in concepts:
                     args.writer.add_form_with_segments(
                             Local_ID=wl[idx, "id_in_source"],
