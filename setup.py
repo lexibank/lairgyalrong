@@ -18,6 +18,6 @@ setup(
         "lexibank.dataset": ["lairgyalrong=lexibank_lairgyalrong:Dataset"],
         "cldfbench.commands": ["lairgyalrong=lairgyalrongcommands"],
         },
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=2.1", "pyedictor"],
     extras_require={"test": ["pytest-cldf"]},
 )
