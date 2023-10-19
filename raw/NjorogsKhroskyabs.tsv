@@ -1,368 +1,312 @@
-ID	CONCEPT	CHINESE	GLOSS_IN_SOURCE	VALUE	FORM	TOKENS	MORPHEME_STRUCTURE	BORROWING	SAGART_ID	NOTE	COGID
-	below, under		below (med. dist)	a³³jis⁵⁵							
-	he or she [third person singular]			ai⁵⁵ti³³							
-	that			ai⁵⁵ti³³							
-	they [third person plural]			ai⁵⁵ti⁵⁵ɟjo⁵⁵							
-	there			ai⁵⁵to³³							
-	there			ai⁵⁵tos³³							
-	knife			bər³³ze⁵⁵							
-	the knife			bər³³ze⁵⁵							
-	the snake			bi³³ri⁵⁵							
-	thin (object)			biʔ⁵⁵							
-	the feather			bja³³vər⁵⁵							
-	to split		（瓷器、瓜）裂开	bjak⁵⁵							
-	the wood (material)			bo⁵⁵li⁵⁵							
-	shy			bom⁵⁵							
-	all			boq⁵⁵							
-	thin			boʔt⁵⁵							
-	thin (slim)			boʔt⁵⁵							
-	the rope			bre⁵⁵							
-	high / tall			bro⁵⁵							
-	the horse			bro⁵⁵							
-	to swell			bup⁵⁵							
-	to dig			cçʰo⁵³							
-	to open			cçʰo⁵³							
-	to stab		捅	cçʰo⁵³							
-	this			cçi⁵⁵							
-	here			ci⁵⁵to⁵⁵							
-	here			ci⁵⁵tos⁵⁵							
-	the bone			ɕa³³ru⁵⁵							
-	above		above (dist)	ɕa³³rus⁵⁵							
-	below, under		below (dist)	ɕa⁵⁵jis³³							
-	the night		夜里	ɕɣar⁵⁵							
-	male			ɕɣe⁵⁵ze³³							
-	the husband			ɕɣe⁵⁵ze³³							
-	the man (male human)			ɕɣe⁵⁵ze³³							
-	young			ɕɣe⁵⁵ze⁵⁵							
-	the tooth (front)			ɕɣi³³wom⁵³							
-	the barley (tibetan or highland)			ɕi⁵⁵							
-	left			ɕki³³							
-	hot			ɕkiʔ⁵⁵							
-	the ashes		灰烬	ɕŋer⁵³							
-	to yawn			da³³χam⁵³							
-	the year			dɣuk⁵⁵							
-	the fat (grease)		肥膘	du³³ɣur³³							
-	the flea			dza³³ji⁵⁵							
-	to eat			dzəʔ⁵⁵							
-	to sing			dʐo³³wo⁵⁵vzo⁵³							
-	to hold			dʑe⁵⁵							
-	the skin			dʑi⁵⁵dʑa³³							
-	the nit			dʑu³³ru⁵⁵							
-	the root			e³³sram⁵⁵							
-	stone (of fruit)			e⁵⁵sne⁵⁵							
-	below, under		below (prox)	ə³³cçʰe⁵⁵							
-	the front (front side)			ə³³dʑi⁵⁵							
-	inside			ə³³gu⁵⁵							
-	outside			ə³³pʰji⁵⁵							
-	above		above (medium dist)	ə³³rus⁵⁵							
-	above		above (prox)	ə³³tʰa⁵³							
-	some			ə⁵⁵ɣnes³³							
-	the neck			fki⁵⁵							
-	to steal			fkuʔ⁵⁵							
-	to pull		拉	fse⁵³							
-	to rub			fsə³³fsəʔ⁵³							
-	the liver			fsje⁵⁵							
-	to plant (vegetals, rice)		栽	fsjo⁵⁵							
-	the tongue			fsɲi⁵⁵							
-	tomorrow			fso⁵⁵na⁵⁵re³³							
-	full			fsot⁵⁵							
-	to walk			ftɕʰi⁵⁵ra⁵⁵							
-	to count			ftsiʔ⁵⁵							
-	we [first person plural inclusive]			gi⁵⁵ɟjo³³							
-	the foot			gro⁵⁵							
-	the bird			ɣbjam⁵⁵							
-	to fly (move through air)			ɣbjam⁵⁵							
-	four			ɣdi⁵⁵							
-	to hit			ɣdoʔ⁵⁵							
-	the river		小河	ɣdzaʔr⁵³							
-	two			ɣnes⁵⁵							
-	the water			ɣrə⁵⁵							
-	the road			ɣrə⁵⁵ɣar³³							
-	to buy			ɣruʔ⁵⁵							
-	to knead		揉（皮子）	ɣzop⁵⁵							
-	to plant (vegetals, rice)		种	je⁵³							
-	the house			jem⁵⁵							
-	the sparrow		家雀	jem⁵⁵pɣi³³zi⁵⁵							
-	the hand			jək⁵⁵							
-	thick			jək⁵⁵							
-	light (of weight)			jo⁵⁵							
-	to sleep			juʔp⁵⁵							
-	other			ka³³ka⁵⁵ɟjo³³							
-	the rainbow			kə³³fɕi⁵³rem³³rem⁵³							
-	the frog			kʰa³³ɕpa⁵⁵							
-	to give			kʰam⁵⁵							
-	the wind			kʰar³³vu⁵⁵							
-	the dog			kʰe³³ne⁵⁵							
-	the mouth		口	kʰu⁵⁵							
-	the worm			ku³³lu⁵⁵							
-	good			la⁵⁵							
-	to shoot (an arrow)			lat⁵⁵							
-	the sand			lbək⁵⁵							
-	the shit			le⁵⁵							
-	the tail			lmi⁵⁵							
-	the hail			lmu⁵⁵							
-	to knead		揉（面）	lne⁵³							
-	the leaf			lpʰaq⁵⁵							
-	the shoulder			lvaq⁵⁵							
-	the snow			lvi⁵⁵							
-	not			ma-							
-	bad			ma³³la⁵⁵							
-	warm (hot)			mbjaʔ⁵⁵							
-	the rice plant			mbraʔs⁵³							
-	the thunder			mbruk⁵⁵							
-	female			me³³le⁵⁵							
-	the woman			me³³le⁵⁵							
-	the girl		姑娘	me³³le⁵⁵sŋa³³lu⁵³							
-	the flower			me³³toq⁵⁵							
-	the mother			me⁵⁵							
-	the night		晚上	mer⁵³							
-	the body hair (hair or fur)			mə³³ma⁵⁵							
-	the hair			mə³³ma⁵⁵							
-	the eye			mək⁵⁵							
-	nine			mgu⁵⁵							
-	the daughter			mi⁵⁵							
-	the smoke			mkʰut⁵⁵							
-	few			mneʔ⁵⁵							
-	red			mnik⁵⁵							
-	five			mŋa⁵⁵							
-	to blow (of wind)			moʔt⁵⁵							
-	the lip (the lips)			mtɕʰi⁵⁵							
-	the mouth		嘴	mtɕʰi⁵⁵							
-	the lake			mtsʰo⁵⁵							
-	the rain			mu⁵³							
-	morning			na³³re⁵⁵							
-	the morning			na³³re⁵⁵							
-	to fall			na³³rɣət⁵⁵							
-	to fall			na³³χɕot⁵⁵							
-	when			nam⁵⁵							
-	the intestines			naŋ³³tɕa⁵⁵							
-	to play			ncçʰal⁵⁵							
-	to throw			ncçoʔ⁵⁵							
-	to fight			nda³³la⁵⁵lat⁵⁵							
-	to marry (a man marries a woman)			ndvet⁵⁵							
-	soft			ndvət⁵⁵							
-	to cry (weep)		哭	ndvo³³vo⁵³							
-	to lick			ndzok⁵⁵							
-	to learn			ndzoʔs⁵³							
-	to stand			ndzur⁵⁵							
-	to swim			ndʑaq⁵⁵							
-	soft			ndʑaʔm⁵⁵							
-	twenty			nei⁵⁵sə³³							
-	early			nə³³fso⁵³							
-	thou [second person singular]			nə³³jo⁵⁵							
-	late			nə³³moʔr⁵³							
-	sick			ngoʔ⁵⁵							
-	to fear (be afraid)			ni³³scçər⁵³							
-	to hear			ni³³sme⁵³							
-	to flow			ni³³vi⁵⁵							
-	the ear			ni⁵⁵							
-	the ant			nkʰo³³roq⁵⁵							
-	to turn (around)		转回、转身	nkʰo³³rseʔ⁵⁵							
-	hard			nkʰraʔŋ⁵⁵							
-	dirty			nqaʔr⁵⁵							
-	to climb		爬（树）	nqʰa³³rat⁵⁵							
-	to laugh			nqʰat⁵⁵							
-	to chew			ntɕaq⁵⁵tɕaq³³							
-	to kill		杀（鸡)	ntɕʰi⁵⁵							
-	to think (reflect)		想（去）	ntsʰo⁵³							
-	to smell (perceive odor) [transitive]			ntʂə³³ma⁵³							
-	the breast (female)			nu³³nu⁵⁵							
-	black			ɲaʔq⁵⁵							
-	you [second person plural]			ɲo³³ɟjo⁵⁵							
-	thou [second person singular]			ɲo⁵⁵							
-	painful			ŋam⁵³							
-	I [first person singular]			ŋə⁵⁵							
-	I [first person singular]			ŋo⁵⁵							
-	where			ŋo⁵⁵to³³							
-	to grow			o³³qʰra⁵³							
-	the mosquito			pau⁵⁵sai³³							
-	the pig			pʰak⁵⁵							
-	the mountain			pʰat⁵⁵							
-	to spit			pʰet⁵⁵							
-	to wipe			pʰjiʔs⁵⁵							
-	to climb		爬（山）、翻（山）	pʰoq⁵⁵							
-	to cut		砍（树）	pʰoʔt⁵⁵							
-	to tie (together)		拴（牛）	pʰrek⁵⁵							
-	white			pʰrom⁵³							
-	the armpit			pja⁵⁵qʰoq³³							
-	the mouse or rat			pu³³juk⁵⁵							
-	the earthworm			qar³³di⁵⁵ku⁵⁵lu⁵⁵							
-	the spider			qʰa³³ɕna⁵⁵							
-	big			qʰraʔ⁵⁵							
-	the roof		房顶（最高层）	rbo⁵⁵bro⁵⁵							
-	to bite		（人）咬	rcça³³qʰat⁵⁵							
-	the shit			rcçaq³³pa⁵³							
-	the bark			rcçʰaq⁵⁵							
-	to tie (together)		绑	rcçʰeʔ⁵⁵							
-	to pull		拖	rɕi⁵³							
-	the stick			rdam⁵³							
-	the ashes		尘土	rdus⁵⁵							
-	the dust			rdus⁵⁵							
-	the nail (fingernail or claw)			rdzək⁵⁵							
-	to stab		扎	rdzoʔ⁵⁵							
-	green			rdʑem³³ku⁵³							
-	to say			reʔs⁵⁵							
-	near			rə⁵⁵bat³³							
-	one			rək⁵⁵							
-	to lie down			rga⁵⁵la⁵⁵laŋ⁵⁵							
-	to lie, rest			rga⁵⁵la⁵⁵laŋ⁵⁵							
-	old (of person)			rgan⁵⁵							
-	the stone (a piece of)			rge³³me⁵³							
-	to float			rgo⁵³							
-	the wife			rjap⁵⁵							
-	to play			rje⁵⁵							
-	to sit			rjeʔ⁵⁵							
-	wide			rjeʔm⁵⁵							
-	the sea			rɟja³³mtsʰo⁵⁵							
-	to run			rɟjuk⁵⁵							
-	cold (of temperature)			rkʰoʔ⁵⁵							
-	the name			rme⁵⁵							
-	forget			rmit⁵⁵							
-	to forget			rmit⁵⁵							
-	the dream			rmo⁵⁵							
-	the grass		草（总称）	rno³³ba⁵³							
-	to hunt			rŋa⁵⁵vzo⁵⁵							
-	the knee			rŋe⁵⁵							
-	the fish			roŋ⁵⁵jo³³							
-	to cut		砍（肉、骨头）	rpe⁵⁵tset⁵⁵							
-	the ice			rpʰam⁵³							
-	to freeze (intransitive)			rpʰam⁵⁵							
-	to squeeze		挤、拧	rtsʰop⁵⁵							
-	the lung			rtsʰos⁵³							
-	the horn (keratinized skin)			ru⁵⁵							
-	the shoulder			rvak⁵⁵							
-	stone (of fruit)			rvi⁵⁵							
-	the seed			rvi⁵⁵							
-	to wash			rʑi⁵⁵							
-	the needle (for sewing)			ʁap⁵⁵							
-	the sun			ʁbɣi⁵³							
-	the person			ʁbji⁵⁵							
-	many			ʁboʔ⁵⁵							
-	horizontal			ʁdam³³daʔm⁵⁵							
-	the wheat			ʁji⁵⁵							
-	the bamboo			ʁji⁵⁵se³³							
-	the sheep			ʁjo⁵⁵							
-	round			ʁlo³³loʔr⁵⁵							
-	the ashes		灰烬	ʁmu³³dom⁵⁵							
-	the fire			ʁmu⁵⁵							
-	dark			ʁni⁵⁵							
-	the river		大河	ʁɲam⁵⁵							
-	the mud		稀泥	ʁɲo³³mbe⁵⁵							
-	heavy			ʁrdit⁵⁵							
-	narrow			ʁroʔs⁵⁵							
-	eight			ʁvjat⁵³							
-	new			sar³³paʔ⁵⁵							
-	to kill		杀（人）	sat⁵⁵							
-	the ashes		草木灰	scça⁵⁵kʰa³³χpʰji³³							
-	right			scçʰeʔs							
-	the forest			se³³gu⁵⁵							
-	firewood			se⁵⁵							
-	to think (reflect)		想、思考	sem³³noŋ⁵³lat³³							
-	the belly			sə³³tʰa⁵⁵							
-	the blood			sə⁵⁵							
-	the fruit			sə⁵⁵							
-	to die			sə⁵⁵							
-	the dew			sə⁵⁵rɕoq³³							
-	ten			sɣi⁵⁵							
-	to cook			sɣiʔ⁵⁵							
-	the heart			sjar⁵³							
-	to scratch			skʰroq⁵⁵							
-	to burn [transitive]		烧（香）	snat⁵⁵							
-	the nose			sne⁵⁵							
-	seven			sneʔs⁵³							
-	the moon			snə³³ɣli⁵⁵							
-	today			sni⁵³							
-	the day (opposed to night)			sno³³go⁵⁵							
-	middle			sɲuŋ³³bu⁵⁵							
-	the child			sŋa³³lu⁵⁵							
-	the child (young human)			sŋa³³lu⁵⁵							
-	the child			sŋaq⁵⁵							
-	the child (young human)			sŋaq⁵⁵							
-	the frost			sŋar⁵⁵							
-	before			so³³dʑi⁵⁵							
-	the louse			so³³ru⁵⁵							
-	the tree			so³³χpʰo⁵⁵							
-	to breathe		呼（气）	soŋ⁵⁵sə⁵⁵lat⁵⁵							
-	to hide (conceal)			spiʔt⁵⁵							
-	the wolf			spjaŋ³³gu⁵³							
-	long			sre⁵⁵							
-	long			sren⁵⁵							
-	the tiger			staq⁵³							
-	the egg			stʰək⁵⁵							
-	straight			stu⁵⁵							
-	who			su⁵³							
-	the hoof			ta³³ka⁵⁵tsa³³							
-	the branch			tai³³ga⁵⁵							
-	the otter		水獭	tɕʰi³³sram⁵³							
-	to cut		砍骨头	tɕʰop⁵⁵							
-	to sew			tɕʰop⁵⁵							
-	what			te⁵³							
-	how			te⁵⁵mɲet³³me³³							
-	the sky			tə³³mu⁵⁵							
-	far			tʰaq³³raŋ⁵³							
-	to drink			tʰe⁵⁵							
-	the meat			tʰom⁵³							
-	the night		晚上	to³³moʔr⁵³							
-	the goat			tsʰet⁵⁵							
-	the salt			tsʰə⁵⁵							
-	to know			tsʰoʔ⁵⁵							
-	to know (something)			tsʰoʔ⁵⁵							
-	the salt			tsʰrə⁵⁵							
-	salty			tsʰrəʔ⁵⁵							
-	to push			tʂaq⁵⁵							
-	to squeeze		挤（牙膏）	tʂaq⁵⁵							
-	the father			va⁵⁵							
-	all			vde³³vde⁵³							
-	the thigh			vdom⁵⁵							
-	the back			vgur⁵³							
-	to come			vi⁵⁵							
-	correct (right)			vɟje⁵⁵							
-	smooth			vleʔk⁵⁵							
-	to burn [transitive]		烧（火）	vlo⁵⁵							
-	hundred			vrje⁵³							
-	to see			vro⁵³							
-	the intestines		大肠	vu⁵⁵pʰrom⁵³							
-	the intestines		大肠	vu⁵⁵pom⁵⁵							
-	the intestines		小肠	vu⁵⁵tsem⁵⁵							
-	the intestines		小肠	vu⁵ɲaq⁵⁵							
-	to bite		（动物）咬	vzek⁵⁵							
-	to turn (around)		（自）转	vzɣiʔ⁵⁵							
-	to split		（墙）裂开	vzur⁵³							
-	noon			vʑo⁵⁵							
-	the noon			vʑo⁵⁵							
-	the wing			war³³kʰam⁵³							
-	the head			wu⁵⁵							
-	the hair (of the head)			wu⁵⁵mə⁵⁵rma⁵⁵							
-	wet			xɕiʔt⁵⁵							
-	three			xsom⁵³							
-	to be alive			xsuʔ⁵⁵							
-	six			xtɕok⁵⁵							
-	the sickle			xtiʔ⁵⁵							
-	short			xtiʔs⁵⁵							
-	and			za⁵⁵							
-	the lightning			zblap⁵⁵							
-	dry			zbuk⁵⁵							
-	the cloud			zdem⁵³							
-	the fog			zdem⁵³							
-	small			ze⁵³							
-	the child (descendant)		小的（不分性别）	ze⁵⁵me³³							
-	the star			zgrə⁵³							
-	the child (descendant)		子女	zi³³mi⁵³							
-	the child (descendant)		子孙	zi³³vli⁵⁵							
-	the son			zi⁵⁵							
-	sharp			zok⁵⁵							
-	the grass		青草	χɕe⁵³							
-	to cry (weep)		哭泣	χɕi⁵³							
-	to vomit			χpʰaʔs⁵⁵							
-	the mud		泥巴	χpʰji⁵⁵							
-	yesterday			χsni⁵⁵							
-	yellow			χsor³³poʔ⁵⁵							
-	the earth (soil)		黄土	χtɕʰo³³tʰi⁵⁵							
-	the fox			χtʰje⁵⁵							
-	rotten (of fruits)			χtsit⁵⁵							
-	the leg										
-	the work										
-	to burn [intransitive]										
-	to choose										
-	to reside (live)										
-	to sow (broadcast, scatter seeds)										
+ID	CONCEPT	CHINESE	VALUE	FORM	GLOSS_IN_SOURCE	TOKENS	MORPHEME_STRUCTURE	BORROWING	SAGART_ID	NOTE	COGID
+	the dust	灰尘	rdus⁵⁵	tə⁵⁵rtiak³³				tib. rdul			
+	firewood	柴	se⁵⁵	ʃe⁵⁵ 							
+	noon	中午	vʑo⁵⁵								
+	the noon	中午	vʑo⁵⁵								
+	the otter	水獭	tɕʰi³³sram⁵³					tib. chu.sram			
+	that	那	ai⁵⁵ti³³								
+	all	全部	vde³³vde⁵⁵	kə³³tʃe⁵⁵							
+	here	这里	cçi⁵⁵to⁵⁵	tʂə⁵⁵tej⁵⁵							
+	to burn [transitive]	烧（香）	snat⁵⁵	ka⁵⁵ska³³							
+	the hoof	马蹄	bro⁵⁵ta³³ka⁵⁵tsa³³								
+	red	红	mnik⁵⁵	wə³³rɲe⁵⁵							
+	black	黑	ɲaʔq⁵⁵	kə³³nak⁵⁵							
+	to blow (of wind)	吹（灰）	moʔt⁵⁵								
+	the body hair (hair or fur)	毛	mər³³ma⁵⁵	ʂu⁵⁵ 							
+	other	其他	ka³³ka⁵⁵ɟjo³³								
+	to lie down	躺	rga⁵⁵la⁵⁵laŋ⁵⁵								
+	the fire	火	ʁmu⁵⁵	tʂʰu⁵⁵							
+	the fish	鱼	roŋ⁵⁵jo³³	tʂo⁵⁵wjy³³							
+	the flea	跳蚤	dza³³ji⁵⁵								
+	the flower	花	me³³toq⁵⁵	ta³³pat⁵⁵				tib.  me.tog			
+	left	左	ɕki⁵³	ka⁵⁵wu⁵⁵							
+	the fog	雾	zdem⁵³								
+	the nit	虮子	dʑu³³ru⁵⁵								
+	to knead	揉（面）	lne⁵³	ka³³rən⁵⁵ɲo³³ 							
+	to lick	舔	ndzok⁵⁵	ka⁵⁵ntsʰok⁵⁵							
+	to chew	嚼	ntɕaq⁵⁵tɕaq³³	pwa⁵⁵pwa⁵⁵ 嚼喂（婴儿）							
+	the sickle	镰刀	xtiʔ⁵⁵	tə⁵⁵ntwa⁵⁵							
+	the forest	森林	se³³gu⁵⁵	ʃe³³kʰa⁵⁵ （树林）							
+	late	迟	moʔr⁵³								
+	the lip (the lips)	嘴唇	mtɕʰi⁵⁵	tə³³ʂna⁵⁵pok³³							
+	to grow	长大	o³³qʰra⁵³								
+	to grow high	长高		kə³³zɐt⁵⁵							
+	to grow	生长	o³³ɣe⁵⁵								
+	to grow	长大	o³³tɕʰit⁵⁵								
+	shy	害羞	bom⁵⁵	kan⁵⁵nə⁵⁵wom⁵⁵							
+	three	三	xsom⁵³	ke³³soŋ⁵⁵							
+	five	五	mŋa⁵⁵	kə³³ŋo⁵⁵							
+	the frog	青蛙	kʰa³³ɕpa⁵⁵	kʰa⁵⁵ʃpa⁵⁵							
+	to learn	学（文化）	ndzoʔs⁵⁵	ka³³rə⁵⁵kʰtʂʰə³³							
+	the wolf	狼	spjaŋ³³gu⁵³					tib. spyang.gu			
+	the ant	蚂蚁	nkʰo³³roq⁵⁵	kʰə⁵⁵rok⁵⁵				situ			
+	to hide (conceal)	藏	spiʔt⁵⁵	ka³³ʂak⁵⁵pej³³							
+	the grass	草（总称）	rno³³ba⁵³	ta⁵⁵jno⁵⁵							
+	the grass on the grassland	草原上的草		ka⁵⁵za³³							
+	the hail	冰雹	lmu⁵⁵								
+	the horse	马	bro⁵⁵	bə⁵⁵ro⁵⁵							
+	the ice	冰	rpʰam⁵³	ta³³rpoŋ⁵⁵							
+	the lake	湖	mtsʰo⁵⁵	mtsʰu⁵⁵（ 也是海的意思）				tib. mtsho			
+	the leaf	叶子	lpʰaq⁵⁵	ʃe³³jma³³							
+	the meat	肉	tʰom⁵³	ʃa⁵³							
+	the cooked meat	熟肉		na⁵⁵na³³							
+	the mountain	山	pʰat⁵⁵	ta⁵⁵wɐt⁵⁵							
+	the mountain	山的总称		ʐgləp							
+	the mud	泥巴	χpʰji⁵⁵	tə⁵⁵pie³³ （tə³³pie⁵⁵下面的村子 ）							
+	the ashes	草木灰	scça⁵⁵kʰa³³χpʰji³³								
+	the rain	雨	mu⁵³	tsʰa⁵⁵rna⁵⁵							
+	the river	大河	ʁɲam⁵⁵	ɲiŋ³³koŋ⁵⁵							
+	the river	小河	ɣdzaʔr⁵³								
+	the road	路	ɣrə⁵⁵ɣar³³	rə⁵⁵ra⁵⁵							
+	the road	公路	tɕʰi³³tʂʰe³³ɣar⁵⁵								
+	the root	根	e³³sram⁵⁵	ə⁵⁵rsok⁵⁵							
+	the sand	沙子	lbək⁵⁵								
+	early	早	fso⁵³								
+	the mouth	嘴	mtɕʰi⁵⁵	tə³³kʰa⁵⁵ (口，嘴里面)							
+	the shit	屎	rcçaq³³pa⁵³	tǝ³³pʰʃe⁵⁵				tib. rkyag.pa			
+	the person	人	ʁbji⁵⁵	tə⁵⁵rmi⁵⁵							
+	the lung	肺	rtsʰos⁵³	ta³³ʂlu⁵⁵							
+	dark	暗、天黑	ʁni⁵⁵								
+	to steal	偷	fkuʔ⁵⁵	ka³³nə⁵⁵ʂmo³³							
+	the seed	种子	rvi⁵⁵	tə⁵⁵rpu⁵⁵							
+	the snake	蛇	bi³³ri⁵⁵	kʰa⁵⁵wre⁵⁵							
+	the egg	蛋	stʰək⁵⁵	pwa⁵⁵goŋ⁵⁵ （鸡蛋）							
+	to sow (broadcast, scatter seeds)	下种	rvi⁵⁵tɕʰes⁵⁵								
+	outside	外面	ə³³pʰji⁵⁵								
+	the skin	皮	dʑi⁵⁵dʑa³³	tə³³ɖi⁵⁵							
+	the roof	房背（平顶）	rbo⁵⁵								
+	the smoke	烟	mkʰut⁵⁵								
+	the snow	雪	lvi⁵⁵	ta⁵⁵jpak⁵⁵							
+	the thigh	大腿	vdom⁵⁵								
+	the spider	蜘蛛	qʰa³³ɕna⁵⁵	kʰa⁵⁵ʃna⁵⁵							
+	the tiger	老虎	staq⁵³	kʰoŋ⁵⁵				tib. stag			
+	the stone (a piece of)	石头	rge³³me⁵³	tə³³lɔk⁵⁵							
+	fallen rock (after landslide)	滚落的石头		ta⁵⁵roŋ³³							
+	the tree	树	so³³χpʰo⁵⁵	ʃə⁵⁵ku⁵⁵							
+	the barley (tibetan or highland)	青稞	ɕi⁵⁵	swej⁵⁵							
+	the bird	鸟	ɣbjam⁵⁵	pə³³tsa⁵⁵							
+	the blood	血	sə⁵⁵	ta⁵⁵ʃi⁵⁵							
+	the water	水	ɣrə⁵⁵	tə⁵⁵tʃi³³							
+	the wind	风	kʰar³³vu⁵⁵	kʰa³³li⁵⁵							
+	the woman	女人、女性	me³³le⁵⁵	tə³³mi⁵⁵							
+	right	右	scçʰeʔs⁵³	ka⁵⁵tʃʰa⁵⁵							
+	to yawn	打呵欠	da³³χam⁵³	ta³³xoŋ⁵⁵ka⁵⁵pa³³							
+	good	好	la⁵⁵	kə³³la⁵⁵				situ la			
+	the hair (of the head)	头发	wu⁵⁵mər⁵⁵ma⁵⁵	ta³³ku⁵⁵ʂu³³							
+	light (of weight)	轻	jo⁵⁵	kə³³jo⁵⁵							
+	the wheat	小麦	ʁji⁵⁵	te⁵⁵lu⁵⁵							
+	the work	工作	ta³³ma⁵⁵	wu⁵⁵ma³³ （他的工作）				situ ta-ma			
+	salty	咸	tsʰrəʔ⁵⁵	kə³³tsri⁵⁵							
+	middle	中间	ə³³χcçəl⁵⁵	a⁵⁵laj⁵⁵				tib. dkyil			
+	middle	中间、中介	ə³³rtʰap⁵⁵								
+	to reside (live)	居住	rjeʔ⁵⁵								
+	to cook	煮	sɣiʔ⁵⁵	ka⁵⁵ska³³							
+	to climb	爬（树）	nqʰa³³rat⁵⁵								
+	painful	疼	ŋam⁵³	tə³³tsu⁵⁵rlie³³							
+	the thunder	雷	mbruk⁵⁵	ta⁵⁵rmo⁵⁵				tib. 'brug			
+	to open	打开	cçʰo⁵⁵	ka³³toŋ⁵⁵							
+	to shoot (an arrow)	射（箭）	lat⁵⁵								
+	yesterday	昨天	χsni⁵⁵	wa³³ʂlu⁵⁵							
+	many	多	ʁboʔ⁵⁵	kə⁵⁵mɲa³³							
+	the wife	妻子	rjap⁵⁵	tə⁵⁵mi⁵⁵							
+	the husband	丈夫	ɕɣe⁵⁵ze³³	kə³³tʃʰi⁵⁵							
+	the feather	羽毛	bja³³vər⁵⁵	ʂu⁵⁵				part. tib. bya			
+	big	大	qʰraʔ⁵⁵	kə³³kʰti⁵⁵							
+	long	长	sre⁵⁵	kə³³sre⁵⁵							
+	the bark	桦树皮	rcçʰaq⁵⁵								
+	the tongue	舌头	fsɲi⁵⁵								
+	young	年轻	ɕɣe⁵⁵ze⁵⁵	ta⁵⁵wli⁵⁵kə⁵⁵kʰtsei³³							
+	I [first person singular]	我	ŋo⁵⁵	ŋo⁵⁵							
+	heavy	重	ʁrdit⁵⁵	kə⁵⁵le⁵⁵							
+	thou [second person singular]	你	nə³³jo⁵⁵	no⁵⁵							
+	the rope	绳子	bre⁵⁵	tə⁵⁵wri³³							
+	the string	细绳		ta⁵⁵ri³³							
+	the worm	虫	ku³³lu⁵⁵	kə⁵⁵loŋ⁵⁵							
+	the tail	尾巴	lmi⁵⁵	ta⁵⁵jmiək⁵⁵							
+	the nose	鼻子	sne⁵⁵	tə⁵⁵ʂna⁵⁵							
+	the heart	心脏	sjar⁵³	tə³³ʂɲe⁵⁵							
+	the liver	肝	fsje⁵⁵	tə⁵⁵wʃe⁵⁵							
+	the day (opposed to night)	白天	sno³³go⁵⁵	tə⁵⁵pwak⁵⁵							
+	the year	年	dɣuk⁵⁵								
+	the earth (soil)	黄土	χtɕʰo³³tʰi⁵⁵								
+	dirty	脏	nqaʔr⁵⁵	ma³³kə³³tʂɔ⁵⁵							
+	new	新	sar³³paʔ⁵⁵	sɐt³³pa⁵⁵				tib. gsar.pa			
+	warm (hot)	暖和	mbjaʔ⁵⁵								
+	the night	晚上	tə³³moʔr⁵³					situ			
+	smooth	光滑	vleʔk⁵⁵	kə³³na⁵⁵mar³³							
+	who	谁	su⁵³	ʃie⁵⁵							
+	what	什么	te⁵³	tʰie55							
+	where	哪里	ŋo⁵⁵to³³	kə⁵⁵tie³³							
+	how	怎样	te⁵⁵mɲet³³me³³								
+	few	少	mneʔ⁵⁵	kə⁵⁵mɲi⁵⁵							
+	thick	厚	jək⁵⁵	kə⁵⁵jak³³							
+	small	小	ze⁵³	tə³³ʈi⁵⁵ 							
+	the ear	耳朵	ni⁵⁵	tə⁵⁵rna⁵⁵							
+	the eye	眼睛	mək⁵⁵	tə⁵⁵ɲiaŋ⁵⁵							
+	the belly	肚子	sə³³tʰa⁵⁵	tə³³kʰtu⁵⁵							
+	the house	房子	jem⁵⁵								
+	the head	头	wu⁵⁵	ta⁵⁵ku⁵⁵							
+	the wing	翅膀	war³³kʰam⁵³	ta⁵⁵rkʰoŋ³³							
+	to sing	唱歌	dʐo³³wo⁵⁵vzo⁵³								
+	high / tall	高	bro⁵⁵	kə³³nbro⁵⁵							
+	narrow	窄	tsʰres⁵³	kə⁵⁵kwar⁵⁵							
+	narrow	狭窄（心胸）	ʁroʔs⁵⁵								
+	the salt	盐	tsʰə⁵⁵	tsʰa⁵⁵							
+	the hand	手	jək⁵⁵	ta³³jak⁵⁵							
+	to vomit	呕吐	χpʰaʔs⁵⁵	tə⁵⁵tʃɔ⁵⁵ ka⁵⁵pa³³							
+	to fall	摔（下来）	rɣit⁵⁵	ka⁵⁵lu³³ （摔跤）							
+	to fall	倒	χpʰok⁵⁵	kə⁵⁵ʈian³³ （倒下）							
+	the fat (grease)	肥膘	du³³ɣur⁵³	ta³³war⁵⁵							
+	today	今天	sni⁵³	ə³³ʃni⁵⁵							
+	hot	热	ɕkiʔ⁵⁵	kə⁵⁵sa⁵⁵na⁵⁵stie⁵⁵							
+	cold (of temperature)	冷	rkʰoʔ⁵⁵	kə³³wa⁵⁵ntʃo³³							
+	the back	后背	vgur⁵³	tə³³ntʰiak⁵⁵							
+	bad	坏	ma³³la⁵⁵	kə⁵⁵jlias⁵⁵				situ			
+	the stick	棍子	rdam⁵³	ta⁵⁵tar⁵⁵							
+	the foot	脚	gro⁵⁵	ta⁵⁵mie⁵⁵							
+	the fox	狐狸	χtʰje⁵⁵	kə³³tʰwej⁵⁵							
+	the moon	月亮	snə³³ɣli⁵⁵	zi⁵⁵la³³							
+	tomorrow	明天	fso⁵⁵na⁵⁵re⁵³	ʂu⁵⁵ʂni⁵⁵							
+	the sheep	绵羊	ʁjo⁵⁵	kə⁵⁵jo⁵⁵							
+	the neck	脖子	fki⁵⁵	mgi⁵⁵							
+	white	白	pʰrom⁵³	kə³³proŋ⁵⁵							
+	to eat	吃	dzəʔ⁵⁵	za⁵⁵							
+	the pig	猪	pʰak⁵⁵	pak⁵⁵							
+	morning	早晨	na³³re⁵⁵								
+	the sun	太阳	ʁbɣi⁵³	kə³³ɲi⁵⁵							
+	the knife	刀	bər³³ze⁵⁵	tsark⁵⁵ri⁵⁵/bə⁵⁵rza³³（两种说法）							
+	to laugh	笑	nqʰat⁵⁵	kə⁵⁵na⁵⁵ri⁵⁵							
+	the knee	膝盖	rŋe⁵⁵								
+	the tooth (front)	牙齿	ɕɣi⁵⁵	tə⁵⁵swa³³							
+	the needle (for sewing)	针	ʁap⁵⁵	ta⁵⁵kar⁵⁵							
+	the louse	虱子	so³³ru⁵⁵	sʰar⁵⁵							
+	the horn (keratinized skin)	角	ru⁵⁵	ə⁵⁵ri⁵⁵							
+	the bone	骨头	ɕa³³ru⁵⁵	ʂa³³ri⁵⁵							
+	round	圆（平面、立体）	ʁlo³³loʔr⁵⁵	ka⁵⁵pə⁵⁵lar⁵⁵							
+	sharp	锋利	zok⁵⁵								
+	dry	干	zbuk⁵⁵	kə⁵⁵roŋ⁵⁵							
+	to drink	喝	tʰe⁵⁵	ka⁵⁵mut³³							
+	the breast (female)	乳房	nu³³nu⁵⁵								
+	to bite	（人）咬	rcça³³qʰat⁵⁵	ka⁵⁵tsok³³							
+	straight	直	stu⁵⁵	ka⁵⁵stu⁵⁵							
+	the name	姓	rme⁵⁵								
+	far	远	rə⁵⁵rdi³³	kə³³tʃʰi⁵⁵							
+	to breathe	喘气	ro⁵⁵χal³³								
+	to hear	听见	sme⁵³	na³³miŋs⁵⁵							
+	to see	看见	vro⁵³	ka⁵⁵nto⁵⁵							
+	to play	玩、耍	ncçʰal⁵⁵	kə³³npri⁵⁵							
+	to squeeze	挤（牙膏）	tʂaq⁵⁵	ka⁵⁵tʂət⁵⁵ （也是擤鼻涕的擤）							
+	to think (reflect)	想（去）	ntsʰo⁵³								
+		联想		siɐm⁵⁵ muər³³tʃi³³							
+	to sit	坐	rjeʔ⁵⁵	kə³³ɲi⁵⁵							
+	to kill	杀（人）	sat⁵⁵	ka⁵⁵sat⁵⁵							
+	to dig	掘	pɣaq⁵⁵	ka³³rwa⁵⁵							
+	to fear (be afraid)	害怕	scçər⁵³	kə³³rtar⁵⁵							
+	to count	数（数）	ftsiʔ⁵⁵	ka⁵⁵wzi³³				tib. btsi			
+	to be alive	（动物）活了	xsu⁵⁵								
+	to fight	打架、打仗	nda³³la⁵⁵lat⁵⁵								
+	yellow	黄	χsor³³poʔ⁵⁵	kə³³ŋe⁵⁵				tib. ser.po			
+	green	绿	ldʑem³³ku⁵³	toŋ³³ʐu⁵⁵				tib. ljang.khu			
+	to burn [intransitive]	燃烧	mbaʔr⁵³	tə⁵⁵ʐu³³				tib. 'bar			
+	full	满	fsot⁵⁵	kə⁵⁵ɲyt⁵⁵							
+	the star	星星	zgrə⁵³	tsə³³kʰli⁵⁵							
+	to freeze (intransitive)	冻	rpʰam⁵⁵								
+	to cut	剪	rtʰom⁵³	ka⁵⁵rtan⁵⁵							
+	to hit	打（人）	ɣdoʔ⁵⁵	ka³³sti⁵⁵							
+	to stab	刺	rdzoʔ⁵⁵	ka³³toŋ⁵⁵							
+	to hunt	打猎	rŋa⁵⁵vzo⁵⁵	ta⁵⁵rwak⁵⁵							
+	to scratch	挠（痒）	skʰroq⁵⁵								
+	to split	劈（柴）	krut⁵⁵	ka³³pʰat⁵⁵							
+	to swim	游泳、（鱼）游	ndʑaq⁵⁵								
+	to spit	吐（痰）	pʰet⁵⁵								
+	to vomit; throw up	呕吐		tə⁵⁵tʃɔ⁵⁵ ka⁵⁵pa³³							
+	to fly (move through air)	飞	ɣbjam⁵⁵								
+	to stand	站立	ndzur⁵⁵	kə³³wjoŋ⁵⁵							
+	to walk	走路	ftɕʰi⁵⁵ra⁵⁵	tʃʰe/ lu⁵⁵							
+	to turn (around)	转回、转身	nkʰo³³rseʔ⁵⁵	kə³³mtʂur⁵⁵ /  ka⁵⁵sə⁵⁵mtʂur⁵⁵（使转）				part. tib. 'khor			
+	to come	来	vi⁵³	na⁵⁵pi³³ （来了）							
+	to give	送给	bi⁵³	 ka³³wjy⁵⁵							
+	to hold	握	dʑe⁵⁵	ka⁵⁵nʈiant⁵⁵							
+	to hold tightly	握紧		ka⁵⁵sa⁵⁵zək⁵⁵zək³³							
+	to rub	擦	pʰjiʔs⁵⁵	ka⁵⁵wʃie⁵⁵							
+	to push	推	tʂaq⁵⁵	ka⁵⁵nɔ⁵⁵							
+	to wash	洗	rʑi⁵⁵	ka⁵⁵rtʃi³³							
+	to wipe	擦	pʰjiʔs⁵⁵								
+	to pull	拉	fse⁵³	ka⁵⁵ra⁵⁵ʃie⁵⁵/ka⁵⁵ra⁵⁵ʃi⁵⁵（下面的村子）							
+	to pull	拉	ntʰen⁵⁵								
+	to throw	扔	ncçoʔ⁵⁵	ka³³sa⁵⁵pʰʃit⁵⁵							
+	to sew	缝	tɕʰop⁵⁵	ka⁵⁵tʃu³³							
+	to say	讲（一般意义上的说话）	reʔs⁵⁵								
+	the sea	海	rɟja³³mstʰo⁵⁵	mstʰu⁵⁵				part. tib. rgya.mtsho			
+	the shoulder	肩膀	lvaq⁵⁵	ta⁵⁵rpak³³							
+	nine	九	mgu⁵⁵	kə³³ngu⁵⁵							
+	below, under	下方（近指）	ə³³cçʰe⁵⁵	a³³no⁵⁵							
+	to plant (vegetals, rice)	种（菜）	je⁵³	ka³³je⁵⁵							
+	the cloud	云	zdem⁵³	zdjan⁵⁵							
+	one	一	rək⁵⁵	te⁵⁵							
+	to die	死	sə⁵⁵	tə³³ʃi⁵⁵							
+	two	二	ɣnes⁵⁵	tə³³jiu⁵⁵							
+	four	四	ɣdi⁵⁵	kə⁵⁵pri⁵⁵							
+	the goat	山羊	tsʰet⁵⁵	tʂʰət⁵⁵							
+	the fruit	果实	sə⁵⁵	tə⁵⁵ʃi⁵⁵							
+	the mosquito	蚊子	pau⁵⁵sai³³	kə³³pas⁵⁵							
+	ten	十	sɣi⁵⁵	ʂə⁵⁵tʃi⁵⁵							
+	to run	跑	rɟjuk⁵⁵	kə⁵⁵nə⁵⁵rtʃiu³³				part.  tib. rgyug			
+	to forget	忘记	rmit⁵⁵	kɐ³³jnis⁵⁵							
+	the branch	树枝	tai³³ga⁵⁵					situ			
+	to swell	肿、胀	bup⁵⁵								
+	to float	浮	rgo⁵³								
+	to sleep	睡	juʔp⁵⁵	e³³rma⁵⁵							
+	to smell (perceive odor) [transitive]	闻、嗅	ntʂə³³ma⁵³	ka⁵⁵na⁵⁵sə⁵⁵sət³³				tib. 'dri.ma			
+	inside	里面	ə³³gu⁵⁵								
+	the son	儿子	zi⁵⁵	tə⁵⁵tsa³³							
+	hundred	百	vrje⁵³	pə³³rja⁵⁵							
+	short	短	xtiʔs⁵⁵	kə⁵⁵kʰtʂən³³							
+	the girl	姑娘	me³³le⁵⁵sŋa³³lu⁵³	mə⁵⁵tsa⁵⁵							
+	the lightning	闪电	zblap⁵⁵	ta⁵⁵wja³³							
+	six	六	xtɕok⁵⁵	kə⁵⁵tʂok³³							
+	seven	七	sɲeʔs⁵³	kə³³ʃnəs⁵⁵							
+	eight	八	ʁvjat⁵³	wu⁵⁵rjɐt⁵⁵							
+	twenty	二十	nei⁵⁵sə³³	kə⁵⁵nə⁵⁵ ʃtʃi⁵⁵							
+	correct (right)	对、正确	vɟje⁵⁵								
+	wet	湿	xɕiʔt⁵⁵	kə⁵⁵ʃtʃi³³							
+	rotten (of fruits)	腐烂	χtsə⁵⁵	kə³³tʃi⁵⁵							
+	the sky	天	tə³³mu⁵⁵	tə⁵⁵mɔ⁵⁵rni⁵⁵				situ			
+	the rainbow	虹	kə³³fɕi⁵³rem³³rem⁵³								
+	above	上方（近指）	ə³³tʰa⁵³	a³³tar⁵⁵							
+	to choose	挑选	ntsʰit⁵⁵	ka³³ntʃhi⁵⁵							
+	stone (of fruit)	核儿	e⁵⁵sne⁵⁵	ə⁵⁵ʃɲe⁵⁵ 							
+	the wood (material)	木头	bo⁵⁵li⁵⁵								
+	to cry (weep)	哭	ndvo³³vo⁵³	kə³³ŋa⁵⁵wu⁵⁵/ kə³³ŋa⁵⁵kri³³（另一种说法）							
+	to cry (weep)	哭泣	χɕi⁵³								
+	sick	病	ngoʔ⁵⁵	kə³³nkɔ⁵⁵							
+	the sparrow	麻雀	pɣi³³zi⁵⁵	ta⁵⁵sa⁵⁵ pu⁵⁵tsa³³							
+	soft	软	ndvət⁵⁵	kə⁵⁵mtʃɔk⁵⁵							
+	to buy	买	ɣruʔ⁵⁵	ka³³ki⁵⁵							
+	before										
+	hard	硬	nkʰraʔŋ⁵⁵	kə³³rkɔ⁵⁵							
+	the armpit	腋下	pja⁵⁵qʰoq³³	ta³³kʰtʃa⁵⁵ki³³							
+	to tie (together)	绑	rcçʰeʔ⁵⁵	ka⁵⁵rsie⁵⁵							
+	the bamboo	竹子	ʁji⁵⁵se³³	ntʃju⁵⁵							
+	there	那里	ai⁵⁵to³³	wu⁵⁵tej⁵⁵							
+	near	近	rə⁵⁵bat³³	ə³³rie⁵⁵ kə⁵⁵wɐt³³ 							
+	the dew	露水	sə⁵⁵rɕoq³³	ʂə⁵⁵ri⁵⁵							
+	the intestines	肠	vu⁵⁵	tə⁵⁵rwa³³							
+	to flow	（水）流	ni³³vi⁵⁵								
+	the dog	狗	kʰe³³ne⁵⁵	kʰə⁵⁵na⁵⁵							
+	the rice plant	水稻	mbraʔs⁵³					tib. 'bras			
+	the frost	霜	sŋar⁵⁵	sŋar⁵⁵							
+	the child	小孩	sŋa³³lu⁵⁵								
+	the child	小孩	sŋaq⁵⁵								
+	the man (male human)	男人、男性	ɕɣe⁵⁵ze³³	tə⁵⁵tsa³³							
+	old (of person)	年老	rgan⁵⁵	kə⁵⁵ntʃɔ³³				tib. rgan			
+	the nail (fingernail or claw)	指甲	rdzək⁵⁵	ta⁵⁵rja⁵⁵rtʃan⁵⁵							
+	the mouse or rat	老鼠	pu³³juk⁵⁵	pə⁵⁵ji⁵⁵				situ			
+	to marry (a man marries a woman)	娶	ndvet⁵⁵								
+	the front (front side)	前面、正面	ə³³dʑi⁵³	tə³³ʈi⁵⁵							
+	thin (object)	薄	biʔ⁵⁵	kə⁵⁵wa³³							
+	the earthworm	蚯蚓	qar³³di⁵⁵ku⁵⁵lu⁵⁵	kʰun³³ʈi⁵⁵							
+	the dream	梦	rmo⁵⁵	ta⁵⁵rmo⁵⁵							
+	horizontal	横	ʁdam⁵⁵daʔm⁵⁵								
+	wide	宽	rjeʔm⁵⁵	kə³³joŋ⁵⁵							
+	to know	知道	tsʰoʔ⁵⁵	ka³³ʃi⁵⁵							
