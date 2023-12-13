@@ -1,11 +1,11 @@
 ID,LookupName,Name,SubGroup,Coverage,Glottocode,Longitude,Latitude,Sources
 Bantawa,Bantawa,Bantawa,Kiranti,195,bant1281,87.049995,27.117894,Doornenbal2009
-Stau,Daofu,Stau,rGyalrongic,223,horp1240,101.123742,30.975281,Huang1992
-Japhug,Japhug,Japhug,rGyalrongic,225,japh1234,101.957636,32.207076,Jacques2015
+Stau,Daofu,Stau,Rgyalrongic,223,horp1240,101.123742,30.975281,Huang1992
+Japhug,Japhug,Japhug,Rgyalrongic,225,japh1234,101.957636,32.207076,Jacques2015
 Tangut,Tangut,Tangut,Tangut,236,tang1334,106.285383,38.477453,Li1997
-WobziKhroskyabs,WobziKhroskyabs,Wobzi Khroskyabs,rGyalrongic,224,eree1240,101.427999,31.62758,Lai2017
+WobziKhroskyabs,WobziKhroskyabs,Wobzi Khroskyabs,Rgyalrongic,224,eree1240,101.427999,31.62758,Lai2017
 Zhaba,Zhaba,Zhaba,Qiangic,224,zhab1238,101.058397,30.538892,Huang1992
-MbarkhamsSitu,MaerkangrGyalrong,Mbarkhams Situ,rGyalrongic,225,situ1238,102.295293,31.868614,Huang1992
+MbarkhamsSitu,MaerkangrGyalrong,Mbarkhams Situ,Rgyalrongic,225,situ1238,102.295293,31.868614,Huang1992
 KangdingMinyag,MuyaKangding,Kangding Minyag,Qiangic,273,west2417,101.962819,30.055673,Huang1992
 PengbuxiMinyag,MenyaGao,Pengbuxi Minyag,Qiangic,,west2417,101.53514,29.762152,Gao2015
 OldBurmese,OldBurmese,Old Burmese,Burmish,259,oldb1235,96.595184,21.461103,
