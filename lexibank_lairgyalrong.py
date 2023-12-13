@@ -40,7 +40,22 @@ class Dataset(BaseDataset):
     lexeme_class = CustomLexeme
 
     def cmd_download(self, args):
-        data = fetch("rgyalrong", base_url="https://lingulist.de/edev")
+        data = fetch(
+                "rgyalrong", base_url="https://lingulist.de/edev",
+                columns=[
+                    "DOCULECT",
+                    "CONCEPT",
+                    "VALUE",
+                    "FORM",
+                    "TOKENS",
+                    "MORPHEMES",
+                    "COGIDS",
+                    "COGID",
+                    "ALIGNMENT",
+                    "BORROWING",
+                    "ID_IN_SOURCE",
+                    "NOTE"
+                    ])
         with open(self.raw_dir / "wordlist.tsv", "w") as f:
             f.write(data)
 
