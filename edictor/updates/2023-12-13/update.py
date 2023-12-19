@@ -52,6 +52,8 @@ for idx, doculect in lex.iter_rows("doculect"):
     lex[idx, "doculect"] = languages[doculect]["Name"]
 
 lex.output('tsv', filename="new_data", ignore="all", prettify=False)
-lex = Wordlist("new_data.tsv")
+lex = LexiBase("new_data.tsv")
+lex.db = "lairgyalrong.sqlite3"
 table = [(k, v, v / lex.height) for k, v in lex.coverage().items()]
 print(tabulate(table, tablefmt="pipe", headers=["Doculect", "Items", "Coverage"]))
+lex.create("lairgyalrong")
