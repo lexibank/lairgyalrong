@@ -11,5 +11,4 @@ def test_parameters(cldf_dataset):
 
 
 def test_sources(cldf_dataset):
-    assert len(cldf_dataset.sources) == 22
-
+    assert len(cldf_dataset.sources) == 15
