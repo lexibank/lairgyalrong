@@ -5,8 +5,20 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Yunfan Lai"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
