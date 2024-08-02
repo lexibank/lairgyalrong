@@ -13,9 +13,9 @@ property | value
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Lai-2023-291</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://github.com/lexibank/lairgyalrong
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lingpy/rgyalrong-analysis
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lingpy/rgyalrong-analysis/tree/5e6bf04">lingpy/rgyalrong-analysis 5e6bf04</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/752511c9">Concepticon v3.1.0-51-g752511c9</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.16</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/lairgyalrong
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/lairgyalrong/tree/916deea">lexibank/lairgyalrong v0.2-10-g916deea</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | lairgyalrong
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -65,8 +65,8 @@ Name/Property | Datatype | Description
 `Glottolog_Name` | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
 [Macroarea](http://cldf.clld.org/v1.0/terms.rdf#macroarea) | `string` | 
-[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
-[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
+[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal`<br>&ge; -90<br>&le; 90 | 
+[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
 `LookupName` | `string` | 
 `SubGroup` | `string` | 

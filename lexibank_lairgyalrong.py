@@ -3,21 +3,20 @@ from pathlib import Path
 
 from pylexibank import Concept, Language, Lexeme
 from pylexibank import Dataset as BaseDataset
-from pylexibank.util import progressbar, getEvoBibAsBibtex
+from pylexibank.util import progressbar
 
 from clldutils.misc import slug
 
-import lingpy
-from lingpy.sequence.sound_classes import syllabify
 from pyedictor import fetch
 from lingpy import Wordlist, basictypes
+
 
 @attr.s
 class CustomConcept(Concept):
     Huang_1992_1820_ID = attr.ib(default=None)
     Number = attr.ib(default=None)
     Lexibank_Gloss = attr.ib(default=None)
-    
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -38,8 +37,9 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
-    def cmd_download(self, args):
+    def cmd_download(self, _):
         data = fetch(
                 "rgyalrong", base_url="https://lingulist.de/edev",
                 columns=[
@@ -103,9 +103,3 @@ class Dataset(BaseDataset):
                             Partial_Cognacy=str(basictypes.ints(wl[idx, "cogids"])),
                             Source=sources[wl[idx, "doculect"]]
                             )
-                #else:
-                #    args.log.info("ignoring concept {0}".format(wl[idx, "concept"]))
-
-
-                
-

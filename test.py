@@ -7,9 +7,8 @@ def test_languages(cldf_dataset):
 
 
 def test_parameters(cldf_dataset):
-    assert len(list(cldf_dataset['ParameterTable'])) == 305
+    assert len(list(cldf_dataset['ParameterTable'])) == 291
 
 
 def test_sources(cldf_dataset):
-    assert len(cldf_dataset.sources) == 22
-
+    assert len(cldf_dataset.sources) == 16

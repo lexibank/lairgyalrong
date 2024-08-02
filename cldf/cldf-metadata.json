@@ -12,30 +12,30 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Lai and List's \"Comparison of Rgyalrongic Languages\" from 2023",
-    "dcat:accessURL": "https://github.com/lingpy/rgyalrong-analysis",
+    "dcat:accessURL": "https://github.com/lexibank/lairgyalrong",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lingpy/rgyalrong-analysis",
+            "rdf:about": "https://github.com/lexibank/lairgyalrong",
             "rdf:type": "prov:Entity",
-            "dc:created": "5e6bf04",
+            "dc:created": "v0.2-10-g916deea",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0-51-g752511c9",
+            "dc:created": "v3.2.0",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.3.0",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.16"
+            "dc:description": "3.12.4"
         },
         {
             "dc:title": "python-packages",
