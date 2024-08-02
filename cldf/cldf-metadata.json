@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lairgyalrong",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-8-g3ba2306",
+            "dc:created": "v0.2-9-g824e019",
             "dc:title": "Repository"
         },
         {
@@ -165,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 29,
+            "dc:extent": 22,
             "tableSchema": {
                 "columns": [
                     {

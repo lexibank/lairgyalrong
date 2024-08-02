@@ -37,6 +37,7 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_download(self, _):
         data = fetch(
