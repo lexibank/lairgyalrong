@@ -44,14 +44,14 @@ With this link, you can browse the data in the EDICTOR tool online (without bein
 [![CLDF validation](https://github.com/lexibank/lairgyalrong/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lairgyalrong/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 86%](https://img.shields.io/badge/Source-86%25-yellowgreen.svg "Source: 86%")
+![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 22 (linked to 18 different Glottocodes)
 - **Concepts:** 291 (linked to 291 different Concepticon concept sets)
 - **Lexemes:** 6,321
-- **Sources:** 15
+- **Sources:** 16
 - **Synonymy:** 1.10
 - **Invalid lexemes:** 0
 - **Tokens:** 29,381
@@ -62,7 +62,7 @@ With this link, you can browse the data in the EDICTOR tool online (without bein
 
 
 
-- Entries missing sources: 895/6321 (14.16%)
+- Entries missing sources: 567/6321 (8.97%)
 
 # Contributors
 
