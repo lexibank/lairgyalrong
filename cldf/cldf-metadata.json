@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/lairgyalrong",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-10-g916deea",
+            "dc:created": "v0.3",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
