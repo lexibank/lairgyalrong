@@ -48,7 +48,7 @@ With this link, you can browse the data in the EDICTOR tool online (without bein
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 22 (linked to 18 different Glottocodes)
+- **Varieties:** 22 (linked to 17 different Glottocodes)
 - **Concepts:** 291 (linked to 291 different Concepticon concept sets)
 - **Lexemes:** 6,321
 - **Sources:** 16
